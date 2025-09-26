@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*    nav_0001_position.xml
+'*    Copyright (c) Websoft, 2007.  All rights reserved.
+--><params>
+    <object>
+        <label>Указатель позиции</label>
+        <width>200</width>
+        <height>20</height>
+        <description>Указатель позиции</description>
+		<state_extension>false</state_extension>
+    </object>
+    <page name="Основные" w="320" h="170">
+		<param type="label" id="lab_display_type" text="Тип показа" def="" x="10" y="10" w="120" h="11"/>
+		<param type="select" id="display_type" text="" def="plain" x="130" y="8" w="180" h="13">
+			<items>
+				<item id="plain" label="С разделителем">
+					<events>
+						<event name="selendok" target="lab_position_text" action="show"/>
+						<event name="selendok" target="position_text" action="show"/>
+						<event name="selendok" target="lab_position_divider" action="show"/>
+						<event name="selendok" target="position_divider" action="show"/>
+						<event name="selendok" target="lab_text_sub_module" action="hide"/>
+						<event name="selendok" target="text_sub_module" action="hide"/>
+						<event name="selendok" target="lab_text_sub_chapter" action="hide"/>
+						<event name="selendok" target="text_sub_chapter" action="hide"/>
+						<event name="selendok" target="lab_text_sub_all" action="hide"/>
+						<event name="selendok" target="text_sub_all" action="hide"/>
+						<event name="selendok" target="lab_text_sub_alternative" action="hide"/>
+					</events>
+				</item>
+				<item id="sub_module" label="Подстановка, весь модуль">
+					<events>
+						<event name="selendok" target="lab_position_text" action="hide"/>
+						<event name="selendok" target="position_text" action="hide"/>
+						<event name="selendok" target="lab_position_divider" action="hide"/>
+						<event name="selendok" target="position_divider" action="hide"/>
+						<event name="selendok" target="lab_text_sub_module" action="show"/>
+						<event name="selendok" target="text_sub_module" action="show"/>
+						<event name="selendok" target="lab_text_sub_chapter" action="hide"/>
+						<event name="selendok" target="text_sub_chapter" action="hide"/>
+						<event name="selendok" target="lab_text_sub_all" action="hide"/>
+						<event name="selendok" target="text_sub_all" action="hide"/>
+						<event name="selendok" target="lab_text_sub_alternative" action="hide"/>
+					</events>
+				</item>
+				<item id="sub_chapter" label="Подстановка, раздел">
+					<events>
+						<event name="selendok" target="lab_position_text" action="hide"/>
+						<event name="selendok" target="position_text" action="hide"/>
+						<event name="selendok" target="lab_position_divider" action="hide"/>
+						<event name="selendok" target="position_divider" action="hide"/>
+						<event name="selendok" target="lab_text_sub_module" action="hide"/>
+						<event name="selendok" target="text_sub_module" action="hide"/>
+						<event name="selendok" target="lab_text_sub_chapter" action="show"/>
+						<event name="selendok" target="text_sub_chapter" action="show"/>
+						<event name="selendok" target="lab_text_sub_all" action="hide"/>
+						<event name="selendok" target="text_sub_all" action="hide"/>
+						<event name="selendok" target="lab_text_sub_alternative" action="show"/>
+					</events>
+				</item>
+				<item id="sub_all" label="Подстановка, раздел и модуль">
+					<events>
+						<event name="selendok" target="lab_position_text" action="hide"/>
+						<event name="selendok" target="position_text" action="hide"/>
+						<event name="selendok" target="lab_position_divider" action="hide"/>
+						<event name="selendok" target="position_divider" action="hide"/>
+						<event name="selendok" target="lab_text_sub_module" action="hide"/>
+						<event name="selendok" target="text_sub_module" action="hide"/>
+						<event name="selendok" target="lab_text_sub_chapter" action="hide"/>
+						<event name="selendok" target="text_sub_chapter" action="hide"/>
+						<event name="selendok" target="lab_text_sub_all" action="show"/>
+						<event name="selendok" target="text_sub_all" action="show"/>
+						<event name="selendok" target="lab_text_sub_alternative" action="show"/>
+					</events>
+				</item>
+			</items>
+		</param>
+
+		<param type="label" id="lab_position_text" text="Текст" x="10" y="26" w="120" h="13"/>
+        <param type="edit" id="position_text" text="" def="ПОЗИЦИЯ:" x="130" y="24" w="180" h="13"/>
+        <param type="label" id="lab_position_divider" text="Разделитель" x="10" y="42" w="120" h="13"/>
+        <param type="edit" id="position_divider" text="" def="/" x="130" y="40" w="180" h="13"/>
+
+		<param type="label" id="lab_text_sub_module" text="Текст c подстановками" x="10" y="26" w="120" h="13"/>
+        <param type="edit" id="text_sub_module" text="" def="Слайд {{N}} из {{M}}" x="130" y="24" w="180" h="13"/>
+
+		<param type="label" id="lab_text_sub_chapter" text="Текст c подстановками" x="10" y="26" w="120" h="13"/>
+        <param type="edit" id="text_sub_chapter" text="" def="Слайд {{X}} из {{Y}}" x="130" y="24" w="180" h="13"/>
+
+		<param type="label" id="lab_text_sub_all" text="Текст c подстановками" x="10" y="26" w="120" h="13"/>
+        <param type="edit" id="text_sub_all" text="" def="Слайд {{X}} из {{Y}} ({{N}} из {{M}})" x="130" y="24" w="180" h="13"/>
+
+		<param type="label" id="lab_text_sub_alternative" text="* Если определен объект Путь обучения" x="130" y="40" w="180" h="13"/>
+
+		<param type="line" id="LINE_font_1" text="" def="" x="5" y="62" w="310" h="94"/>
+		<param type="line" id="LINE_font_2" text="" def="" x="5" y="78" w="310" h="78"/>
+		<param type="label" id="lab_font" text="Шрифт" x="15" y="66" w="120" h="11"/>
+
+		<param type="select" id="font" text="" def="robotoblack" x="15" y="86" w="113" h="13">
+			<items>
+				<item id="Arial" label="Arial">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="ArialBlack" label="Arial Black">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="ArialNarrow" label="Arial Narrow">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="ComicSansMS" label="Comic Sans MS">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="CourierNew" label="Courier New">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Georgia" label="Georgia">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Impact" label="Impact">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="LucidaConsole" label="Lucida Console">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="LucidaSansUnicode" label="Lucida Sans Unicode">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Palatino" label="Palatino">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Tahoma" label="Tahoma">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Times" label="Times New Roman">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="TrebuchetMS" label="Trebuchet MS">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Verdana" label="Verdana">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="clear_sans_lightregular" label="WF Clear Sans Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="clear_sans_mediumregular" label="WF Clear Sans Medium">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="clear_sansregular" label="WF Clear Sans Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="clear_sans_thinregular" label="WF Clear Sans Thin">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="droid_sans_monoregular" label="WF Droid Sans Mono">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="droid_sansregular" label="WF Droid Sans Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="droid_serifregular" label="WF Droid Serif Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Fira_Mono" label="WF Fira Mono">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Fira_Sans" label="WF Fira Sans">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="FiraSansLight" label="WF Fira Sans Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="FiraSansMedium" label="WF Fira Sans Medium">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Fregat_Sans" label="WF Fregat Sans">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="Lato_Sans" label="WF Lato Sans">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="LatoSansLight" label="WF Lato Sans Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="nerisblack" label="WF Neris Black">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="nerislight" label="WF Neris Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="nerissemibold" label="WF Neris SemiBold">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="neristhin" label="WF Neris Thin">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="noto_sansregular" label="WF Noto Sans Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="noto_serifregular" label="WF Noto Serif Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="open_sanscondensed_light" label="WF Open Sans Condensed Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="open_sansextrabold" label="WF Open Sans Extra Bold">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="open_sanslight" label="WF Open Sans Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="open_sansregular" label="WF Open Sans Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="open_sanssemibold" label="WF Open Sans SemiBold">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="permiansanstypefaceregular" label="WF Permian Sans Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="permianseriftypefaceregular" label="WF Permian Serif Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="permianslabseriftypefaceRg" label="WF Permian Slab Serif Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="robotoblack" label="WF Roboto Black">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="roboto_condensedregular" label="WF Roboto Condensed">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="roboto_condensedlight" label="WF Roboto Condensed Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="robotolight" label="WF Roboto Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="robotomedium" label="WF Roboto Medium">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="robotoregular" label="WF Roboto Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="robotothin" label="WF Roboto Thin">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="roboto_slablight" label="WF Roboto Slab Light">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="roboto_slabregular" label="WF Roboto Slab Regular">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="roboto_slabthin" label="WF Roboto Slab Thin">
+					<events>
+						<event name="selendok" target="font_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="font_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="edit" id="font_custom" text="" def="" x="130" y="86" w="175" h="13"/>
+
+		<param type="label" id="lab_font_style" text="Стиль, размер" def="" x="15" y="104" w="115" h="11"/>
+		<param type="select" id="font_style" text="" def="normal" x="130" y="102" w="118" h="13">
+			<items>
+				<item id="normal" label="Обычный"/>
+				<item id="bold" label="Жирный"/>
+				<item id="italic" label="Курсив"/>
+				<item id="bolditalic" label="Курсив жирный"/>
+			</items>
+		</param>
+		<param type="spinner" id="font_size" text="" def="14" x="250" y="102" w="32" h="13" min="1" max="100"/>
+		<param type="label" id="lab_font_size2" text="пкс" x="285" y="104" w="25" h="11"/>
+
+		<param type="label" id="lab_text_shadow_strength" text="Тень" def="" x="15" y="120" w="115" h="11"/>
+		<param type="select" id="text_shadow_strength" text="" def="normal" x="130" y="118" w="118" h="13">
+			<items>
+				<item id="none" label="Без тени">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="disable"/>
+					</events>
+				</item>
+				<item id="extralight" label="Очень слабая">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="enable"/>
+					</events>
+				</item>
+				<item id="light" label="Слабая">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="enable"/>
+					</events>
+				</item>
+				<item id="normal" label="Нормальная">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="enable"/>
+					</events>
+				</item>
+				<item id="dark" label="Интенсивная">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="enable"/>
+					</events>
+				</item>
+				<item id="extradark" label="Очень интенсивная">
+					<events>
+						<event name="selendok" target="text_shadow_color" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="color" id="text_shadow_color" text="" def="#FFFFFF" x="250" y="118" w="40" h="13"/>
+
+		<param type="label" id="lab_font_color" text="Цвет" def="" x="15" y="136" w="115" h="11"/>
+		<param type="color" id="font_color" text="" def="#004080" x="130" y="134" w="40" h="13"/>
+
+    </page>
+    <methods>
+        <method name="Constructor" label="_Constructor" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				oCurObj.data =
+				{
+					iSlideNum: 0,
+					jChapterNumber: [],
+					jChapterTotal: [],
+					jNumber: [],
+					jTotal: [],
+					sDisplayType: oCurObj.jxParams.children("display_type").text(),
+					sSlideId: ""
+				};
+				switch(oCurObj.data.sDisplayType)
+				{
+					case "plain":
+					{
+						oCurObj.data.jNumber = jCurObjDiv.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jCurObjDiv.find("[cl-role='slide-total']");
+						oCurObj.data.jTotal.html(CL.oPath._GetLength());
+						break;
+					}
+					case "sub_module":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>') );
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+					case "sub_chapter":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						break;
+					}
+					case "sub_all":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>').split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+				}
+				if(oCurObj.data.jTotal.length!=0)
+				{
+					oCurObj.data.jTotal.html(CL.oPath._GetLength());
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" } ] });
+				return true;
+			}]]>
+            </body>
+        </method>
+        <method name="HandleEvt" label="_HandleEvt" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HandleEvt(oEvtHandler)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.div==null) return false;
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							CLO[argobj.pid].CallMethod({ sMethod: "Update" });
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+        <method name="Update" label="_Update" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Update(argobj)
+			{
+				if(argobj.pid==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.data.jNumber.length!=0)
+				{
+					oCurObj.data.jNumber.html(CL.oPath._GetSlideNumber());
+				}
+				if(oCurObj.data.jChapterNumber.length!=0)
+				{
+					oCurObj.data.jChapterNumber.html(CL.oPath._GetSlideNumber({ bChapter: true }));
+				}
+				if(oCurObj.data.jChapterTotal.length!=0)
+				{
+					oCurObj.data.jChapterTotal.html(CL.oPath._GetLength({ bChapter: true }));
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+        <method name="GetProperty" label="_GetProperty" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				if(CLO[argobj.pid]==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "currentposition":
+					{
+						return CLO[argobj.pid].data.iSlideNum;
+					}
+				}
+				return true;
+			}]]>
+            </body>
+        </method>
+    </methods>
+</params>

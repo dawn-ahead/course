@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Module file, saved 9/23/2025 1:03:43 PM by galic using CourseLab 240108 -->
+<module format="3.5 240108" rev="2" slideWidth="1080" slideHeight="720" template="" file="D:\важное\Курс\1\1.xml">
+<font face="Munchkin" style="1" size="18" color="#000000"/>
+<default_text></default_text>
+<newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
+<import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<nextidentity slide="0" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<moduleColors>
+<color>996600</color>
+<color>cc9900</color>
+<color>ffcc00</color>
+<color>ffff00</color>
+<color>ffff99</color>
+<color>ffdb9d</color>
+<color>ffcc66</color>
+<color>ff9933</color>
+<color>ff794b</color>
+<color>ff3300</color>
+<color>990000</color>
+<color>333366</color>
+<color>003399</color>
+<color>0066cc</color>
+<color>0083d7</color>
+<color>0099ff</color>
+<color>3e9ade</color>
+<color>99ccff</color>
+<color>b4e2ff</color>
+<color>deffff</color>
+<color>ffccff</color>
+<color>ccccff</color>
+<color>9999ff</color>
+<color>6666cc</color>
+<color>9999cc</color>
+<color>666699</color>
+<color>006600</color>
+<color>009900</color>
+<color>66cc33</color>
+<color>99ff66</color>
+<color>ccffcc</color>
+</moduleColors>
+<slides>
+<slide guid="5742394f_fbe0_4b86_8be6_f7c9a97c023b" id="SLIDE_MASTER" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="15551caf_0212_455d_9576_cd6123552276" id="FRAME_4" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="40be4f38_bb23_4ae3_9aeb_a411bbc9c22d" id="IMG_5" label="Картинка 1" expanded="yes" left="0" top="0" width="1080" height="720" alpha="85" display="frame" begin="0">
+<src>images\i.jpg</src>
+</object>
+<object type="div" guid="9ed6d2be_8550_49d9_8d1c_7b5e337493bb" id="MD1_HELP" label="" expanded="yes" left="6" top="6" width="1006" height="591" display="frame" begin="0" hide_design="1">
+<template>nav_0002_navi_win</template>
+<design_content><![CDATA[<style  >
+		.cl-container { width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px; }
+		.cl-body { left: 0; top: 0;width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px; padding: 10px; border: 2px solid #303473; border-radius: 10px;
+		background-color: #FFFFFF;
+		-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.cl-body-header { padding: 0 0 10px 0; margin: 0 40px 0 0; }
+		.cl-body-contents { position: relative; padding: 0; overflow: auto; margin: 0; }
+		.cl-body-contents-richtext { padding: 0 5px; overflow: auto; height: 1px; }
+
+		.slide-list { list-style: none; padding: 0; margin: 0; }
+		.slide-list li { padding: 5px 5px 5px 0; margin: 0; border-top: solid 1px #ccc; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	 }
+		.slide-list:last-child { border-bottom: solid 1px #ccc; }
+		.slide-list .indent { margin: 0; padding: 0 0 0 15px; }
+		.slide-list .indent-1 .indent { margin: 0 0 0 10px; }
+		.slide-list .item-inner { padding: 2px 0 0 20px; min-height: 16px; }
+		.open .indent {  }
+		.closed .indent {  }
+		.visited { background-color: #FFFFFF; color: #004080; }
+		.current { background-color: #EEEEEE; color: #000000; }
+		.unvisited { background-color: #FFFFFF; color: #999999; }
+		.visited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px 0px; background-repeat: no-repeat; }
+		.current .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -400px; background-repeat: no-repeat; }
+		.unvisited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-search-table .cl-td-param { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 10px;
+	 }
+		.cl-search-table select { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; }
+		.cl-search-field { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;
+		border-radius: 5px; color: #666666; background-color: #FFFFFF; }
+		.cl-search-btn { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; color: #666666; background-color: #CCCCCC; 
+		background-image: linear-gradient(0deg, #CCCCCC, #FFFFFF);
+	 }
+
+		.cl-doc-list .cl-doc-item-inner { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	 background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-letters-box { border-bottom: solid 2px #FFFFFF; }
+		.cl-letter-item { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif; font-size: 9px; }
+		.cl-letter-idle { background-color: #EEEEEE; border-color: #000000; color: #000000; }
+		.cl-letter-selected { background-color: #336699; border-color: #FFFFFF; color: #FFFFFF; }
+		.cl-terms-list-cell { width: 30%; overflow-x: hidden;   }
+		.cl-terms-desc { width: 70%; overflow-y: auto; }
+		.cl-terms-desc-container { padding: 10px; }
+		.cl-terms-list { font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-item { padding: 5px; border-width: 1px; border-style: solid;border-radius: 5px 0 0 5px;;font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-idle { background-color: #EEEEEE;
+		border-color: #000000; color: #000000;
+	 }
+		.cl-term-selected { background-color: #336699;
+		border-color: #FFFFFF; color: #FFFFFF;
+	 }
+		.cl-term-desc-item { display: block; }
+		.cl-terms-list-container { overflow-y: auto; }
+
+		.cl-sett-tip { padding: 5px 0; }
+		.cl-sett-table td { padding: 5px; font-family: Arial,'Helvetica Neue',Helvetica,sans-serif;
+		font-size: 11px;
+	 }
+		.cl-sett-table .cl-sett-header { padding: 10px 0; }
+		.cl-sett-table .cl-sett-th { border-top-width: 1px; border-top-style: solid; border-top-color: #CCCCCC;border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-value { text-align: center; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-name { text-align: left; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		
+			.cl-sett-status-n { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px 3px; background-repeat: no-repeat; }
+			.cl-sett-status-i { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -397px; background-repeat: no-repeat; }
+			.cl-sett-status-c { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -797px; background-repeat: no-repeat; }
+			.cl-sett-status-p { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1197px; background-repeat: no-repeat; }
+			.cl-sett-status-f { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1597px; background-repeat: no-repeat; }
+			.cl-sett-status-u { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden;  }
+		
+		.cl-close-btn { padding: 0 0 10px 0; width: 20px; height: 20px; line-height: 0.75; text-align: center; position: absolute; top: 10px; right: 10px; font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #303473;  }
+	</style><div class="clo-nav_0002_navi_win"  ><div id="MD1_HELP_CONTAINER" class="cl-container"><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Помощь</span></span></p></div><div class="cl-btn cl-close-btn">
+					×
+				</div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-family: Verdana;font-size: 18px; color: #000000;"></span></div></div></div></div><script  >function Adjust()
+	{
+		var sRole = 'richtext';
+		var iPadding = parseInt('10', 10);
+		var iBorder = parseInt('2', 10);
+		var iFullH = parseInt('591', 10);
+		var aHeader = document.getElementsByClassName("cl-body-header");
+		var iHH = 0;
+		if(aHeader.length!=0)
+		{
+			iHH = parseInt(aHeader[0].offsetHeight, 10);
+		}
+		iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+		document.getElementsByClassName("cl-body-contents")[0].style.height = iH + "px";
+		if(sRole=="glossary")
+		{
+			if(document.getElementsByClassName("cl-letters-box").length!=0)
+			{
+				var iMaxW = -1;
+				var aLetters = document.getElementsByClassName("cl-letter-item");
+				var iCnt = 0;
+				var iW;
+				while(aLetters[iCnt]!=null)
+				{
+					iW = parseInt(window.getComputedStyle(aLetters[iCnt], null).getPropertyValue("width"), 10);
+					if(Math.abs(iMaxW-iW)!=(iMaxW-iW))
+					{
+						iMaxW = iW;
+					}
+					iCnt++;
+				}
+				iCnt = 0;
+				while(aLetters[iCnt]!=null)
+				{
+					aLetters[iCnt].style.width = iMaxW + "px";
+					iCnt++;
+				}
+				iHH = document.getElementsByClassName("cl-letters-box")[0].offsetHeight;
+				iH = iH - iHH;
+			}
+			document.getElementsByClassName("cl-terms-list-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc")[0].style.height = iH + "px";
+			iH -= 2*iPadding;
+			document.getElementsByClassName("cl-terms-desc-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-table")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-cell")[0].style.height = iH + "px";
+		}
+	}</script>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none"  ><div class="rule" data-name="#MD1_HELP .cl-container"><span class="rule-static">width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px;</span></div><div class="rule" data-name="#MD1_HELP .cl-body"><span class="rule-static">left: 0; top: 0;width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px;padding: 10px; border: 2px solid #303473; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#MD1_HELP .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#MD1_HELP .cl-close-btn"><span class="rule-static"> top: 10px; right: 10px; color: #303473;</span></div></div><div id="MD1_HELP_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Помощь</span></span></p></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-richtext"><span style="font-family: Verdana;font-size: 18px; color: #000000;"></span></div></div></div>]]></export_content>
+<params>
+<hidden_slide_visited type="edit">Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current type="edit">Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited type="edit">Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed type="edit">Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open type="edit">Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title type="edit">Название цели</hidden_obj_title>
+<contenttype type="select">richtext</contenttype>
+<fs_richtext type="fieldset"></fs_richtext>
+<display_header_richtext type="check">yes</display_header_richtext>
+<header_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:open_sanssemibold,arial,sans-serif&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:rgb(0, 0, 0); font-size:18px&amp;quot;&amp;gt;Помощь&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</header_richtext>
+<panel_text_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</panel_text_richtext>
+<fs_contents type="fieldset"></fs_contents>
+<display_header_contents type="check">yes</display_header_contents>
+<header_contents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Содержание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_contents>
+<fs_search type="fieldset"></fs_search>
+<display_header_search type="check">yes</display_header_search>
+<header_search type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Поиск&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_search>
+<search_tip type="check">yes</search_tip>
+<search_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</search_tip_text>
+<search_case type="select">no_user</search_case>
+<search_logic type="select">OR_user</search_logic>
+<search_scope type="select">slide</search_scope>
+<search_return_format type="select">simple</search_return_format>
+<fs_glossary type="fieldset"></fs_glossary>
+<display_header_glossary type="check">yes</display_header_glossary>
+<header_glossary type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Словарь&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_glossary>
+<glossary_item_list type="list"></glossary_item_list>
+<fs_documents type="fieldset"></fs_documents>
+<display_header_documents type="check">yes</display_header_documents>
+<header_documents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Документы&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_documents>
+<doc_list type="list"></doc_list>
+<fs_settings type="fieldset"></fs_settings>
+<display_header_settings type="check">yes</display_header_settings>
+<header_settings type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Параметры&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_settings>
+<settings_tip type="check">yes</settings_tip>
+<settings_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</settings_tip_text>
+<settings_display type="select">main</settings_display>
+<mainobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Главная цель модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</mainobj_text>
+<allobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Цели модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</allobj_text>
+<score_style type="select">scaled</score_style>
+<fs_calculator type="fieldset"></fs_calculator>
+<display_header_calculator type="check">yes</display_header_calculator>
+<header_calculator type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Калькулятор&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_calculator>
+<display_calculator_desc type="check">no</display_calculator_desc>
+<calculator_desc type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</calculator_desc>
+<fs_comment type="fieldset"></fs_comment>
+<display_header_comment type="check">yes</display_header_comment>
+<header_comment type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Комментарий&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_comment>
+<comment_display type="select">text</comment_display>
+<no_comments type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Нет комментариев&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</no_comments>
+<tranin type="select">6</tranin>
+<durin type="time">800</durin>
+<tranout type="select">6</tranout>
+<durout type="time">800</durout>
+<nav_lock type="check">yes</nav_lock>
+<modal type="check">yes</modal>
+<fs_contents_2 type="fieldset"></fs_contents_2>
+<slide_icons type="select">standard</slide_icons>
+<fs_slide_icons type="fieldset"></fs_slide_icons>
+<i1_img type="file"></i1_img>
+<i2_img type="file"></i2_img>
+<i3_img type="file"></i3_img>
+<hier_type type="select">none</hier_type>
+<fs_contents_hier_icons type="fieldset"></fs_contents_hier_icons>
+<h1_img type="file"></h1_img>
+<h2_img type="file"></h2_img>
+<fs_glossary_2 type="fieldset"></fs_glossary_2>
+<display_letters type="check">yes</display_letters>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<glossary_items_col_width type="spinner">30</glossary_items_col_width>
+<fs_settings_2 type="fieldset"></fs_settings_2>
+<settings_icons type="select">standard</settings_icons>
+<fs_icons_statuses type="fieldset"></fs_icons_statuses>
+<on_img type="file"></on_img>
+<oi_img type="file"></oi_img>
+<oc_img type="file"></oc_img>
+<ou_img type="file"></ou_img>
+<op_img type="file"></op_img>
+<of_img type="file"></of_img>
+<panel_padding type="spinner">10</panel_padding>
+<panel_bordercolor type="color">#303473</panel_bordercolor>
+<panel_borderwidth type="spinner">2</panel_borderwidth>
+<panel_radius type="spinner">10</panel_radius>
+<shadow_strength type="select">normal</shadow_strength>
+<panel_bgtype type="select">solid</panel_bgtype>
+<panel_bgcolor type="color">#FFFFFF</panel_bgcolor>
+<fs_panel_gradient type="fieldset"></fs_panel_gradient>
+<panel_gradientcolor type="color">#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img type="fieldset"></fs_panel_bg_img>
+<panel_bgimg type="file"></panel_bgimg>
+<panel_bgimg_repeat type="select">repeat</panel_bgimg_repeat>
+<panel_bgimg_position type="select">cm</panel_bgimg_position>
+<panel_bgimg_position_custom type="edit"></panel_bgimg_position_custom>
+<contenttype_style type="select">richtext</contenttype_style>
+<fs_style_none type="fieldset"></fs_style_none>
+<fs_basic_font type="fieldset"></fs_basic_font>
+<basic_font type="select">Arial</basic_font>
+<basic_font_custom type="edit"></basic_font_custom>
+<basic_font_style type="select">normal</basic_font_style>
+<basic_font_size type="spinner">11</basic_font_size>
+<fs_style_contents type="fieldset"></fs_style_contents>
+<allowed_fill_color type="color">#FFFFFF</allowed_fill_color>
+<allowed_font_color type="color">#004080</allowed_font_color>
+<current_fill_color type="color">#EEEEEE</current_fill_color>
+<current_font_color type="color">#000000</current_font_color>
+<forbidden_fill_color type="color">#FFFFFF</forbidden_fill_color>
+<forbidden_font_color type="color">#999999</forbidden_font_color>
+<item_padding type="spinner">5</item_padding>
+<fs_style_search type="fieldset"></fs_style_search>
+<search_input_border_style type="select">solid</search_input_border_style>
+<search_input_border_color type="color">#004080</search_input_border_color>
+<search_input_border_width type="spinner">1</search_input_border_width>
+<search_input_border_radius type="spinner">5</search_input_border_radius>
+<search_input_bg_color type="color">#FFFFFF</search_input_bg_color>
+<search_input_font_color type="color">#666666</search_input_font_color>
+<highlight_bg_color type="color">#FFEEDD</highlight_bg_color>
+<highlight_font_color type="color">#CC0000</highlight_font_color>
+<search_button_bg_color type="color">#CCCCCC</search_button_bg_color>
+<search_button_font_color type="color">#666666</search_button_font_color>
+<search_button_border_style type="select">solid</search_button_border_style>
+<search_button_border_color type="color">#004080</search_button_border_color>
+<search_button_border_width type="spinner">1</search_button_border_width>
+<search_button_border_radius type="spinner">5</search_button_border_radius>
+<fs_style_glossary type="fieldset"></fs_style_glossary>
+<gloss_border_style type="select">solid</gloss_border_style>
+<gloss_border_width type="spinner">1</gloss_border_width>
+<gloss_border_radius type="spinner">5</gloss_border_radius>
+<gloss_padding type="spinner">5</gloss_padding>
+<gloss_fill_type type="select">solid</gloss_fill_type>
+<gloss_font_color_idle type="color">#000000</gloss_font_color_idle>
+<gloss_font_color_selected type="color">#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle type="color">#000000</gloss_border_color_idle>
+<gloss_border_color_selected type="color">#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle type="color">#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected type="color">#336699</gloss_bg_color_selected>
+<fs_gloss_gradient type="fieldset"></fs_gloss_gradient>
+<gloss_gradient_color_idle type="color">#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected type="color">#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img type="fieldset"></fs_gloss_img>
+<gloss_img_idle type="file"></gloss_img_idle>
+<gloss_img_selected type="file"></gloss_img_selected>
+<gloss_img_repeat type="select">repeat</gloss_img_repeat>
+<gloss_img_position type="select">cm</gloss_img_position>
+<gloss_img_position_custom type="edit"></gloss_img_position_custom>
+<fs_style_settings type="fieldset"></fs_style_settings>
+<sett_border_style type="select">solid</sett_border_style>
+<sett_border_width type="spinner">1</sett_border_width>
+<sett_border_color type="color">#CCCCCC</sett_border_color>
+<sett_padding type="spinner">5</sett_padding>
+<content_const type="select">richtext</content_const>
+<title_close type="edit">Закрыть окно</title_close>
+<fs_const_contents type="fieldset"></fs_const_contents>
+<msg_order_violation type="edit">Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_glossary type="fieldset"></fs_const_glossary>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<fs_const_search type="fieldset"></fs_const_search>
+<search_text_button type="edit">Искать</search_text_button>
+<search_text_logic type="edit">Искать включение:</search_text_logic>
+<search_text_OR type="edit">Любого из слов</search_text_OR>
+<search_text_AND type="edit">Всех слов</search_text_AND>
+<search_text_case type="edit">Регистр:</search_text_case>
+<search_text_case_no type="edit">не учитывать</search_text_case_no>
+<text_case_yes type="edit">учитывать</text_case_yes>
+<text_found type="edit">Найдено слайдов:</text_found>
+<text_notfound type="edit">Не найдено включений, соответствующих заданным условиям</text_notfound>
+<text_empty type="edit">Условие поиска пусто - нечего искать</text_empty>
+<fs_const_settings type="fieldset"></fs_const_settings>
+<obj_header type="edit">Цель</obj_header>
+<obj_score type="edit">Баллы</obj_score>
+<obj_cs type="edit">Заверш.</obj_cs>
+<obj_ss type="edit">Успех</obj_ss>
+<status_n type="edit">Не начато</status_n>
+<status_i type="edit">Не закончено</status_i>
+<status_c type="edit">Закончено</status_c>
+<status_u type="edit">Неизвестно</status_u>
+<status_p type="edit">Успешно</status_p>
+<status_f type="edit">Неуспешно</status_f>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+</object>
+<object type="div" guid="7fc93332_6931_434a_884a_7c6e78e53066" id="MD1_DOCS" label="" expanded="yes" left="-1" top="44" width="1074" height="591" display="frame" begin="0" hide_design="1">
+<template>nav_0002_navi_win</template>
+<design_content><![CDATA[<style  >
+		.cl-container { width: 1074px; height: 591px; min-width: 1074px; min-height: 591px; max-width: 1074px; max-height: 591px; }
+		.cl-body { left: 0; top: 0;width: 1074px; height: 591px; min-width: 1074px; min-height: 591px; max-width: 1074px; max-height: 591px; padding: 10px; border: 2px solid #303473; border-radius: 10px;
+		background-color: #FFFFFF;
+		-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.cl-body-header { padding: 0 0 10px 0; margin: 0 40px 0 0; }
+		.cl-body-contents { position: relative; padding: 0; overflow: auto; margin: 0; }
+		.cl-body-contents-richtext { padding: 0 5px; overflow: auto; height: 1px; }
+
+		.slide-list { list-style: none; padding: 0; margin: 0; }
+		.slide-list li { padding: 5px 5px 5px 0; margin: 0; border-top: solid 1px #ccc; font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.slide-list:last-child { border-bottom: solid 1px #ccc; }
+		.slide-list .indent { margin: 0; padding: 0 0 0 15px; }
+		.slide-list .indent-1 .indent { margin: 0 0 0 10px; }
+		.slide-list .item-inner { padding: 2px 0 0 20px; min-height: 16px; }
+		.open .indent {  }
+		.closed .indent {  }
+		.visited { background-color: #FFFFFF; color: #004080; }
+		.current { background-color: #EEEEEE; color: #000000; }
+		.unvisited { background-color: #FFFFFF; color: #999999; }
+		.visited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px 0px; background-repeat: no-repeat; }
+		.current .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -400px; background-repeat: no-repeat; }
+		.unvisited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-search-table .cl-td-param { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 10px;
+	 }
+		.cl-search-table select { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; }
+		.cl-search-field { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;
+		border-radius: 5px; color: #666666; background-color: #FFFFFF; }
+		.cl-search-btn { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; color: #666666; background-color: #CCCCCC; 
+		background-image: linear-gradient(0deg, #CCCCCC, #FFFFFF);
+	 }
+
+		.cl-doc-list .cl-doc-item-inner { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-letters-box { border-bottom: solid 2px #FFFFFF; }
+		.cl-letter-item { font-family: open_sansregular, Arial, sans-serif; font-size: 9px; }
+		.cl-letter-idle { background-color: #EEEEEE; border-color: #000000; color: #000000; }
+		.cl-letter-selected { background-color: #336699; border-color: #FFFFFF; color: #FFFFFF; }
+		.cl-terms-list-cell { width: 30%; overflow-x: hidden;   }
+		.cl-terms-desc { width: 70%; overflow-y: auto; }
+		.cl-terms-desc-container { padding: 10px; }
+		.cl-terms-list { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-item { padding: 5px; border-width: 1px; border-style: solid;border-radius: 5px 0 0 5px;;font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-idle { background-color: #EEEEEE;
+		border-color: #000000; color: #000000;
+	 }
+		.cl-term-selected { background-color: #336699;
+		border-color: #FFFFFF; color: #FFFFFF;
+	 }
+		.cl-term-desc-item { display: block; }
+		.cl-terms-list-container { overflow-y: auto; }
+
+		.cl-sett-tip { padding: 5px 0; }
+		.cl-sett-table td { padding: 5px; font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-sett-table .cl-sett-header { padding: 10px 0; }
+		.cl-sett-table .cl-sett-th { border-top-width: 1px; border-top-style: solid; border-top-color: #CCCCCC;border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-value { text-align: center; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-name { text-align: left; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		
+			.cl-sett-status-n { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px 3px; background-repeat: no-repeat; }
+			.cl-sett-status-i { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -397px; background-repeat: no-repeat; }
+			.cl-sett-status-c { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -797px; background-repeat: no-repeat; }
+			.cl-sett-status-p { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1197px; background-repeat: no-repeat; }
+			.cl-sett-status-f { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1597px; background-repeat: no-repeat; }
+			.cl-sett-status-u { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden;  }
+		
+		.cl-close-btn { padding: 0 0 10px 0; width: 20px; height: 20px; line-height: 0.75; text-align: center; position: absolute; top: 10px; right: 10px; font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #303473;  }
+	</style><div class="clo-nav_0002_navi_win"  ><div id="MD1_DOCS_CONTAINER" class="cl-container"><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Документы</span></span></p></div><div class="cl-btn cl-close-btn">
+					×
+				</div><div class="cl-body-contents cl-body-contents-documents"><ul class="cl-doc-list"></ul></div></div></div></div><script  >function Adjust()
+	{
+		var sRole = 'documents';
+		var iPadding = parseInt('10', 10);
+		var iBorder = parseInt('2', 10);
+		var iFullH = parseInt('591', 10);
+		var aHeader = document.getElementsByClassName("cl-body-header");
+		var iHH = 0;
+		if(aHeader.length!=0)
+		{
+			iHH = parseInt(aHeader[0].offsetHeight, 10);
+		}
+		iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+		document.getElementsByClassName("cl-body-contents")[0].style.height = iH + "px";
+		if(sRole=="glossary")
+		{
+			if(document.getElementsByClassName("cl-letters-box").length!=0)
+			{
+				var iMaxW = -1;
+				var aLetters = document.getElementsByClassName("cl-letter-item");
+				var iCnt = 0;
+				var iW;
+				while(aLetters[iCnt]!=null)
+				{
+					iW = parseInt(window.getComputedStyle(aLetters[iCnt], null).getPropertyValue("width"), 10);
+					if(Math.abs(iMaxW-iW)!=(iMaxW-iW))
+					{
+						iMaxW = iW;
+					}
+					iCnt++;
+				}
+				iCnt = 0;
+				while(aLetters[iCnt]!=null)
+				{
+					aLetters[iCnt].style.width = iMaxW + "px";
+					iCnt++;
+				}
+				iHH = document.getElementsByClassName("cl-letters-box")[0].offsetHeight;
+				iH = iH - iHH;
+			}
+			document.getElementsByClassName("cl-terms-list-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc")[0].style.height = iH + "px";
+			iH -= 2*iPadding;
+			document.getElementsByClassName("cl-terms-desc-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-table")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-cell")[0].style.height = iH + "px";
+		}
+	}</script>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none"  ><div class="rule" data-name="#MD1_DOCS .cl-container"><span class="rule-static">width: 1074px; height: 591px; min-width: 1074px; min-height: 591px; max-width: 1074px; max-height: 591px;</span></div><div class="rule" data-name="#MD1_DOCS .cl-body"><span class="rule-static">left: 0; top: 0;width: 1074px; height: 591px; min-width: 1074px; min-height: 591px; max-width: 1074px; max-height: 591px;padding: 10px; border: 2px solid #303473; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#MD1_DOCS .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#MD1_DOCS .cl-doc-list .cl-doc-item-inner"><span class="rule-static">font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MD1_DOCS .cl-close-btn"><span class="rule-static"> top: 10px; right: 10px; color: #303473;</span></div></div><div id="MD1_DOCS_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Документы</span></span></p></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-documents"><ul class="cl-doc-list"></ul></div></div></div>]]></export_content>
+<params>
+<hidden_slide_visited type="edit">Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current type="edit">Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited type="edit">Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed type="edit">Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open type="edit">Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title type="edit">Название цели</hidden_obj_title>
+<contenttype type="select">documents</contenttype>
+<fs_richtext type="fieldset"></fs_richtext>
+<display_header_richtext type="check">yes</display_header_richtext>
+<header_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#000000; font-family:verdana; font-size:18px&amp;quot;&amp;gt;Помощь&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</header_richtext>
+<panel_text_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</panel_text_richtext>
+<fs_contents type="fieldset"></fs_contents>
+<display_header_contents type="check">yes</display_header_contents>
+<header_contents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Содержание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_contents>
+<fs_search type="fieldset"></fs_search>
+<display_header_search type="check">yes</display_header_search>
+<header_search type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Поиск&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_search>
+<search_tip type="check">yes</search_tip>
+<search_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</search_tip_text>
+<search_case type="select">no_user</search_case>
+<search_logic type="select">OR_user</search_logic>
+<search_scope type="select">slide</search_scope>
+<search_return_format type="select">simple</search_return_format>
+<fs_glossary type="fieldset"></fs_glossary>
+<display_header_glossary type="check">yes</display_header_glossary>
+<header_glossary type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Словарь&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_glossary>
+<glossary_item_list type="list"></glossary_item_list>
+<fs_documents type="fieldset"></fs_documents>
+<display_header_documents type="check">yes</display_header_documents>
+<header_documents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:open_sanssemibold,arial,sans-serif&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:rgb(0, 0, 0); font-size:18px&amp;quot;&amp;gt;Документы&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</header_documents>
+<doc_list type="list"></doc_list>
+<fs_settings type="fieldset"></fs_settings>
+<display_header_settings type="check">yes</display_header_settings>
+<header_settings type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Параметры&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_settings>
+<settings_tip type="check">yes</settings_tip>
+<settings_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</settings_tip_text>
+<settings_display type="select">main</settings_display>
+<mainobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Главная цель модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</mainobj_text>
+<allobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Цели модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</allobj_text>
+<score_style type="select">scaled</score_style>
+<fs_calculator type="fieldset"></fs_calculator>
+<display_header_calculator type="check">yes</display_header_calculator>
+<header_calculator type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Калькулятор&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_calculator>
+<display_calculator_desc type="check">no</display_calculator_desc>
+<calculator_desc type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</calculator_desc>
+<fs_comment type="fieldset"></fs_comment>
+<display_header_comment type="check">yes</display_header_comment>
+<header_comment type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Комментарий&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_comment>
+<comment_display type="select">text</comment_display>
+<no_comments type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Нет комментариев&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</no_comments>
+<tranin type="select">6</tranin>
+<durin type="time">800</durin>
+<tranout type="select">6</tranout>
+<durout type="time">800</durout>
+<nav_lock type="check">yes</nav_lock>
+<modal type="check">yes</modal>
+<fs_contents_2 type="fieldset"></fs_contents_2>
+<slide_icons type="select">standard</slide_icons>
+<fs_slide_icons type="fieldset"></fs_slide_icons>
+<i1_img type="file"></i1_img>
+<i2_img type="file"></i2_img>
+<i3_img type="file"></i3_img>
+<hier_type type="select">none</hier_type>
+<fs_contents_hier_icons type="fieldset"></fs_contents_hier_icons>
+<h1_img type="file"></h1_img>
+<h2_img type="file"></h2_img>
+<fs_glossary_2 type="fieldset"></fs_glossary_2>
+<display_letters type="check">yes</display_letters>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<glossary_items_col_width type="spinner">30</glossary_items_col_width>
+<fs_settings_2 type="fieldset"></fs_settings_2>
+<settings_icons type="select">standard</settings_icons>
+<fs_icons_statuses type="fieldset"></fs_icons_statuses>
+<on_img type="file"></on_img>
+<oi_img type="file"></oi_img>
+<oc_img type="file"></oc_img>
+<ou_img type="file"></ou_img>
+<op_img type="file"></op_img>
+<of_img type="file"></of_img>
+<panel_padding type="spinner">10</panel_padding>
+<panel_bordercolor type="color">#303473</panel_bordercolor>
+<panel_borderwidth type="spinner">2</panel_borderwidth>
+<panel_radius type="spinner">10</panel_radius>
+<shadow_strength type="select">normal</shadow_strength>
+<panel_bgtype type="select">solid</panel_bgtype>
+<panel_bgcolor type="color">#FFFFFF</panel_bgcolor>
+<fs_panel_gradient type="fieldset"></fs_panel_gradient>
+<panel_gradientcolor type="color">#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img type="fieldset"></fs_panel_bg_img>
+<panel_bgimg type="file"></panel_bgimg>
+<panel_bgimg_repeat type="select">repeat</panel_bgimg_repeat>
+<panel_bgimg_position type="select">cm</panel_bgimg_position>
+<panel_bgimg_position_custom type="edit"></panel_bgimg_position_custom>
+<contenttype_style type="select">documents</contenttype_style>
+<fs_style_none type="fieldset"></fs_style_none>
+<fs_basic_font type="fieldset"></fs_basic_font>
+<basic_font type="select">open_sansregular</basic_font>
+<basic_font_custom type="edit"></basic_font_custom>
+<basic_font_style type="select">normal</basic_font_style>
+<basic_font_size type="spinner">11</basic_font_size>
+<fs_style_contents type="fieldset"></fs_style_contents>
+<allowed_fill_color type="color">#FFFFFF</allowed_fill_color>
+<allowed_font_color type="color">#004080</allowed_font_color>
+<current_fill_color type="color">#EEEEEE</current_fill_color>
+<current_font_color type="color">#000000</current_font_color>
+<forbidden_fill_color type="color">#FFFFFF</forbidden_fill_color>
+<forbidden_font_color type="color">#999999</forbidden_font_color>
+<item_padding type="spinner">5</item_padding>
+<fs_style_search type="fieldset"></fs_style_search>
+<search_input_border_style type="select">solid</search_input_border_style>
+<search_input_border_color type="color">#004080</search_input_border_color>
+<search_input_border_width type="spinner">1</search_input_border_width>
+<search_input_border_radius type="spinner">5</search_input_border_radius>
+<search_input_bg_color type="color">#FFFFFF</search_input_bg_color>
+<search_input_font_color type="color">#666666</search_input_font_color>
+<highlight_bg_color type="color">#FFEEDD</highlight_bg_color>
+<highlight_font_color type="color">#CC0000</highlight_font_color>
+<search_button_bg_color type="color">#CCCCCC</search_button_bg_color>
+<search_button_font_color type="color">#666666</search_button_font_color>
+<search_button_border_style type="select">solid</search_button_border_style>
+<search_button_border_color type="color">#004080</search_button_border_color>
+<search_button_border_width type="spinner">1</search_button_border_width>
+<search_button_border_radius type="spinner">5</search_button_border_radius>
+<fs_style_glossary type="fieldset"></fs_style_glossary>
+<gloss_border_style type="select">solid</gloss_border_style>
+<gloss_border_width type="spinner">1</gloss_border_width>
+<gloss_border_radius type="spinner">5</gloss_border_radius>
+<gloss_padding type="spinner">5</gloss_padding>
+<gloss_fill_type type="select">solid</gloss_fill_type>
+<gloss_font_color_idle type="color">#000000</gloss_font_color_idle>
+<gloss_font_color_selected type="color">#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle type="color">#000000</gloss_border_color_idle>
+<gloss_border_color_selected type="color">#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle type="color">#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected type="color">#336699</gloss_bg_color_selected>
+<fs_gloss_gradient type="fieldset"></fs_gloss_gradient>
+<gloss_gradient_color_idle type="color">#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected type="color">#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img type="fieldset"></fs_gloss_img>
+<gloss_img_idle type="file"></gloss_img_idle>
+<gloss_img_selected type="file"></gloss_img_selected>
+<gloss_img_repeat type="select">repeat</gloss_img_repeat>
+<gloss_img_position type="select">cm</gloss_img_position>
+<gloss_img_position_custom type="edit"></gloss_img_position_custom>
+<fs_style_settings type="fieldset"></fs_style_settings>
+<sett_border_style type="select">solid</sett_border_style>
+<sett_border_width type="spinner">1</sett_border_width>
+<sett_border_color type="color">#CCCCCC</sett_border_color>
+<sett_padding type="spinner">5</sett_padding>
+<content_const type="select">documents</content_const>
+<title_close type="edit">Закрыть окно</title_close>
+<fs_const_contents type="fieldset"></fs_const_contents>
+<msg_order_violation type="edit">Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_glossary type="fieldset"></fs_const_glossary>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<fs_const_search type="fieldset"></fs_const_search>
+<search_text_button type="edit">Искать</search_text_button>
+<search_text_logic type="edit">Искать включение:</search_text_logic>
+<search_text_OR type="edit">Любого из слов</search_text_OR>
+<search_text_AND type="edit">Всех слов</search_text_AND>
+<search_text_case type="edit">Регистр:</search_text_case>
+<search_text_case_no type="edit">не учитывать</search_text_case_no>
+<text_case_yes type="edit">учитывать</text_case_yes>
+<text_found type="edit">Найдено слайдов:</text_found>
+<text_notfound type="edit">Не найдено включений, соответствующих заданным условиям</text_notfound>
+<text_empty type="edit">Условие поиска пусто - нечего искать</text_empty>
+<fs_const_settings type="fieldset"></fs_const_settings>
+<obj_header type="edit">Цель</obj_header>
+<obj_score type="edit">Баллы</obj_score>
+<obj_cs type="edit">Заверш.</obj_cs>
+<obj_ss type="edit">Успех</obj_ss>
+<status_n type="edit">Не начато</status_n>
+<status_i type="edit">Не закончено</status_i>
+<status_c type="edit">Закончено</status_c>
+<status_u type="edit">Неизвестно</status_u>
+<status_p type="edit">Успешно</status_p>
+<status_f type="edit">Неуспешно</status_f>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+</object>
+<object type="div" guid="f6a776c6_5d4f_44b8_88ba_33444adb2b20" id="MD1_CONTENTS" label="" expanded="yes" left="6" top="6" width="1006" height="591" display="frame" begin="0" hide_design="1">
+<template>nav_0002_navi_win</template>
+<design_content><![CDATA[<style  >
+		.cl-container { width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px; }
+		.cl-body { left: 0; top: 0;width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px; padding: 10px; border: 2px solid #303473; border-radius: 10px;
+		background-color: #FFFFFF;
+		-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.cl-body-header { padding: 0 0 10px 0; margin: 0 40px 0 0; }
+		.cl-body-contents { position: relative; padding: 0; overflow: auto; margin: 0; }
+		.cl-body-contents-richtext { padding: 0 5px; overflow: auto; height: 1px; }
+
+		.slide-list { list-style: none; padding: 0; margin: 0; }
+		.slide-list li { padding: 5px 5px 5px 0; margin: 0; border-top: solid 1px #ccc; font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.slide-list:last-child { border-bottom: solid 1px #ccc; }
+		.slide-list .indent { margin: 0; padding: 0 0 0 15px; }
+		.slide-list .indent-1 .indent { margin: 0 0 0 10px; }
+		.slide-list .item-inner { padding: 2px 0 0 20px; min-height: 16px; }
+		.open .indent {  }
+		.closed .indent {  }
+		.visited { background-color: #FFFFFF; color: #004080; }
+		.current { background-color: #EEEEEE; color: #000000; }
+		.unvisited { background-color: #FFFFFF; color: #999999; }
+		.visited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px 0px; background-repeat: no-repeat; }
+		.current .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -400px; background-repeat: no-repeat; }
+		.unvisited .item-inner { background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-search-table .cl-td-param { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 10px;
+	 }
+		.cl-search-table select { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; }
+		.cl-search-field { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;
+		border-radius: 5px; color: #666666; background-color: #FFFFFF; }
+		.cl-search-btn { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	border-style: solid; border-color: #004080; border-width: 1px;-webkit-border-radius: 5px; border-radius: 5px; color: #666666; background-color: #CCCCCC; 
+		background-image: linear-gradient(0deg, #CCCCCC, #FFFFFF);
+	 }
+
+		.cl-doc-list .cl-doc-item-inner { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_contents_sprite.png'); background-position: 0px -800px; background-repeat: no-repeat; }
+
+		.cl-letters-box { border-bottom: solid 2px #FFFFFF; }
+		.cl-letter-item { font-family: open_sansregular, Arial, sans-serif; font-size: 9px; }
+		.cl-letter-idle { background-color: #EEEEEE; border-color: #000000; color: #000000; }
+		.cl-letter-selected { background-color: #336699; border-color: #FFFFFF; color: #FFFFFF; }
+		.cl-terms-list-cell { width: 30%; overflow-x: hidden;   }
+		.cl-terms-desc { width: 70%; overflow-y: auto; }
+		.cl-terms-desc-container { padding: 10px; }
+		.cl-terms-list { font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-item { padding: 5px; border-width: 1px; border-style: solid;border-radius: 5px 0 0 5px;;font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-term-idle { background-color: #EEEEEE;
+		border-color: #000000; color: #000000;
+	 }
+		.cl-term-selected { background-color: #336699;
+		border-color: #FFFFFF; color: #FFFFFF;
+	 }
+		.cl-term-desc-item { display: block; }
+		.cl-terms-list-container { overflow-y: auto; }
+
+		.cl-sett-tip { padding: 5px 0; }
+		.cl-sett-table td { padding: 5px; font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	 }
+		.cl-sett-table .cl-sett-header { padding: 10px 0; }
+		.cl-sett-table .cl-sett-th { border-top-width: 1px; border-top-style: solid; border-top-color: #CCCCCC;border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-value { text-align: center; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		.cl-sett-table .cl-sett-name { text-align: left; width: 100%; border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCCCCC; }
+		
+			.cl-sett-status-n { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px 3px; background-repeat: no-repeat; }
+			.cl-sett-status-i { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -397px; background-repeat: no-repeat; }
+			.cl-sett-status-c { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -797px; background-repeat: no-repeat; }
+			.cl-sett-status-p { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1197px; background-repeat: no-repeat; }
+			.cl-sett-status-f { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden; background-image: url('file:///D:/важное/Курс/1/images/nav_0002_navi_win/navi_tab_sett_sprite.png'); background-position: 0px -1597px; background-repeat: no-repeat; }
+			.cl-sett-status-u { position: relative; margin: 0 auto; width: 16px; height: 16px; overflow: hidden;  }
+		
+		.cl-close-btn { padding: 0 0 10px 0; width: 20px; height: 20px; line-height: 0.75; text-align: center; position: absolute; top: 10px; right: 10px; font-family: Arial, sans-serif; font-size: 28px; font-weight: bold; color: #303473;  }
+	</style><div class="clo-nav_0002_navi_win"  ><div id="MD1_CONTENTS_CONTAINER" class="cl-container"><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Содержание</span></span></p></div><div class="cl-btn cl-close-btn">
+					×
+				</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list"><li class="slide-item visited"><div class="indent"><div class="item-inner">Посещенный слайд</div></div></li><li class="slide-item current"><div class="indent"><div class="item-inner">Текущий слайд</div></div></li><li class="slide-item unvisited"><div class="indent"><div class="item-inner">Непосещенный слайд</div></div></li></ul></div></div></div></div><script  >function Adjust()
+	{
+		var sRole = 'contents';
+		var iPadding = parseInt('10', 10);
+		var iBorder = parseInt('2', 10);
+		var iFullH = parseInt('591', 10);
+		var aHeader = document.getElementsByClassName("cl-body-header");
+		var iHH = 0;
+		if(aHeader.length!=0)
+		{
+			iHH = parseInt(aHeader[0].offsetHeight, 10);
+		}
+		iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+		document.getElementsByClassName("cl-body-contents")[0].style.height = iH + "px";
+		if(sRole=="glossary")
+		{
+			if(document.getElementsByClassName("cl-letters-box").length!=0)
+			{
+				var iMaxW = -1;
+				var aLetters = document.getElementsByClassName("cl-letter-item");
+				var iCnt = 0;
+				var iW;
+				while(aLetters[iCnt]!=null)
+				{
+					iW = parseInt(window.getComputedStyle(aLetters[iCnt], null).getPropertyValue("width"), 10);
+					if(Math.abs(iMaxW-iW)!=(iMaxW-iW))
+					{
+						iMaxW = iW;
+					}
+					iCnt++;
+				}
+				iCnt = 0;
+				while(aLetters[iCnt]!=null)
+				{
+					aLetters[iCnt].style.width = iMaxW + "px";
+					iCnt++;
+				}
+				iHH = document.getElementsByClassName("cl-letters-box")[0].offsetHeight;
+				iH = iH - iHH;
+			}
+			document.getElementsByClassName("cl-terms-list-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc")[0].style.height = iH + "px";
+			iH -= 2*iPadding;
+			document.getElementsByClassName("cl-terms-desc-container")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-table")[0].style.height = iH + "px";
+			document.getElementsByClassName("cl-terms-desc-default-cell")[0].style.height = iH + "px";
+		}
+	}</script>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none"  ><div class="rule" data-name="#MD1_CONTENTS .cl-container"><span class="rule-static">width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px;</span></div><div class="rule" data-name="#MD1_CONTENTS .cl-body"><span class="rule-static">left: 0; top: 0;width: 1006px; height: 591px; min-width: 1006px; min-height: 591px; max-width: 1006px; max-height: 591px;padding: 10px; border: 2px solid #303473; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#MD1_CONTENTS .cl-body-header"><span class="rule-static">padding: 0 0 10px 0;</span></div><div class="rule" data-name="#MD1_CONTENTS .slide-list li"><span class="rule-static">padding: 5px 5px 5px 0; font-family: open_sansregular, Arial, sans-serif;
+		font-size: 11px;
+	</span></div><div class="rule" data-name="#MD1_CONTENTS .open .indent"><span class="rule-static"></span></div><div class="rule" data-name="#MD1_CONTENTS .closed .indent"><span class="rule-static"></span></div><div class="rule" data-name="#MD1_CONTENTS .allowed"><span class="rule-static">background-color: #FFFFFF; color: #004080;</span></div><div class="rule" data-name="#MD1_CONTENTS .current"><span class="rule-static">background-color: #EEEEEE; color: #000000;</span></div><div class="rule" data-name="#MD1_CONTENTS .forbidden"><span class="rule-static">background-color: #FFFFFF; color: #999999;</span></div><div class="rule" data-name="#MD1_CONTENTS .visited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px 0px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MD1_CONTENTS .current .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -400px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MD1_CONTENTS .unvisited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#MD1_CONTENTS .cl-close-btn"><span class="rule-static"> top: 10px; right: 10px; color: #303473;</span></div></div><div id="MD1_CONTENTS_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><p style="text-align: center;"><span style="font-family:open_sanssemibold,arial,sans-serif"><span style="color:rgb(0, 0, 0); font-size:18px">Содержание</span></span></p></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list" /><ul style="display: none;"><li class="slide-item-template"><div class="indent"><div class="item-inner">
+										.
+									</div></div></li></ul></div></div></div>]]></export_content>
+<params>
+<hidden_slide_visited type="edit">Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current type="edit">Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited type="edit">Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed type="edit">Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open type="edit">Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title type="edit">Название цели</hidden_obj_title>
+<contenttype type="select">contents</contenttype>
+<fs_richtext type="fieldset"></fs_richtext>
+<display_header_richtext type="check">yes</display_header_richtext>
+<header_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:#000000; font-family:verdana; font-size:18px&amp;quot;&amp;gt;Помощь&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</header_richtext>
+<panel_text_richtext type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</panel_text_richtext>
+<fs_contents type="fieldset"></fs_contents>
+<display_header_contents type="check">yes</display_header_contents>
+<header_contents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p style=&amp;quot;text-align: center;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:open_sanssemibold,arial,sans-serif&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;color:rgb(0, 0, 0); font-size:18px&amp;quot;&amp;gt;Содержание&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</header_contents>
+<fs_search type="fieldset"></fs_search>
+<display_header_search type="check">yes</display_header_search>
+<header_search type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Поиск&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_search>
+<search_tip type="check">yes</search_tip>
+<search_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</search_tip_text>
+<search_case type="select">no_user</search_case>
+<search_logic type="select">OR_user</search_logic>
+<search_scope type="select">slide</search_scope>
+<search_return_format type="select">simple</search_return_format>
+<fs_glossary type="fieldset"></fs_glossary>
+<display_header_glossary type="check">yes</display_header_glossary>
+<header_glossary type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Словарь&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_glossary>
+<glossary_item_list type="list"></glossary_item_list>
+<fs_documents type="fieldset"></fs_documents>
+<display_header_documents type="check">yes</display_header_documents>
+<header_documents type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Документы&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_documents>
+<doc_list type="list"></doc_list>
+<fs_settings type="fieldset"></fs_settings>
+<display_header_settings type="check">yes</display_header_settings>
+<header_settings type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Параметры&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_settings>
+<settings_tip type="check">yes</settings_tip>
+<settings_tip_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</settings_tip_text>
+<settings_display type="select">main</settings_display>
+<mainobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Главная цель модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</mainobj_text>
+<allobj_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Цели модуля&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</allobj_text>
+<score_style type="select">scaled</score_style>
+<fs_calculator type="fieldset"></fs_calculator>
+<display_header_calculator type="check">yes</display_header_calculator>
+<header_calculator type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Калькулятор&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_calculator>
+<display_calculator_desc type="check">no</display_calculator_desc>
+<calculator_desc type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</calculator_desc>
+<fs_comment type="fieldset"></fs_comment>
+<display_header_comment type="check">yes</display_header_comment>
+<header_comment type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Комментарий&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</header_comment>
+<comment_display type="select">text</comment_display>
+<no_comments type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Нет комментариев&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</no_comments>
+<tranin type="select">6</tranin>
+<durin type="time">800</durin>
+<tranout type="select">6</tranout>
+<durout type="time">800</durout>
+<nav_lock type="check">yes</nav_lock>
+<modal type="check">yes</modal>
+<fs_contents_2 type="fieldset"></fs_contents_2>
+<slide_icons type="select">standard</slide_icons>
+<fs_slide_icons type="fieldset"></fs_slide_icons>
+<i1_img type="file"></i1_img>
+<i2_img type="file"></i2_img>
+<i3_img type="file"></i3_img>
+<hier_type type="select">none</hier_type>
+<fs_contents_hier_icons type="fieldset"></fs_contents_hier_icons>
+<h1_img type="file"></h1_img>
+<h2_img type="file"></h2_img>
+<fs_glossary_2 type="fieldset"></fs_glossary_2>
+<display_letters type="check">yes</display_letters>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<glossary_items_col_width type="spinner">30</glossary_items_col_width>
+<fs_settings_2 type="fieldset"></fs_settings_2>
+<settings_icons type="select">standard</settings_icons>
+<fs_icons_statuses type="fieldset"></fs_icons_statuses>
+<on_img type="file"></on_img>
+<oi_img type="file"></oi_img>
+<oc_img type="file"></oc_img>
+<ou_img type="file"></ou_img>
+<op_img type="file"></op_img>
+<of_img type="file"></of_img>
+<panel_padding type="spinner">10</panel_padding>
+<panel_bordercolor type="color">#303473</panel_bordercolor>
+<panel_borderwidth type="spinner">2</panel_borderwidth>
+<panel_radius type="spinner">10</panel_radius>
+<shadow_strength type="select">normal</shadow_strength>
+<panel_bgtype type="select">solid</panel_bgtype>
+<panel_bgcolor type="color">#FFFFFF</panel_bgcolor>
+<fs_panel_gradient type="fieldset"></fs_panel_gradient>
+<panel_gradientcolor type="color">#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img type="fieldset"></fs_panel_bg_img>
+<panel_bgimg type="file"></panel_bgimg>
+<panel_bgimg_repeat type="select">repeat</panel_bgimg_repeat>
+<panel_bgimg_position type="select">cm</panel_bgimg_position>
+<panel_bgimg_position_custom type="edit"></panel_bgimg_position_custom>
+<contenttype_style type="select">contents</contenttype_style>
+<fs_style_none type="fieldset"></fs_style_none>
+<fs_basic_font type="fieldset"></fs_basic_font>
+<basic_font type="select">open_sansregular</basic_font>
+<basic_font_custom type="edit"></basic_font_custom>
+<basic_font_style type="select">normal</basic_font_style>
+<basic_font_size type="spinner">11</basic_font_size>
+<fs_style_contents type="fieldset"></fs_style_contents>
+<allowed_fill_color type="color">#FFFFFF</allowed_fill_color>
+<allowed_font_color type="color">#004080</allowed_font_color>
+<current_fill_color type="color">#EEEEEE</current_fill_color>
+<current_font_color type="color">#000000</current_font_color>
+<forbidden_fill_color type="color">#FFFFFF</forbidden_fill_color>
+<forbidden_font_color type="color">#999999</forbidden_font_color>
+<item_padding type="spinner">5</item_padding>
+<fs_style_search type="fieldset"></fs_style_search>
+<search_input_border_style type="select">solid</search_input_border_style>
+<search_input_border_color type="color">#004080</search_input_border_color>
+<search_input_border_width type="spinner">1</search_input_border_width>
+<search_input_border_radius type="spinner">5</search_input_border_radius>
+<search_input_bg_color type="color">#FFFFFF</search_input_bg_color>
+<search_input_font_color type="color">#666666</search_input_font_color>
+<highlight_bg_color type="color">#FFEEDD</highlight_bg_color>
+<highlight_font_color type="color">#CC0000</highlight_font_color>
+<search_button_bg_color type="color">#CCCCCC</search_button_bg_color>
+<search_button_font_color type="color">#666666</search_button_font_color>
+<search_button_border_style type="select">solid</search_button_border_style>
+<search_button_border_color type="color">#004080</search_button_border_color>
+<search_button_border_width type="spinner">1</search_button_border_width>
+<search_button_border_radius type="spinner">5</search_button_border_radius>
+<fs_style_glossary type="fieldset"></fs_style_glossary>
+<gloss_border_style type="select">solid</gloss_border_style>
+<gloss_border_width type="spinner">1</gloss_border_width>
+<gloss_border_radius type="spinner">5</gloss_border_radius>
+<gloss_padding type="spinner">5</gloss_padding>
+<gloss_fill_type type="select">solid</gloss_fill_type>
+<gloss_font_color_idle type="color">#000000</gloss_font_color_idle>
+<gloss_font_color_selected type="color">#FFFFFF</gloss_font_color_selected>
+<gloss_border_color_idle type="color">#000000</gloss_border_color_idle>
+<gloss_border_color_selected type="color">#FFFFFF</gloss_border_color_selected>
+<gloss_bg_color_idle type="color">#EEEEEE</gloss_bg_color_idle>
+<gloss_bg_color_selected type="color">#336699</gloss_bg_color_selected>
+<fs_gloss_gradient type="fieldset"></fs_gloss_gradient>
+<gloss_gradient_color_idle type="color">#FFFFFF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected type="color">#6699CC</gloss_gradient_color_selected>
+<fs_gloss_img type="fieldset"></fs_gloss_img>
+<gloss_img_idle type="file"></gloss_img_idle>
+<gloss_img_selected type="file"></gloss_img_selected>
+<gloss_img_repeat type="select">repeat</gloss_img_repeat>
+<gloss_img_position type="select">cm</gloss_img_position>
+<gloss_img_position_custom type="edit"></gloss_img_position_custom>
+<fs_style_settings type="fieldset"></fs_style_settings>
+<sett_border_style type="select">solid</sett_border_style>
+<sett_border_width type="spinner">1</sett_border_width>
+<sett_border_color type="color">#CCCCCC</sett_border_color>
+<sett_padding type="spinner">5</sett_padding>
+<content_const type="select">contents</content_const>
+<title_close type="edit">Закрыть окно</title_close>
+<fs_const_contents type="fieldset"></fs_const_contents>
+<msg_order_violation type="edit">Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_glossary type="fieldset"></fs_const_glossary>
+<glossary_default_text type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Выберите элемент, чтобы увидеть описание&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_default_text>
+<glossary_not_found type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Verdana;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Запрошенный элемент не найден&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</glossary_not_found>
+<fs_const_search type="fieldset"></fs_const_search>
+<search_text_button type="edit">Искать</search_text_button>
+<search_text_logic type="edit">Искать включение:</search_text_logic>
+<search_text_OR type="edit">Любого из слов</search_text_OR>
+<search_text_AND type="edit">Всех слов</search_text_AND>
+<search_text_case type="edit">Регистр:</search_text_case>
+<search_text_case_no type="edit">не учитывать</search_text_case_no>
+<text_case_yes type="edit">учитывать</text_case_yes>
+<text_found type="edit">Найдено слайдов:</text_found>
+<text_notfound type="edit">Не найдено включений, соответствующих заданным условиям</text_notfound>
+<text_empty type="edit">Условие поиска пусто - нечего искать</text_empty>
+<fs_const_settings type="fieldset"></fs_const_settings>
+<obj_header type="edit">Цель</obj_header>
+<obj_score type="edit">Баллы</obj_score>
+<obj_cs type="edit">Заверш.</obj_cs>
+<obj_ss type="edit">Успех</obj_ss>
+<status_n type="edit">Не начато</status_n>
+<status_i type="edit">Не закончено</status_i>
+<status_c type="edit">Закончено</status_c>
+<status_u type="edit">Неизвестно</status_u>
+<status_p type="edit">Успешно</status_p>
+<status_f type="edit">Неуспешно</status_f>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="87e740b1_27d1_4219_8760_eb5d267bcf49" id="SLIDE_4" expanded="yes" sid="2" splash="1">
+<subslides>
+<subslide guid="82ea172e_5e69_4fab_b784_6c9abcaaa3ac" id="FRAME_3" expanded="yes" dur="0">
+<objects>
+<object type="autoshape" guid="04c3d509_801d_42bf_887a_9938000f3497" id="SHAPE1" label="Процесс" expanded="yes" left="-1" top="-1" width="1080" height="100" fillColor="#cae8e6" display="frame" begin="0">
+<shape type="shape" coordsize="21600,21600" path="m,l,21600r21600,l21600,xe">
+</shape>
+</object>
+<object type="image" guid="1f74713d_a236_4d08_a671_dfbc2356674c" id="IMG_3" label="Картинка 2" expanded="yes" left="0" top="73" width="1080" height="648" display="frame" begin="0">
+<src>images\122222.jpg</src>
+</object>
+<object type="iebox" guid="e2794f05_63b1_4159_9f27_ba3f6701a088" id="MD1_TTL_NAME" label="" expanded="yes" left="245" top="17" width="742" height="129" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;font-family: Arial; font-size: 24px;&quot;&gt;&lt;span style=&quot;color:#8B4513;&quot;&gt;&lt;span style=&quot;font-size:48px;&quot;&gt;&lt;span style=&quot;font-family:munchkin;&quot;&gt;Настольная игра &amp;quot;Манчкин&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="div" guid="7d18fa7c_60b5_49e9_a5ca_7c92f759e8d4" id="OBJ_13" label="" expanded="yes" left="481" top="644" width="150" height="54" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
+<template>splash_button_go</template>
+<design_content><![CDATA[<style >
+		.cl-btn { position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 54px; }
+		.cl-btn-html { border-style: solid; border-width: 1px; border-color: #303473; -webkit-border-radius: 45px; border-radius: 45px;-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.idle { border-color: #303473; background-color: #CAE8E6;background-image: -webkit-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #CAE8E6 0%, #A6E1FF 100%); }
+		.cl-btn-bg { position: relative; padding: 0; margin: 0; width: 148px; height: 52px;  }
+		.cl-btn-table { border-spacing: 0; width: 148px; height: 52px; }
+		.cl-btn-table td { text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		.cl-btn-table .cl-btn-table-content { width: 148px; height: 52px; font-family: ; font-size: 30px; color: #366269;  }
+	</style><div style="position: absolute; width: 150px; height: 54px;" ><div class="cl-btn cl-btn-html idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЧАТЬ</td></tr></table></div></div></div>]]></design_content>
+<export_content><![CDATA[<div style="position: absolute; width: 150px; height: 54px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div id="OBJ_13_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 54px; border-style: solid; border-width: 1px; border-color: #303473; -o-border-radius: 45px; -ms-border-radius: 45px; -moz-border-radius: 45px; -webkit-border-radius: 45px; border-radius: 45px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #303473; background-color: #CAE8E6;background-image: -o-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #CAE8E6 0%, #A6E1FF 100%);" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 54px; border-style: solid; border-width: 1px; border-color: #303473; -o-border-radius: 45px; -ms-border-radius: 45px; -moz-border-radius: 45px; -webkit-border-radius: 45px; border-radius: 45px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #303473; background-color: #CAE8E6;background-image: -o-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #CAE8E6 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #CAE8E6 0%, #A6E1FF 100%);" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 150px; height: 54px; border-style: solid; border-width: 1px; border-color: #303473; -o-border-radius: 45px; -ms-border-radius: 45px; -moz-border-radius: 45px; -webkit-border-radius: 45px; border-radius: 45px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #303473; background-color: #CAE8E6;background-image: -o-linear-gradient(270deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(270deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(270deg, #CAE8E6 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(270deg, #CAE8E6 0%, #A6E1FF 100%); background-image: linear-gradient(180deg, #CAE8E6 0%, #A6E1FF 100%);"><div id="OBJ_13_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 148px; height: 52px; "><table id="OBJ_13_BTN_TABLE" style="border-spacing: 0; width: 148px; height: 52px;"><tr><td id="OBJ_13_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); width: 148px; height: 52px; font-family: ; font-size: 30px; color: #366269; ">НАЧАТЬ</td></tr></table></div></div></div>]]></export_content>
+<params>
+<btn_text type="edit">НАЧАТЬ</btn_text>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<fs_html type="fieldset"></fs_html>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_position type="select">center</bg_position>
+<bg_type type="select">custom</bg_type>
+<bg_color type="color">#CAE8E6</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">none</border_style>
+<border_color type="color">#303473</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">45</border_radius>
+<fs_text type="fieldset"></fs_text>
+<font type="select">custom</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_color type="color">#366269</font_color>
+<font_size type="spinner">30</font_size>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<shadow_strength type="select">normal</shadow_strength>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="279c8361_1361_42c2_a5d6_af9b1c2ec776" id="SLIDE_1" expanded="yes" sid="3" masterid="SLIDE_MASTER" name="Без названия" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="e7c40a00_86a9_4e15_89f9_f8b231db7c4b" id="FRAME_5" expanded="yes" dur="0">
+<objects>
+<object type="image" guid="ccbf5e7a_92e6_4b31_97e0_dd0719c886e0" id="IMG_4" label="Картинка" expanded="yes" left="360" top="184" width="466" height="297" display="frame" begin="0">
+<src>images\Снимок экрана 2025-09-19 130838.png</src>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+</slides>
+<objectives>
+<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+</objectives>
+<runtimechecks>
+<runtimecheck id="MSMP" check="0"/>
+<runtimecheck id="MMFP" check="0"/>
+<runtimecheck id="MMSW" check="0"/>
+<runtimecheck id="APQT" check="0"/>
+</runtimechecks>
+</module>
