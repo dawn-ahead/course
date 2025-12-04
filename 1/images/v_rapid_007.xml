@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*    v_rapid_007.xml
+--><params>
+    <object>
+        <format>2.0</format>
+        <label>Метка</label>
+        <description>Метка для картинки с указателями</description>
+        <width>26</width>
+        <height>26</height>
+		<state_extension>false</state_extension>
+    </object>
+    <page name="Параметры" w="240" h="90">
+		<param type="label" id="lab_color_scheme" text="Цвет (в редакторе)" def="" x="10" y="10" w="100" h="13"/>
+		<param type="select" id="color_scheme" text="" def="orange" x="110" y="9" w="120" h="13">
+			<items>
+				<item id="red" label="Красный"/>
+				<item id="orange" label="Оранжевый"/>
+				<item id="yellow" label="Желтый"/>
+				<item id="cyan" label="Ярко-голубой"/>
+				<item id="green" label="Зеленый"/>
+				<item id="blue" label="Синий"/>
+				<item id="white" label="Белый"/>
+				<item id="black" label="Черный"/>
+			</items>
+		</param>
+    </page>
+    <methods>
+		<method name="Constructor" label="_Constructor" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var nW = (oCurObj.initial.w>oCurObj.initial.h) ? oCurObj.initial.h : oCurObj.initial.w;
+				var nH = (oCurObj.initial.h>oCurObj.initial.w) ? oCurObj.initial.w : oCurObj.initial.h;
+				oCurObj.data =
+				{
+					nOffsetX: 0.5*nW,
+					nOffsetY: 0.5*nH
+				};
+				return true;
+			}]]>
+			</body>
+		</method>
+	</methods>
+</params>

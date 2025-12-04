@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Module file, saved 10/10/2025 2:12:31 PM by galic using CourseLab 240108 -->
+<module format="3.5 240108" rev="2" slideWidth="750" slideHeight="530" template="" file="D:\важное\Курс\3\3.xml">
+<font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="12" color="#000000"/>
+<default_text></default_text>
+<newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
+<import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<nextidentity slide="17" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<moduleColors>
+<color>996600</color>
+<color>cc9900</color>
+<color>ffcc00</color>
+<color>ffff00</color>
+<color>ffff99</color>
+<color>ffdb9d</color>
+<color>ffcc66</color>
+<color>ff9933</color>
+<color>ff794b</color>
+<color>ff3300</color>
+<color>990000</color>
+<color>333366</color>
+<color>003399</color>
+<color>0066cc</color>
+<color>0083d7</color>
+<color>0099ff</color>
+<color>3e9ade</color>
+<color>99ccff</color>
+<color>b4e2ff</color>
+<color>deffff</color>
+<color>ffccff</color>
+<color>ccccff</color>
+<color>9999ff</color>
+<color>6666cc</color>
+<color>9999cc</color>
+<color>666699</color>
+<color>006600</color>
+<color>009900</color>
+<color>66cc33</color>
+<color>99ff66</color>
+<color>ccffcc</color>
+</moduleColors>
+<slides>
+<slide guid="88d6c237_cb89_405e_896d_deae83e8709f" id="MASTER1" expanded="yes" sid="1" master="1">
+<subslides>
+<subslide guid="4f6fb596_0741_48ed_b31a_c62e71c6fe3f" id="FRAME_4" expanded="yes" dur="0">
+<objects>
+<object type="div" guid="98cd48be_b4e2_442e_bcce_93d0d6ac0c6c" id="EM1_NEXT" label="" expanded="yes" state_extension="false" left="670" top="501" width="75" height="25" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_0000_btn_navi</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 75px; height: 25px; }
+		
+			.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; border-radius: 5px;box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+			.cl-idle { border-color: #004080; background-color: #0080C0;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+			.cl-btn-bg { width: 73px; height: 23px;  }
+			.cl-btn-table { width: 73px; height: 23px; }
+			.cl-btn-table-content { width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px;  
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">ДАЛЕЕ</td></tr></table></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_NEXT .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_NEXT .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_NEXT .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">ДАЛЕЕ</td></tr></table></div></div></div>]]></export_content>
+<params>
+<role type="select">nextslide</role>
+<selectedslide type="slideid"></selectedslide>
+<selectedframe type="subslideid"></selectedframe>
+<fs_thisslide type="fieldset"></fs_thisslide>
+<text_thisslide type="edit">ПОВТОР</text_thisslide>
+<alt_enabled_thisslide type="edit">Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide type="edit">Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide type="fieldset"></fs_nextslide>
+<text_nextslide type="edit">ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide type="edit">Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide type="edit">Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide type="fieldset"></fs_prevslide>
+<text_prevslide type="edit">НАЗАД</text_prevslide>
+<alt_enabled_prevslide type="edit">Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide type="edit">Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide type="fieldset"></fs_firstslide>
+<text_firstslide type="edit">НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide type="edit">Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide type="edit">Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide type="fieldset"></fs_lastslide>
+<text_lastslide type="edit">КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide type="edit">Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide type="edit">Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe type="fieldset"></fs_nextframe>
+<text_nextframe type="edit">Далее</text_nextframe>
+<alt_enabled_nextframe type="edit">Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe type="edit">Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe type="fieldset"></fs_prevframe>
+<text_prevframe type="edit">Назад</text_prevframe>
+<alt_enabled_prevframe type="edit">Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe type="edit">Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe type="fieldset"></fs_firstframe>
+<text_firstframe type="edit">Начало</text_firstframe>
+<alt_enabled_firstframe type="edit">Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe type="edit">Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe type="fieldset"></fs_lastframe>
+<text_lastframe type="edit">Конец</text_lastframe>
+<alt_enabled_lastframe type="edit">Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe type="edit">Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide type="fieldset"></fs_selectedslide>
+<text_selectedslide type="edit"></text_selectedslide>
+<alt_enabled_selectedslide type="edit">Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide type="edit">Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe type="fieldset"></fs_selectedframe>
+<text_selectedframe type="edit"></text_selectedframe>
+<alt_enabled_selectedframe type="edit">Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe type="edit">Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule type="fieldset"></fs_closemodule>
+<text_closemodule type="edit">ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule type="edit">Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule type="edit"></alt_disabled_closemodule>
+<closemodule_msg type="edit">Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock type="check">yes</nav_lock>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<n3_img type="file"></n3_img>
+<fs_html type="fieldset"></fs_html>
+<bg_type type="select">auto</bg_type>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">solid</border_style>
+<border_color type="color">#004080</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<shadow_strength type="select">normal</shadow_strength>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_img_3 type="file"></bg_img_3>
+<bg_position type="select">center</bg_position>
+<fs_text type="fieldset"></fs_text>
+<font type="select">robotoregular</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">12</font_size>
+<font_color type="color">#004080</font_color>
+<font_color_over type="color">#4080C0</font_color_over>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_position type="select">center</text_position>
+<text_margin_left type="spinner">0</text_margin_left>
+<text_margin_right type="spinner">0</text_margin_right>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+<display_closemodule_msg type="check">no</display_closemodule_msg>
+<swipe type="check">yes</swipe>
+</params>
+</object>
+<object type="div" guid="a88f1316_acf6_43b0_9a0f_37c971c6f639" id="EM1_BACK" label="" expanded="yes" state_extension="false" left="588" top="501" width="75" height="25" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>nav_0000_btn_navi</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 75px; height: 25px; }
+		
+			.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; border-radius: 5px;box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+			.cl-idle { border-color: #004080; background-color: #0080C0;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+			.cl-btn-bg { width: 73px; height: 23px;  }
+			.cl-btn-table { width: 73px; height: 23px; }
+			.cl-btn-table-content { width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px;  
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЗАД</td></tr></table></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_BACK .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_BACK .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_BACK .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_BACK .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_BACK .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЗАД</td></tr></table></div></div></div>]]></export_content>
+<params>
+<role type="select">prevslide</role>
+<selectedslide type="slideid"></selectedslide>
+<selectedframe type="subslideid"></selectedframe>
+<fs_thisslide type="fieldset"></fs_thisslide>
+<text_thisslide type="edit">ПОВТОР</text_thisslide>
+<alt_enabled_thisslide type="edit">Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide type="edit">Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide type="fieldset"></fs_nextslide>
+<text_nextslide type="edit">ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide type="edit">Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide type="edit">Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide type="fieldset"></fs_prevslide>
+<text_prevslide type="edit">НАЗАД</text_prevslide>
+<alt_enabled_prevslide type="edit">Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide type="edit">Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide type="fieldset"></fs_firstslide>
+<text_firstslide type="edit">НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide type="edit">Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide type="edit">Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide type="fieldset"></fs_lastslide>
+<text_lastslide type="edit">КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide type="edit">Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide type="edit">Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe type="fieldset"></fs_nextframe>
+<text_nextframe type="edit">Далее</text_nextframe>
+<alt_enabled_nextframe type="edit">Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe type="edit">Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe type="fieldset"></fs_prevframe>
+<text_prevframe type="edit">Назад</text_prevframe>
+<alt_enabled_prevframe type="edit">Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe type="edit">Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe type="fieldset"></fs_firstframe>
+<text_firstframe type="edit">Начало</text_firstframe>
+<alt_enabled_firstframe type="edit">Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe type="edit">Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe type="fieldset"></fs_lastframe>
+<text_lastframe type="edit">Конец</text_lastframe>
+<alt_enabled_lastframe type="edit">Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe type="edit">Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide type="fieldset"></fs_selectedslide>
+<text_selectedslide type="edit"></text_selectedslide>
+<alt_enabled_selectedslide type="edit">Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide type="edit">Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe type="fieldset"></fs_selectedframe>
+<text_selectedframe type="edit"></text_selectedframe>
+<alt_enabled_selectedframe type="edit">Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe type="edit">Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule type="fieldset"></fs_closemodule>
+<text_closemodule type="edit">ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule type="edit">Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule type="edit"></alt_disabled_closemodule>
+<closemodule_msg type="edit">Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock type="check">yes</nav_lock>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<n3_img type="file"></n3_img>
+<fs_html type="fieldset"></fs_html>
+<bg_type type="select">auto</bg_type>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">solid</border_style>
+<border_color type="color">#004080</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<shadow_strength type="select">normal</shadow_strength>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_img_3 type="file"></bg_img_3>
+<bg_position type="select">center</bg_position>
+<fs_text type="fieldset"></fs_text>
+<font type="select">robotoregular</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">12</font_size>
+<font_color type="color">#004080</font_color>
+<font_color_over type="color">#4080C0</font_color_over>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_position type="select">center</text_position>
+<text_margin_left type="spinner">0</text_margin_left>
+<text_margin_right type="spinner">0</text_margin_right>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+<display_closemodule_msg type="check">no</display_closemodule_msg>
+<swipe type="check">yes</swipe>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="ef54a693_58ec_4c83_93dc_ea564b57ab20" id="SLIDE_4" expanded="yes" sid="2" splash="1">
+<subslides>
+<subslide guid="c804b557_c0f3_4593_a7e0_3011812bd2ec" id="FRAME_3" expanded="yes" dur="0">
+<objects>
+<object type="iebox" guid="e34b034a_c300_4737_a85d_9bec69ea9443" id="EM1_TTL_NAME" label="" expanded="yes" left="187" top="210" width="414" height="58" display="slide" begin="0">
+<content><![CDATA[<ietext><text>&lt;p align=&quot;center&quot; style=&quot;FONT-FAMILY: Arial; COLOR: #004080; FONT-SIZE: 24px&quot;&gt;&lt;span style=&quot;font-size:24px&quot;&gt;&lt;span style=&quot;font-family:open_sanssemibold,arial,sans-serif&quot;&gt;Название курса&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="div" guid="6d8ea3ac_5276_426f_aea0_bac62bd9f40f" id="EM1_TTL_BTN" label="" expanded="yes" state_extension="false" left="295" top="327" width="200" height="50" display="frame" begin="0">
+<template>splash_button_go</template>
+<design_content><![CDATA[<style >
+		.cl-btn { position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; }
+		.cl-btn-html { border-style: solid; border-width: 1px; border-color: #004080; -webkit-border-radius: 5px; border-radius: 5px;-webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.idle { border-color: #004080; background-color: #0080C0;background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+		.cl-btn-bg { position: relative; padding: 0; margin: 0; width: 198px; height: 48px;  }
+		.cl-btn-table { border-spacing: 0; width: 198px; height: 48px; }
+		.cl-btn-table td { text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
+		.cl-btn-table .cl-btn-table-content { width: 198px; height: 48px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 18px; color: #004080;  }
+	</style><div style="position: absolute; width: 200px; height: 50px;" ><div class="cl-btn cl-btn-html idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЧАТЬ</td></tr></table></div></div></div>]]></design_content>
+<export_content><![CDATA[<div style="position: absolute; width: 200px; height: 50px; -webkit-touch-callout: none; -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none;" title="НАЧАТЬ" ><div id="EM1_TTL_BTN_BTN" style="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%);" onmouseover="this.setAttribute('style', this.getAttribute('data-style-over'));" onmouseout="this.setAttribute('style', this.getAttribute('data-style-idle'));" onclick="CL.Start(); return false;" data-style-idle="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(90deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%);" data-style-over="cursor: pointer; position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; border-style: solid; border-width: 1px; border-color: #004080; -o-border-radius: 5px; -ms-border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px;-o-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-ms-box-shadow: 2px 2px 6px rgba(102,102,102,0.66);-moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);border-color: #004080; background-color: #0080C0;background-image: -o-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -ms-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -moz-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: -webkit-linear-gradient(270deg, #0080C0 0%, #A6E1FF 100%); background-image: linear-gradient(180deg, #0080C0 0%, #A6E1FF 100%);"><div id="EM1_TTL_BTN_BTN_BG" style="position: relative; padding: 0; margin: 0; width: 198px; height: 48px; "><table id="EM1_TTL_BTN_BTN_TABLE" style="border-spacing: 0; width: 198px; height: 48px;"><tr><td id="EM1_TTL_BTN_BTN_TABLE_CONTENT" style="text-align: center; vertical-align: middle; padding: 0; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); width: 198px; height: 48px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 18px; color: #004080; ">НАЧАТЬ</td></tr></table></div></div></div>]]></export_content>
+<params>
+<btn_text type="edit">НАЧАТЬ</btn_text>
+<btn_type type="select">html</btn_type>
+<fs_image type="fieldset"></fs_image>
+<n1_img type="file"></n1_img>
+<n2_img type="file"></n2_img>
+<fs_html type="fieldset"></fs_html>
+<content type="select">text</content>
+<fs_bg_img type="fieldset"></fs_bg_img>
+<bg_img_1 type="file"></bg_img_1>
+<bg_img_2 type="file"></bg_img_2>
+<bg_position type="select">center</bg_position>
+<bg_type type="select">auto</bg_type>
+<bg_color type="color">#0080C0</bg_color>
+<gradient_color type="color">#A6E1FF</gradient_color>
+<border_style type="select">solid</border_style>
+<border_color type="color">#004080</border_color>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<fs_text type="fieldset"></fs_text>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_color type="color">#004080</font_color>
+<font_size type="spinner">18</font_size>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<text_shadow_strength type="select">normal</text_shadow_strength>
+<shadow_strength type="select">normal</shadow_strength>
+<action type="select">go</action>
+<objectid type="objectid"></objectid>
+</params>
+</object>
+</objects>
+</subslide>
+</subslides>
+</slide>
+<slide guid="d2ea4027_68fe_4e74_ad12_32cbd65e1ece" id="SLIDE_1" expanded="yes" sid="3" masterid="MASTER1" name="Без названия" indent="0" infinite="1" advance="" transition="" durout="">
+<subslides>
+<subslide guid="c67d2a1a_548b_48c2_ad0f_2eab6be88bee" id="FRAME_5" expanded="yes" dur="0">
+</subslide>
+</subslides>
+</slide>
+</slides>
+<objectives>
+<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+</objectives>
+<runtimechecks>
+<runtimecheck id="MSMP" check="0"/>
+<runtimecheck id="MMFP" check="0"/>
+<runtimecheck id="MMSW" check="0"/>
+<runtimecheck id="APQT" check="0"/>
+</runtimechecks>
+</module>

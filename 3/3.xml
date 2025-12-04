@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Module file, saved 10/11/2025 9:44:54 AM by galic using CourseLab 240108 -->
+<module format="3.5 240108" rev="2" slideWidth="750" slideHeight="530" template="" file="D:\важное\Курс\3\3.xml">
+<font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="12" color="#000000"/>
+<default_text></default_text>
+<newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
+<import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<nextidentity slide="17" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<moduleColors>
+<color>996600</color>
+<color>cc9900</color>
+<color>ffcc00</color>
+<color>ffff00</color>
+<color>ffff99</color>
+<color>ffdb9d</color>
+<color>ffcc66</color>
+<color>ff9933</color>
+<color>ff794b</color>
+<color>ff3300</color>
+<color>990000</color>
+<color>333366</color>
+<color>003399</color>
+<color>0066cc</color>
+<color>0083d7</color>
+<color>0099ff</color>
+<color>3e9ade</color>
+<color>99ccff</color>
+<color>b4e2ff</color>
+<color>deffff</color>
+<color>ffccff</color>
+<color>ccccff</color>
+<color>9999ff</color>
+<color>6666cc</color>
+<color>9999cc</color>
+<color>666699</color>
+<color>006600</color>
+<color>009900</color>
+<color>66cc33</color>
+<color>99ff66</color>
+<color>ccffcc</color>
+</moduleColors>
+<objectives>
+<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+</objectives>
+<runtimechecks>
+<runtimecheck id="MSMP" check="0"/>
+<runtimecheck id="MMFP" check="0"/>
+<runtimecheck id="MMSW" check="0"/>
+<runtimecheck id="APQT" check="0"/>
+</runtimechecks>
+</module>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 10/11/2025 3:12:46 PM using CourseLab 240108 -->
+<module>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_1" expanded="yes" sid="3" masterid="MASTER1" advance="" transition="" durout="" name="Без названия" indent="0">
+<frames>
+<frame id="FRAME_5" expanded="yes" dur="0" infinite="0">
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="MASTER1" expanded="yes" sid="1">
+<frames>
+<frame id="FRAME_4" expanded="yes" dur="0" infinite="0">
+<object id="EM1_NEXT" expanded="yes" x="670" y="501" w="75" h="25" z="0" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_NEXT .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_NEXT .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_NEXT .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_NEXT .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_NEXT .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">ДАЛЕЕ</td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<object id="EM1_BACK" expanded="yes" x="588" y="501" w="75" h="25" z="1" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#EM1_BACK .cl-btn"><span class="rule-static">width: 75px; height: 25px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-html"><span class="rule-static">border-style: solid; border-width: 1px; border-color: #004080;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#EM1_BACK .cl-idle"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#EM1_BACK .cl-over"><span class="rule-static">background-color: #A6E1FF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#A6E1FF|0;#0080C0|100" /></div><div class="rule" data-name="#EM1_BACK .cl-disabled"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-bg"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table"><span class="rule-static">width: 73px; height: 23px;</span></div><div class="rule" data-name="#EM1_BACK .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 73px; height: 23px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoregular, Arial, Helvetica, sans-serif; font-size: 12px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#EM1_BACK .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-html cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content">НАЗАД</td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_0000_btn_navi" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				var sRole = oCurObj.jxParams.children("role").text();
+				var sTarget = (sRole.indexOf("slide")==-1) ? "frame" : "slide";
+				var sDir = "";
+				var sId;
+				if(sRole=="closemodule")
+				{
+					oCurObj.data =
+					{
+						sRole: "close",
+						sState: "enabled",
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+				}
+				else
+				{
+					var bSwipe = false;
+					if(sRole.indexOf("next")!=-1)
+					{
+						sDir = "next";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("prev")!=-1)
+					{
+						sDir = "prev";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("first")!=-1)
+					{
+						sDir = "first";
+					}
+					else if(sRole.indexOf("last")!=-1)
+					{
+						sDir = "last";
+					}
+					else if(sRole=="thisslide")
+					{
+						sDir = "this";
+					}
+					else
+					{
+						sId = oCurObj.jxParams.children((sRole=="selectedslide") ? "selectedslide" : "selectedframe").text();
+					}
+					oCurObj.data =
+					{
+						sRole: sRole,
+						sTarget: sTarget,
+						sDir: sDir,
+						sId: sId,
+						sFrameId: "",
+						sSlideId: "",
+						sState: "enabled",
+						bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+						bNaviLockedByAction: false,
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					jCurObjDiv.addClass("cl-nav-action-" + oCurObj.data.sRole);
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					if(oCurObj.data.sRole=="close")
+					{
+						oCurObj.data.bDisplayConfirm = (oCurObj.jxParams.children("display_closemodule_msg").text()=="yes");
+					}
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_FRAME_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_FRAME_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				}
+				if(CL.bTouch)
+				{
+					if(bSwipe)
+					{
+						if(sDir=="next")
+						{
+							$(CL.oBoard).on("swipeleft", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+						else if(sDir=="prev")
+						{
+							$(CL.oBoard).on("swiperight", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+
+					}
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sTarget=="slide")
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+							{
+								oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_SLIDE_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets==oCurObj.data.sDir || (argobj.sTargets=="restart" && oCurObj.data.sDir=="this") || argobj.sTargets=="all" || (argobj.sTargets=="buttons" && (oCurObj.data.sDir=="next" || oCurObj.data.sDir=="prev")) || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "update":
+										{
+											oCurObj.CallMethod({ sMethod: "Update" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}
+					}
+				}
+				else
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_FRAME_OPENED":
+						{
+							if(oCurObj.data.sFrameId!=CLZ.sCurrentFrameId)
+							{
+								oCurObj.data.sFrameId = CLZ.sCurrentFrameId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_FRAME_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets=="all" || argobj.sTargets=="buttons" || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				if(argobj.evt==null) return false;
+				if(oCurObj.data.sState=="disabled" || $(".cl-modal-mask").is(":visible")) return false;
+				switch(argobj.evt.type)
+				{
+					case "swiperight":
+					case "swipeleft":
+					{
+						oCurObj.CallMethod({ sMethod: "Navigate" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jBtn = $(CLO[argobj.pid].div).find(".cl-btn");
+				if(jBtn.hasClass("cl-disabled") && argobj.sState!="enabled") return false;
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "disabled":
+					{
+						jBtn.removeClass("cl-idle cl-over").addClass("cl-disabled").attr({ "title": jBtn.attr("data-title-disabled") });
+						CLO[argobj.pid].data.sState = "disabled";
+						break;
+					}
+					case "enabled":
+					{
+						jBtn.removeClass("cl-disabled").addClass("cl-idle").attr({ "title": jBtn.attr("data-title-enabled") });
+						CLO[argobj.pid].data.sState = "enabled";
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sRole=="close")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "enabled" } });
+				}
+				else
+				{
+					var oParams = { sTarget: CLO[argobj.pid].data.sTarget };
+					if(CLO[argobj.pid].data.sDir=="")
+					{
+						oParams.sTargetId = CLO[argobj.pid].data.sId;
+					}
+					else
+					{
+						oParams.sDir = CLO[argobj.pid].data.sDir;
+					}
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: ( (argobj.override==true || CL.Navigation.Allowed(oParams) || (CL.bAlternativePath && CL.Navigation.Exists(oParams) )) ? "enabled" : "disabled") } });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var oParams = { sTargetType: oCurObj.data.sTarget, bUserAction: true };
+				if(oCurObj.data.sDir=="")
+				{
+					oParams.sTargetId = oCurObj.data.sId;
+				}
+				else
+				{
+					oParams.sTargetDir = oCurObj.data.sDir;
+				}
+				var sCLXNavi = "";
+				CLS[CLZ.sCurrentSlideId].jxObjects.each(function()
+				{
+					if(this.getAttribute("type")=="clx_navigation")
+					{
+						sCLXNavi = this.getAttribute("id");
+					}
+				});
+				if(sCLXNavi!="")
+				{
+					if((oCurObj.data.sDir=="next" && CLO[sCLXNavi].data.bCustomNext) || (oCurObj.data.sDir=="prev" && CLO[sCLXNavi].data.bCustomPrev))
+					{
+						return CLO[sCLXNavi].CallMethod({ sMethod: "ProcessNavigation", oMethodArgs: { sDir: oCurObj.data.sDir } });
+					}
+				}
+				if(argobj.override==true || CL.Navigation.Allowed(oParams))
+				{
+					oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+					CL.Navigation.GoTo(oParams);
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				return CLO[argobj.pid].GetProperty(argobj);
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sState=="disabled") return false;
+				if(oCurObj.data.sRole=="close")
+				{
+					if(oCurObj.data.bDisplayConfirm)
+					{
+					if(confirm(CLO[argobj.pid].jxParams.children("closemodule_msg").text()))
+						{
+							window.close();
+						}
+					}
+					else
+					{
+						window.close();
+					}
+				}
+				else
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Navigate" });
+				}
+				return true;
+			}]]>
+</method>
+</methods>
+<params>
+<param objectid="EM1_NEXT">
+<role>nextslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<font>robotoregular</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>12</font_size>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<display_closemodule_msg>no</display_closemodule_msg>
+<swipe>yes</swipe>
+</param>
+<param objectid="EM1_BACK">
+<role>prevslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n3_img></n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<font>robotoregular</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>12</font_size>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<display_closemodule_msg>no</display_closemodule_msg>
+<swipe>yes</swipe>
+</param>
+<param objectid="EM1_TTL_BTN">
+<btn_text>НАЧАТЬ</btn_text>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<fs_html></fs_html>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_position>center</bg_position>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<fs_text></fs_text>
+<font>robotomedium</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_color>#004080</font_color>
+<font_size>18</font_size>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_shadow_strength>normal</text_shadow_strength>
+<shadow_strength>normal</shadow_strength>
+<action>go</action>
+<objectid></objectid>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0"/>
+</objectives>
+<runtimechecks>
+</runtimechecks>
+</module>

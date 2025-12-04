@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="author" content="CourseLab 3.0">
 <meta name="description" content="CourseLab 3 e-learning content editor">
-<meta name="viewport" content="width=1080, height=720, initial-scale=0.9, user-scalable=1" />
+<meta name="viewport" content="width=2560, height=1240, initial-scale=0.9, user-scalable=1" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="HandheldFriendly" content="true" />
 <title></title>
@@ -22,7 +22,7 @@
 <script type="text/javascript" src="module.js"></script>
 </head>
 <body style="width: 100%; height: 100%; margin: 0;" onload="CL.Init();" onunload="CL.Shutdown();" oncontextmenu="return false;">
-<div class="cl-container" style="width: 1080px; height: 720px; margin: -360px 0 0 -540px;">
+<div class="cl-container" style="width: 2560px; height: 1240px; margin: -620px 0 0 -1280px;">
 <div id="boardFrame" class="cl-board-frame"></div>
 <div class="cl-error-frame">
 <div class="cl-error-browser">
