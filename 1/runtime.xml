@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 11/22/2025 1:54:15 PM using CourseLab 240108 -->
+<!-- Presentation file, saved 12/5/2025 5:17:46 PM using CourseLab 240108 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -371,6 +371,47 @@
 <slide id="SLIDE_15" expanded="yes" sid="c" masterid="SLIDE_8" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
 <frames>
 <frame id="FRAME_16" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_53" expanded="yes" x="365" y="314" w="700" h="400" z="100" display="frame" begin="0" type="q_0001">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="cl-audio-files-list" >
+		 
+	</div><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_53 .container"><span class="rule-static">width: 700px; height: 400px;</span></div><div class="rule" data-name="#OBJ_53 .cl-t-workarea"><span class="rule-static">border-color: #0080C0; </span></div><div class="rule" data-name="#OBJ_53 .cl-t-header-table td"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-t-footer-table td"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-t-footer-btn"><span class="rule-static">border-color: #0080C0; font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_53 .var-true-false .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_53 .var-selected .var-true-false .spot-point"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_53 .var-choice .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_53 .var-selected .var-choice .spot-point"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_53 .var-select .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .var-select .inner-part"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .var-fib .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .var-target"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .var-bullet"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback"><span class="rule-static">width: 30%; left: 35%; top: 30%; font-family: robotoregular, Arial, Helvetica, sans-serif;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_53 .q-feedback-correct"><span class="rule-static">background-color: #E0FFE0; border-color: #006600; color: #006600;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback-incorrect"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback-lastattempt"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback-exceed"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback-timeout"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_53 .q-feedback-btn"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-container"><span class="rule-static">border-color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="15px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-header"><span class="rule-static">background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="15px 15px 0 0" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-workarea"><span class="rule-static">background-color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-footer"><span class="rule-static">background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 0 15px 15px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .rnd-timer-main"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .rnd-timer-path"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .rnd-timer-svg-full"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-progress .cl-t-progress-item-btn"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="2px" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-current .cl-t-progress-item-btn"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-visited .cl-t-progress-item-btn"><span class="rule-static">background-color: #A6E1FF;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-unvisited .cl-t-progress-item-btn"><span class="rule-static">background-color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .cl-t-footer-btn"><span class="rule-static">color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .q-question"><span class="rule-static">margin: 0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .q-question-txt"><span class="rule-static">border-color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .q-question-goal"><span class="rule-static">padding: 5px 15px;font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .q-vars"><span class="rule-static">background-color: #FFFFFF; padding: 0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-true-false .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-selected .var-true-false .spot-point"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-choice .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-selected .var-choice .spot-point"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-select .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-select .inner-part"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-order .inner-part"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-numeric .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-fib .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .oto-connector"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-target"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; background-color: #D5EAFF; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_53 .cl-theme-light .var-bullet"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; background-color: #D5EAFF; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div></div><div class="container cl-theme-light" ><div class="wrapper"><div class="cl-t-container unselectable"><div class="cl-t-wrapper"><div class="cl-t-header"><table class="cl-t-header-table"><tr><td class="cl-t-header-cell-left"><div class="cl-t-credit-info">Оцениваемый тест</div><div class="cl-t-answered-info">Отвечено 0 из 1</div></td><td class="cl-t-header-cell-center"><div class="cl-t-progress"><table class="cl-t-progress-rail"><tr><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td></tr></table></div><div class="cl-t-info-line">Вопрос 1 из 1</div></td><td class="cl-t-header-cell-right">Время теста не ограничено</td></tr></table></div><div class="cl-t-workarea" /><div class="cl-t-footer"><table class="cl-t-footer-table"><tr><td class="cl-t-footer-cell-left"><button class="cl-btn cl-t-footer-btn idle cl-btn-submit" data-action="submit" title="ОТВЕТИТЬ">ОТВЕТИТЬ</button><button class="cl-btn cl-t-footer-btn idle cl-btn-next" data-action="next" title="ДАЛЕЕ">ДАЛЕЕ</button></td><td class="cl-t-footer-cell-center"><div class="cl-t-attempts">Попытка 1 из {{10}}</div></td><td class="cl-t-footer-cell-right"><div class="cl-q-timer-container"><div class="cl-q-timer question-timer" data-template="qtimer"><div class="cl-q-timer-bar"><div class="cl-q-timer-scale">
+				 
+			</div></div><table class="cl-q-timer-table"><tr><td class="cl-q-timer-value">Время вопроса 0 мин 10 сек</td><td class="cl-q-timer-progress"><div class="rnd-timer-main"><svg viewBox="0 0 24 24" class="rnd-timer-svg" xmlns="http://www.w3.org/2000/svg"><path style="display: none;" class="rnd-timer-path" d="M12,0 A12,12 1 1,1 12,24 A12,12 1 1,1 12,0 Z" /><circle class="rnd-timer-svg-full" cx="12" cy="12" r="12" /></svg></div></td></tr></table></div></div><div class="cl-q-no-timer">Время вопроса не ограничено</div></td></tr></table></div></div></div></div></div><div class="template-storage" ><div class="q-question-number" data-template="qnumber"></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal"></div><div class="q-question-txt text-main" data-template="qtext"></div><div class="q-vars q-vars-true-false q-vars-tf-v" data-template="qvars-true-false-v" data-append="1" /><div class="q-vars q-vars-true-false q-vars-tf-h" data-template="qvars-true-false-h"><table class="q-vars-tf-h-table"><tr><td class="q-vars-tf-h-td" data-append="1" /><td class="q-vars-tf-h-td" data-append="1" /></tr></table></div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1" /><div class="q-vars q-vars-select" data-template="qvars-select" data-append="1" /><div class="q-vars q-vars-order" data-template="qvars-order" data-append="1" /><div class="q-vars q-vars-numeric" data-template="qvars-numeric" data-append="1" /><div class="q-vars q-vars-fib" data-template="qvars-fib" data-append="1" /><div class="q-vars q-vars-oto" data-template="qvars-oto" data-append="1" /><div data-template="qvar-tf" class="var var-idle unselectable"><div class="var-inner var-true-false var-true-false-light"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-tf-spot"><div class="inner-part selected"><div class="spot-point">
+						 
+					</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-light"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+						 
+					</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-order" class="var var-order-elem unselectable"><div class="var-inner var-order"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-basic" data-template="qvar-order-spot"><div class="inner-part"><span class="order-up">
+						↑
+					</span><span class="order-down">
+						↓
+					</span></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-numeric" class="var"><div class="var-inner var-numeric"><table class="var-table"><tr><td class="var-txt-td cl-var-exp-left"><div class="var-txt text-main">
+							 
+						</div></td><td class="var-spot-td"><input type="text" class="var-input" /></td><td class="var-txt-td cl-var-exp-right"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-fib" class="var"><div class="var-inner var-fib"><table class="var-table"><tr><td class="var-txt-td cl-var-exp-left"><div class="var-txt text-main">
+							 
+						</div></td><td class="var-spot-td"><input type="text" class="var-input" /></td><td class="var-txt-td cl-var-exp-right"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div class="var-target unselectable" data-template="qvar-oto-target" data-target-id=""><table><tr><td class="target-text-cell"><div class="target-text text-main">
+					   
+					</div></td></tr></table></div><div class="var-bullet text-main unselectable" data-template="qvar-oto-bullet" data-bullet-id=""><table><tr><td class="bullet-text-cell"><div class="bullet-text text-main">
+						 
+					</div></td></tr></table></div><div data-template="fb" class="q-feedback-template"><div class="q-feedback-inner"><div class="q-feedback-btn unselectable" title="Закрыть сообщение">
+				×
+			</div><div class="q-feedback-txt-cnt unselectable"><div class="q-feedback-txt text-main">
+					 
+				</div></div></div></div></div></div>]]>
+</data>
+</object>
 <timeline>
 </timeline>
 </frame>
@@ -3134,6 +3175,3260 @@
 				return true;
 			}]]>
 </method>
+<method type="q_0001" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var bDefer = false;
+				switch(oCurObj.display)
+				{
+					case "none":
+					{
+						bDefer = true;
+						CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						break;
+					}
+					case "time":
+					case "frame":
+					case "slide":
+					{
+						if(oCurObj.iBegin!=null && +oCurObj.iBegin!=0)
+						{
+							bDefer = true;
+							CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						}
+						break;
+					}
+				}
+				var jSBtn = jCurObjDiv.find(".cl-btn-submit");
+				jSBtn.parent().height(jSBtn.outerHeight());
+
+				oCurObj.data =
+				{
+					aQuestions: [],
+					bAllAnswered: false,
+					bAllowQTimer: (oCurObj.jxParams.children("test_q_timer_switch").text()=="yes"),
+					bAllowFeedback: (oCurObj.jxParams.children("q_fb_switch").text()=="yes"),
+					bCredit: (oCurObj.jxParams.children("test_scored").text()=="yes"),
+					bCombineBtn: (oCurObj.jxParams.children("combine_btn_next").text()=="yes"),
+					bDisplayGoal: (oCurObj.jxParams.children("display_goal").text()=="yes"),
+					bQuestionTimer: (oCurObj.jxParams.children("test_q_timer_switch").text()=="yes"),
+					bRandom: (oCurObj.jxParams.children("randomize").text()=="yes"),
+					bShowCorrect: (oCurObj.jxParams.children("q_showright").text()=="yes"),
+					bTestTimer: (oCurObj.jxParams.children("test_timer_switch").text()=="yes"),
+					jxQuestions: oCurObj.jxParams.find("q_questions > item"),
+					sDisplayAs: oCurObj.jxParams.find("display_type").text(),
+					sMode: "init",
+					sSoundSuccess: oCurObj.jxParams.children("sound_success").text(),
+					sSoundFailure: oCurObj.jxParams.children("sound_failure").text(),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.jxQuestions.length==0)
+				{
+					return false;
+				}
+				var jAudioContainer = jCurObjDiv.find(".cl-audio-files-list");
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					oCurObj.data.jAudioClick = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO1", sType: oCurObj.data.sSoundClick, sFile: oCurObj.jxParams.children("sound_click_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundOver!="none")
+				{
+					oCurObj.data.jAudioOver = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO2", sType: oCurObj.data.sSoundOver, sFile: oCurObj.jxParams.children("sound_over_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundSuccess!="none")
+				{
+					oCurObj.data.jAudioSuccess = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO3", sType: oCurObj.data.sSoundSuccess, sFile: oCurObj.jxParams.children("sound_success_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundFailure!="none")
+				{
+					oCurObj.data.jAudioFailure = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO4", sType: oCurObj.data.sSoundFailure, sFile: oCurObj.jxParams.children("sound_failure_file_custom").text() });
+				}
+// fill runtime-only params fo all q
+				var jxQuestion;
+				var iIdx;
+				for(var i=0; i<oCurObj.data.jxQuestions.length; i++)
+				{
+					jxQuestion = $(oCurObj.data.jxQuestions[i]);
+					oCurObj.data.aQuestions[i] =
+					{
+						bDisplayText: (jxQuestion.children("display_question_text").text()=="yes"),
+						sType: jxQuestion.children("question_type").text()
+					}
+					if(oCurObj.data.bQuestionTimer)
+					{
+						if(jxQuestion.children("q_timer_switch").text()=="yes")
+						{
+							var iTimer = +jxQuestion.children("q_timer").text();
+							if(isNaN(iTimer))
+							{
+								oCurObj.data.aQuestions[i].bTimer = false;
+							}
+							else
+							{
+								oCurObj.data.aQuestions[i].bTimer = true;
+								oCurObj.data.aQuestions[i].iTimer = iTimer;
+							}
+						}
+					}
+					if(oCurObj.data.bCredit)
+					{
+						oCurObj.data.aQuestions[i].aObjectives = [];
+						jxQuestion.find("q_scoreboards > item").each(function ()
+						{
+							oCurObj.data.aQuestions[i].aObjectives.push({ sId: $(this).children("q_board").text(), nWeight: +$(this).children("q_weight_byobj").text() });
+						});
+					}
+					switch(oCurObj.data.aQuestions[i].sType)
+					{
+						case "true-false":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_tf").text();
+							oCurObj.data.aQuestions[i].bShuffle = (jxQuestion.children("q_elements_order").text()=="random");
+							break;
+						}
+						case "choice":
+						{
+							oCurObj.data.aQuestions[i].sScoringType =jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_choice > item");
+							oCurObj.data.aQuestions[i].bShuffle = (jxQuestion.children("q_shuffle_choice").text()=="yes");
+							break;
+						}
+						case "select":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_select > item");
+							oCurObj.data.aQuestions[i].bShuffle = (jxQuestion.children("q_shuffle_select").text()=="yes");
+							break;
+						}
+						case "order":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_order > item");
+							oCurObj.data.aQuestions[i].bShuffle = true;
+							break;
+						}
+						case "numeric":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_numeric > item");
+							oCurObj.data.aQuestions[i].sOp = jxQuestion.children("q_var_logic_numeric").text();
+							break;
+						}
+						case "fib":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_fib > item");
+							oCurObj.data.aQuestions[i].sOp = jxQuestion.children("q_var_logic_fib").text();
+							break;
+						}
+						case "oto":
+						{
+							oCurObj.data.aQuestions[i].sScoringType = jxQuestion.children("q_scoring_type_choice").text();
+							oCurObj.data.aQuestions[i].jxVars = jxQuestion.find("q_variants_oto > item");
+							break;
+						}
+					}
+				}
+// detect mode
+				if(CLZ.oStore[argobj.pid]!=null)
+				{
+					switch(CLZ.oStore[argobj.pid].u)
+					{
+						case "c":
+						{
+							switch(oCurObj.jxParams.children("repeat_test").text())
+							{
+								case "no":
+								{
+									oCurObj.data.sMode = "browse";
+									alert(oCurObj.jxParams.children("t_browse_alert").text());
+									break;
+								}
+								case "yes":
+								{
+									if(confirm(oCurObj.jxParams.children("t_secondrun_confirm").text()))
+									{
+										CLZ.oStore[argobj.pid] = {};
+										CLZ.oStore[argobj.pid] = null;
+										if(oCurObj.data.bCredit)
+										{
+											for(var i=0; i<oCurObj.data.aQuestions.length; i++)
+											{
+												for(var j=0; j<oCurObj.data.aQuestions[i].aObjectives.length; j++)
+												{
+													CL.SCO.RemoveScoreFromObjective({ sId: oCurObj.data.aQuestions[i].aObjectives[j].sId, sSrcId: argobj.pid + "_" + i });
+												}
+											}
+										}
+									}
+									else
+									{
+										oCurObj.data.sMode = "browse";
+									}
+									break;
+								}
+							}
+							break;
+						}
+						case "i":
+						{
+							alert(oCurObj.jxParams.children("t_continue_alert").text());
+							oCurObj.data.sMode = "continue";
+							break;
+						}
+						default:
+						{
+							CLZ.oStore[argobj.pid] = {};
+							CLZ.oStore[argobj.pid] = null;
+							if(oCurObj.data.bCredit)
+							{
+								for(var i=0; i<oCurObj.data.aQuestions.length; i++)
+								{
+									for(var j=0; j<oCurObj.data.aQuestions[i].aObjectives.length; j++)
+									{
+										CL.SCO.RemoveScoreFromObjective({ sId: oCurObj.data.aQuestions[i].aObjectives[j].sId, sSrcId: argobj.pid + "_" + i });
+									}
+								}
+							}
+							break;
+						}
+					}
+				}
+// create storage
+				if(oCurObj.data.sMode=="init")
+				{
+					CLZ.oStore[argobj.pid] =
+					{
+						P: [],
+						Q: [],
+						R: [],
+						s: (new Date()).valueOf(),
+						y: "o",
+						u: "i"
+					};
+					if(oCurObj.data.bTestTimer)
+					{
+						var iTimerM = +oCurObj.jxParams.children("test_timer").text();
+						var iTimerS = +oCurObj.jxParams.children("test_timer_s").text();
+						if(isNaN(iTimerM) && isNaN(iTimerS))
+						{
+							oCurObj.data.bTimer = false;
+						}
+						else
+						{
+							var iTimer = 0;
+							if(!isNaN(iTimerM))
+							{
+								iTimer = 60*iTimerM;
+							}
+							if(!isNaN(iTimerS))
+							{
+										iTimer += iTimerS;
+							}
+							CLZ.oStore[argobj.pid].t = iTimer;
+							CLZ.oStore[argobj.pid].e = 0;
+						}
+					}
+					if(oCurObj.data.bRandom)
+					{
+						var iToPlay = +oCurObj.jxParams.children("random_quantity").text();
+						if(iToPlay > oCurObj.data.jxQuestions.length)
+						{
+							iToPlay = oCurObj.data.jxQuestions.length;
+						}
+						var aShuffled = [];
+						for(var i=0; i<iToPlay; i++) aShuffled[i] = CLTOOLS.Dice({ iMax: oCurObj.data.jxQuestions.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 });
+						for(var i=0; i<iToPlay; i++) CLZ.oStore[argobj.pid].P.push(aShuffled[i]);
+					}
+					else
+					{
+						for(var i=0; i<oCurObj.data.jxQuestions.length; i++) CLZ.oStore[argobj.pid].P.push(i);
+					}
+					var oQuestion;
+					var jxQuestion;
+					var iIdx;
+					for(var i=0; i<CLZ.oStore[argobj.pid].P.length; i++)
+					{
+						iIdx = +CLZ.oStore[argobj.pid].P[i];
+						jxQuestion = $(oCurObj.data.jxQuestions[iIdx]);
+						oQuestion = oCurObj.data.aQuestions[iIdx];
+						CLZ.oStore[argobj.pid].Q[i] =
+						{
+							A:
+							[
+								{
+									R: [],
+									s: 0,
+									d: 0,
+									u: "i"
+								}
+							],
+							O: [],
+							P: [],
+							R: [],
+							s: 0,
+							i: iIdx,
+							y: CLD.CLTypeToAbbr[oQuestion.sType],
+							u: (oCurObj.data.sDisplayAs=="list") ? "i" : "n"
+						};
+						if(oCurObj.data.bCredit)
+						{
+							CLZ.oStore[argobj.pid].Q[i].J = [];
+							for(var j=0; j<oQuestion.aObjectives.length; j++)
+							{
+								CLZ.oStore[argobj.pid].Q[i].J.push( oQuestion.aObjectives[j].sId );
+							}
+						}
+						if(oQuestion.bTimer && oCurObj.data.sDisplayAs!="list")
+						{
+							CLZ.oStore[argobj.pid].Q[i].t = oQuestion.iTimer;
+							CLZ.oStore[argobj.pid].Q[i].e = 0;
+						}
+						switch(oQuestion.sType)
+						{
+							case "true-false":
+							{
+								CLZ.oStore[argobj.pid].Q[i].P.push( (jxQuestion.children("q_eval").text()=="true") ? 1 : 0 ); //no complex scoring
+								if(jxQuestion.children("q_elements_order").text()=="random")
+								{
+									var aShuffled = [];
+															for(var j=0; j<2; j++) aShuffled[j] = CLTOOLS.Dice({ iMax: 2, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 });
+															for(var j=0; j<2; j++) CLZ.oStore[argobj.pid].Q[i].O.push(aShuffled[j]);
+								}
+								else
+								{
+									CLZ.oStore[argobj.pid].Q[i].O = [ 0, 1 ];
+								}
+								// always 1 attempt
+								break;
+							}
+							case "choice":
+							{
+								for(var j=1; j<=oQuestion.jxVars.length; j++) // no complex scoring
+								{
+									if($(oQuestion.jxVars[j-1]).children("q_right").text()=="yes")
+									{
+										CLZ.oStore[argobj.pid].Q[i].P.push(j);
+										break;
+									}
+								}
+								if(oQuestion.bShuffle)
+								{
+									var aShuffled = [];
+									for(var j=0; j<oQuestion.jxVars.length; j++) aShuffled.push( CLTOOLS.Dice({ iMax: oQuestion.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+									for(var j=0; j<oQuestion.jxVars.length; j++) CLZ.oStore[argobj.pid].Q[i].O.push(aShuffled[j]+1);
+								}
+								else
+								{
+									for(var j=1; j<=oQuestion.jxVars.length; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].O.push(j);
+									}
+								}
+								if(oCurObj.data.sDisplayAs!="list")
+								{
+									var iMaxAttepmts = 1;
+									if(jxQuestion.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oQuestion.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +jxQuestion.children("q_attempts").text();
+									}
+									for(var j=1; j<iMaxAttepmts; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].A.push({ u: "n" });
+									}
+								}
+								break;
+							}
+							case "select":
+							{
+								for(var j=1; j<=oQuestion.jxVars.length; j++)
+								{
+									if($(oQuestion.jxVars[j-1]).children("q_right").text()=="yes")
+									{
+										CLZ.oStore[argobj.pid].Q[i].P.push(j);
+									}
+								}
+								if(oQuestion.bShuffle)
+								{
+									var aShuffled = [];
+									for(var j=0; j<oQuestion.jxVars.length; j++) aShuffled.push( CLTOOLS.Dice({ iMax: oQuestion.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+									for(var j=0; j<oQuestion.jxVars.length; j++) CLZ.oStore[argobj.pid].Q[i].O.push(aShuffled[j]+1);
+								}
+								else
+								{
+									for(var j=1; j<=oQuestion.jxVars.length; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].O.push(j);
+									}
+								}
+								if(oCurObj.data.sDisplayAs!="list")
+								{
+									var iMaxAttepmts = 1;
+									if(jxQuestion.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oQuestion.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +jxQuestion.children("q_attempts").text();
+									}
+									for(var j=1; j<iMaxAttepmts; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].A.push({ u: "n" });
+									}
+								}
+								break;
+							}
+							case "order":
+							case "oto":
+							{
+								for(var j=1; j<=oQuestion.jxVars.length; j++)
+								{
+									CLZ.oStore[argobj.pid].Q[i].P.push(j);
+								}
+								var aShuffled = [];
+								for(var j=0; j<oQuestion.jxVars.length; j++) aShuffled.push( CLTOOLS.Dice({ iMax: oQuestion.jxVars.length, bIncludeMax: false, aUsed: aShuffled, iMaxTries: 1000 }) );
+								for(var j=0; j<oQuestion.jxVars.length; j++)
+								{
+									CLZ.oStore[argobj.pid].Q[i].O.push(aShuffled[j]+1);
+									CLZ.oStore[argobj.pid].Q[i].R.push(aShuffled[j]+1);
+								}
+								if(oCurObj.data.sDisplayAs!="list")
+								{
+									var iMaxAttepmts = 1;
+									if(jxQuestion.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oQuestion.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +jxQuestion.children("q_attempts").text();
+									}
+									for(var j=1; j<iMaxAttepmts; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].A.push({ u: "n" });
+									}
+								}
+								break;
+							}
+							case "numeric":
+							case "fib":
+							{
+								var oPattern;
+								var aConds;
+								var jVar;
+								var jConds;
+								for(var j=1; j<=oQuestion.jxVars.length; j++)
+								{
+									jVar = $(oQuestion.jxVars[j-1]);
+									jConds = jVar.find("q_conditions > item");
+									oPattern = { sOp: jVar.children("q_cond_logic").text() };
+									if(jConds.length != 0)
+									{
+                                        aConds = [];
+										if (oQuestion.sType == "fib") {
+											for (var k = 0; k < jConds.length; k++)
+                                            {
+												aConds.push({
+													op: $(jConds[k]).children("q_condition").text(),
+													val: $(jConds[k]).children("q_value").text(),
+													cs: ($(jConds[k]).children("q_case").text() == "yes")
+												})
+                                            }
+                                        }
+                                        else
+                                        {
+											for (var k = 0; k < jConds.length; k++)
+                                            {
+												aConds.push({
+													op: $(jConds[k]).children("q_condition").text(),
+													val: +$(jConds[k]).children("q_value").text()
+												})
+                                            }
+                                        }
+                                        oPattern.aConds = aConds.slice(0);
+                                        CLZ.oStore[argobj.pid].Q[i].P.push(oPattern);
+                                    }
+									CLZ.oStore[argobj.pid].Q[i].R.push("");
+								}
+								for(var j=1; j<=oQuestion.jxVars.length; j++)
+								{
+									CLZ.oStore[argobj.pid].Q[i].O.push(j);
+								}
+								if(oCurObj.data.sDisplayAs!="list")
+								{
+									var iMaxAttepmts = 1;
+									if(jxQuestion.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oQuestion.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +jxQuestion.children("q_attempts").text();
+									}
+									for(var j=1; j<iMaxAttepmts; j++)
+									{
+										CLZ.oStore[argobj.pid].Q[i].A.push({ u: "n" });
+									}
+								}
+								break;
+							}
+						}
+					}
+				}
+				jCurObjDiv.find(".q-feedback-btn").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+				oCurObj.data.bCreated = true;
+				if(!bDefer)
+				{
+					oCurObj.CallMethod({ sMethod: "Init" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="Init">
+<![CDATA[function Init(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.bInit==true)
+				{
+					return false;
+				}
+				var jCurObjDiv = $(oCurObj.div);
+				var iQId;
+				var jxQuestion;
+				var sIntId;
+				var oStore = CLZ.oStore[argobj.pid];
+				var oQStore;
+				switch(oCurObj.data.sDisplayAs)
+				{
+					case "page":
+					{
+						switch(oCurObj.data.sMode)
+						{
+							case "init":
+							{
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									for(var j=0; j<oStore.Q.length; j++)
+									{
+										if(+oStore.Q[j].i==iQId)
+										{
+											oQStore = oStore.Q[j];
+											break;
+										}
+									}
+									oQStore = oStore.Q[i];
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+								}
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								oCurObj.CallMethod({ sMethod: "DisplayQuestion", oMethodArgs: { qid: oStore.P[0] } });
+								oCurObj.CallMethod({ sMethod: "UpdateRail" });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "init" } });
+								}
+								jCurObjDiv.find(".cl-btn, .cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								oCurObj.data.bInit = true;
+								break;
+							}
+							case "continue":
+							{
+								var oQStore;
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									for(var j=0; j<oStore.Q.length; j++)
+									{
+										if(+oStore.Q[j].i==iQId)
+										{
+											oQStore = oStore.Q[j];
+											break;
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+									if(oQStore.u!="n")
+									{
+										oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: iQId } });
+										if(oQStore.u=="c")
+										{
+											oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ iQId ] } });
+										}
+									}
+								}
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								var iFirstUnfinished = oCurObj.CallMethod({ sMethod: "FirstUnfinished" });
+								if(iFirstUnfinished==-1)
+								{
+									oCurObj.CallMethod({ sMethod: "DisplayQuestion", oMethodArgs: { qid: oStore.P[0] } });
+								}
+								else
+								{
+									oCurObj.CallMethod({ sMethod: "DisplayQuestion", oMethodArgs: { qid: oStore.P[iFirstUnfinished] } });
+								}
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "UpdateRail" });
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "proceed" } });
+								}
+								jCurObjDiv.find(".cl-btn, .cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+								oCurObj.data.bInit = true;
+								break;
+							}
+							case "browse":
+							{
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+									oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: iQId } });
+								}
+								oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: oStore.P }});
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								oCurObj.CallMethod({ sMethod: "DisplayQuestion", oMethodArgs: { qid: oStore.P[0] } });
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "UpdateRail" });
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "restore" } });
+								}
+								jCurObjDiv.find(".cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+								jCurObjDiv.find(".cl-t-footer-cell-center").html((oCurObj.data.sTestResult=="t") ? oCurObj.jxParams.find("t_stop_msg").text() : oCurObj.jxParams.find("t_allanswered_msg").text());
+								oCurObj.data.bInit = true;
+								break;
+							}
+						}
+						break;
+					}
+					case "list":
+					{
+						switch(oCurObj.data.sMode)
+						{
+							case "init":
+							{
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									for(var j=0; j<oStore.Q.length; j++)
+									{
+										if(+oStore.Q[j].i==iQId)
+										{
+											oQStore = oStore.Q[j];
+											break;
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+									if(oQStore.u=="n")
+									{
+										oQStore.u = "i";
+										oQStore.s = 0;
+										oQStore.A[0].s = 0;
+										oQStore.A[0].u = "i";
+									}
+								}
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								if(oCurObj.jxParams.children("allow_partial_answer").text()!="yes" || oCurObj.data.sDisplayAs=="page")
+								{
+									oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								}
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "init" } });
+								}
+								jCurObjDiv.find(".cl-btn, .cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								break;
+							}
+							case "continue":
+							{
+								var iFirstUnanswered = oCurObj.CallMethod({ sMethod: "FirstUnanswered" });
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									for(var j=0; j<oStore.Q.length; j++)
+									{
+										if(+oStore.Q[j].i==iQId)
+										{
+											oQStore = oStore.Q[j];
+											break;
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+									if(oQStore.u!="n")
+									{
+										oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: iQId } });
+									}
+								}
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "UpdateRail" });
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								if(oCurObj.jxParams.children("allow_partial_answer").text()!="yes" || oCurObj.data.sDisplayAs=="page")
+								{
+									oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								}
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "proceed" } });
+								}
+								jCurObjDiv.find(".cl-btn, .cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								if(iFirstUnanswered!=-1)
+								{
+									oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { qid: iFirstUnanswered } });
+								}
+								break;
+							}
+							case "browse":
+							{
+								for(var i=0; i<oStore.P.length; i++)
+								{
+									iQId = +oStore.P[i];
+									for(var j=0; j<oStore.Q.length; j++)
+									{
+										if(+oStore.Q[j].i==iQId)
+										{
+											oQStore = oStore.Q[j];
+											break;
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "AppendQuestion", oMethodArgs: { qid: iQId, iNum: (i+1) } });
+									oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: iQId } });
+								}
+								oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: oStore.P } });
+								oCurObj.CallMethod({ sMethod: "InitRail" });
+								oCurObj.CallMethod({ sMethod: "UpdateRail" });
+								oCurObj.CallMethod({ sMethod: "AdjustArea" });
+								if(oCurObj.data.bTestTimer)
+								{
+									oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "restore" } });
+								}
+								jCurObjDiv.find(".cl-t-progress-item-btn").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								jCurObjDiv.find(".cl-t-footer-cell-center").html((oCurObj.data.sTestResult=="t") ? oCurObj.jxParams.find("t_stop_msg").text() : oCurObj.jxParams.find("t_allanswered_msg").text());
+								break;
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="AppendQuestion">
+<![CDATA[function AppendQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jxQuestion = $(oCurObj.data.jxQuestions[+argobj.qid]);
+				var oQStore = CLZ.oStore[argobj.pid].Q[+argobj.iNum-1];
+				var oQuestion = oCurObj.data.aQuestions[+oQStore.i];
+				var sQType = oQuestion.sType;
+				var jQuestion = $(document.createElement("div")).addClass("q-question").attr({ "id": argobj.pid + "_Q_" + argobj.qid, "data-q-num": argobj.qid }).appendTo(jCurObjDiv.find(".cl-t-workarea"));
+				if(oCurObj.data.sDisplayAs=="list")
+				{
+					var sString = oCurObj.jxParams.children("string_question_count").text();
+					var aParts = sString.split("{{1}}");
+					sString = aParts.join(argobj.iNum.toString());
+					aParts = sString.split("{{2}}");
+					sString = aParts.join(CLZ.oStore[argobj.pid].P.length.toString());
+					jCurObjDiv.find(".template-storage div[data-template='qnumber']").clone(true).removeAttr("data-template").html(sString).appendTo(jQuestion);
+				}
+				if(jxQuestion.children("display_question_text").text()=="yes")
+				{
+					jCurObjDiv.find(".template-storage div[data-template='qtext']").clone(true).removeAttr("data-template").html(jxQuestion.children("text_main").text() ).appendTo(jQuestion);
+				}
+				if(oCurObj.data.bDisplayGoal)
+				{
+					jCurObjDiv.find(".template-storage div[data-template='qgoal']").clone(true).removeAttr("data-template").html( oCurObj.jxParams.children("q_goal_" + sQType).text() ).appendTo(jQuestion);
+				}
+				switch(sQType)
+				{
+					case "true-false":
+					{
+						var sLayout = jxQuestion.children("q_elements_layout").text();
+						var jQBlock = jCurObjDiv.find(".template-storage div[data-template='qvars-true-false-" + sLayout + "']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-selection": "" }).appendTo(jQuestion);
+						var sOrder = jxQuestion.children("q_elements_order").text();
+						if(sOrder=="random")
+						{
+							sOrder = (Math.round(Math.random())==1) ? "tf" : "ft";
+						}
+						var jVar;
+						if(sLayout=="v")
+						{
+							var jPlaces = jQBlock;
+							if(sOrder=="tf")
+							{
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "1" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_true").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "0" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_false").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							}
+							else
+							{
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "1" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_false").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "0" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_true").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							}
+						}
+						else
+						{
+							var jPlaces = jQBlock.find("*[data-append]");
+							if(sOrder=="tf")
+							{
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "1" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_true").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "0" }).appendTo(jPlaces[1]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_false").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							}
+							else
+							{
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "0" }).appendTo(jPlaces[0]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_false").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+								jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-tf']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": "1" }).appendTo(jPlaces[1]);
+								jVar.find(".text-main").html( jxQuestion.children("q_text_true").text() );
+								jVar.addClass("var-clickable").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							}
+						}
+						break;
+					}
+					case "choice":
+					case "select":
+					{
+						var jxVars = jxQuestion.find("q_variants_" + sQType + " > item");
+						var jQBlock = jCurObjDiv.find(".template-storage div[data-template='qvars-" + sQType + "']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-selection": "" }).appendTo(jQuestion);
+						var jVar;
+						for(var i=0; i<oQStore.O.length; i++)
+						{
+							jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-" + sQType + "']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": oQStore.O[i] }).appendTo(jQBlock);
+							jVar.find(".text-main").html( $(jxVars[+oQStore.O[i] - 1]).children("q_variant").text() );
+							jVar.addClass("var-clickable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+						}
+						break;
+					}
+					case "numeric":
+					case "fib":
+					{
+						var jxVars = jxQuestion.find("q_variants_" + sQType + " > item");
+						var jQBlock = jCurObjDiv.find(".template-storage div[data-template='qvars-" + sQType + "']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid }).appendTo(jQuestion);
+						var jVar;
+						for(var i=0; i<jxVars.length; i++)
+						{
+							jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-" + sQType + "']").clone(true).appendTo(jQBlock);
+							jVar.removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": (i+1) });
+							jVar.find(".text-main").html($(jxVars[i]).children("q_explanation").text());
+							jVar.find("input").on("keyup", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); }).on("blur", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+							if($(jxVars[i]).children("q_exp_position").length!=0)
+							{
+								if($(jxVars[i]).children("q_exp_position").text()=="left")
+								{
+									jVar.find(".cl-var-exp-right").remove();
+									jVar.find(".var-spot-td").addClass("cl-var-input-cell-left");
+								}
+								else
+								{
+									jVar.find(".cl-var-exp-left").remove();
+									jVar.find(".var-spot-td").addClass("cl-var-input-cell-right");
+								}
+							}
+							else
+							{
+								jVar.find(".cl-var-exp-left").remove();
+								jVar.find(".var-spot-td").addClass("cl-var-input-cell-right");
+							}
+						}
+						break;
+					}
+					case "order":
+					{
+						var jxVars = jxQuestion.find("q_variants_order > item");
+						var jQBlock = jCurObjDiv.find(".template-storage div[data-template='qvars-order']").clone(true).removeAttr("data-template").attr({ "id": argobj.pid + "_" + argobj.qid + "_VC", "data-type": sQType, "data-qid": argobj.qid }).appendTo(jQuestion);
+						var jVar;
+						for(var i=0; i<oQStore.O.length; i++)
+						{
+							jVar = jCurObjDiv.find(".template-storage div[data-template='qvar-order']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": oQStore.O[i] }).appendTo(jQBlock);
+							jVar.find(".text-main").html( $(jxVars[oQStore.O[i]-1]).children("q_variant").text() );
+							jVar.addClass("unselectable cl-drag var-order-elem");
+						}
+						var jVars = jQBlock.find(".var");
+						jVars.each(function ()
+						{
+							$(this).draggable(
+							{
+								snap: false,
+								refreshPositions: false,
+								containment: CLZ.nZoom==1 ? $(CL.oBoard) : false,
+								axis: "y",
+								stack: ".var-order-elem",
+								revert: "invalid",
+								scope: argobj.pid + "_" + argobj.qid,
+								drag: function (event, ui)
+								{
+									if(CLZ.nZoom!=1) // zoom fix
+									{
+										ui.position.top = ui.position.top / CLZ.nZoom;
+										ui.position.left = ui.position.left / CLZ.nZoom;
+									}
+								},
+								stop: function (event, ui)
+								{
+									jVars.css({ "box-shadow": "none" }); // order needs no adjusting
+								}
+							}).droppable(
+							{
+								accept: ".var-order-elem",
+								scope: argobj.pid + "_" + argobj.qid,
+								tolerance: "intersect",
+								over: function (event, ui)
+								{
+									$(this).css({ "box-shadow": "0 0 0.5em " + $(this).css("border-color") })
+								},
+								out: function (event, ui)
+								{
+									$(this).css({ "box-shadow": "none" })
+								},
+								drop: function(event, ui)
+								{
+									oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: event, elem: this, bullet: ui.draggable } })
+								}
+							});
+						});
+						if(jVars.length!=0)
+						{
+							var iLeft = $(jVars[0]).position().left;
+							var aTops = [];
+							jVars.each(function ()
+							{
+								aTops.push($(this).position().top);
+							});
+							jVars.attr({ "data-tops": aTops.join("|") });
+							jQBlock.attr({ "data-order": oQStore.O.join("|") });
+							jQBlock.css({ "height": jQBlock.height() + "px" });
+						}
+						break;
+					}
+					case "oto":
+					{
+						var jxVars = jxQuestion.find("q_variants_" + sQType + " > item");
+						var jQBlock = jCurObjDiv.find(".template-storage div[data-template='qvars-" + sQType + "']").clone(true).removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid }).appendTo(jQuestion);
+
+						var jTable = $(document.createElement("table")).addClass("oto-table").appendTo(jQBlock);
+						var jTR;
+						var jTD;
+						var jTarget;
+						var jBullet;
+						for(var i=0; i<jxVars.length; i++)
+						{
+							jTR = $(document.createElement("tr")).appendTo(jTable);
+							jTD = $(document.createElement("td")).addClass("left-part").appendTo(jTR);
+							jTarget = jCurObjDiv.find(".template-storage div[data-template='qvar-oto-target']").clone(true).appendTo(jTD);
+							jTarget.removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": (i+1) });
+							jTarget.find(".text-main").html($(jxVars[i]).children("q_target").text());
+							jTD = $(document.createElement("td")).addClass("center-part").appendTo(jTR);
+							jTD.append( $(document.createElement("div")).addClass("oto-connector").html("&nbsp;") );
+							jTD = $(document.createElement("td")).addClass("right-part").appendTo(jTR);
+							jBullet = jCurObjDiv.find(".template-storage div[data-template='qvar-oto-bullet']").clone(true).appendTo(jTD);
+							jBullet.removeAttr("data-template").attr({ "data-type": sQType, "data-qid": argobj.qid, "data-vid": (i+1) });
+							jBullet.find(".text-main").html($(jxVars[i]).children("q_bullet").text());
+						}
+
+						// resize and distribute
+						var jTargets = jQBlock.find(".var-target");
+						var jBullets = jQBlock.find(".var-bullet");
+						jTargets.each(function () { $(this).css({ "width": $(this).width + "px" }) });
+						jBullets.each(function () { $(this).css({ "width": $(this).width + "px" }) });
+						var iHMax = 0;
+						jTargets.each(function () { if($(this).find(".target-text-cell").height() > iHMax) { iHMax = $(this).find(".target-text-cell").height() }  });
+						jBullets.each(function () { if($(this).find(".bullet-text-cell").height() > iHMax) { iHMax = $(this).find(".bullet-text-cell").height() }  });
+						jTargets.find(".target-text-cell").height(iHMax);
+						jBullets.find(".bullet-text-cell").height(iHMax);
+						jTargets.each(function () { $(this).height($(this.height)) });
+						var aTops = [];
+						jBullets.each(function ()
+						{
+							$(this).css( { "height": $(this).height + "px", "width": $(this).width() + "px" });
+							var oPos = $(this).position();
+							aTops.push(oPos.top/CLZ.nZoom);
+							var jParent = $(this).parent();
+							$(this).css({ "position": "absolute", "left": (oPos.left/CLZ.nZoom) + "px", "top": aTops[aTops.length-1] + "px", "z-index": 1000 }).appendTo(jQBlock);
+							$(this).addClass("unselectable cl-drag").draggable(
+							{
+								snap: false,
+								refreshPositions: false,
+								containment: CLZ.nZoom==1 ? $(CL.oBoard) : false,
+								axis: "y",
+								stack: ".var-bullet",
+								revert: "invalid",
+								drag: function (event, ui)
+								{
+									if(CLZ.nZoom!=1) // zoom fix
+									{
+										ui.position.top = ui.position.top / CLZ.nZoom;
+										ui.position.left = ui.position.left / CLZ.nZoom;
+									}
+								},
+								stop: function (event, ui)
+								{
+									jBullets.css({ "box-shadow": "none" });
+									oCurObj.CallMethod({ sMethod: "AdjustDraggables", oMethodArgs: { evt: event, elem: this, bullet: ui.draggable } });
+								}
+							}).droppable(
+							{
+								accept: ".var-bullet",
+								tolerance: "intersect",
+								over: function (event, ui)
+								{
+									$(this).css({ "box-shadow": "0 0 0.5em " + $(this).css("border-color") });
+								},
+								out: function (event, ui)
+								{
+									$(this).css({ "box-shadow": "none" });
+								},
+								drop: function(event, ui)
+								{
+									oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: event, elem: this, bullet: ui.draggable } });
+								}
+							});
+						});
+						jBullets.attr({ "data-tops": aTops.join("|") });
+						var iIdx;
+						for(var i=0; i<oQStore.O.length; i++)
+						{
+							jBullets.filter("[data-vid='" + oQStore.O[i] + "']").css({ "top": aTops[i] });
+						}
+						$(jBullets[0]).parent().attr({ "data-order": oQStore.O.join("|") });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="AdjustDraggables">
+<![CDATA[function AdjustDraggables(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jParent = $(argobj.elem).parent();
+				var jBullets = jParent.find(".var-bullet");
+				var iQId = +argobj.elem.getAttribute("data-qid");
+				var aTops = argobj.elem.getAttribute("data-tops").split("|");
+				var aOrder = jParent.attr("data-order").split("|");
+				for(var i=0; i<aOrder.length; i++)
+				{
+					jParent.children("[data-vid='" + aOrder[i] + "']").css({ top: aTops[i] + "px" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="DisplayQuestion">
+<![CDATA[function DisplayQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				jCurObjDiv.find(".q-question").hide();
+				jCurObjDiv.find(".q-question[data-q-num='" + argobj.qid + "']").show();
+				var iNumber = -1;
+				var oQStore;
+				for(var i=0; i<CLZ.oStore[argobj.pid].Q.length; i++)
+				{
+					if(+CLZ.oStore[argobj.pid].Q[i].i===argobj.qid)
+					{
+						iNumber = i;
+						oQStore = CLZ.oStore[argobj.pid].Q[i];
+						break;
+					}
+				}
+				if(iNumber==-1) return false;
+				var oQuestion = oCurObj.data.aQuestions[+oQStore.i];
+				if(oQStore.u=="n") oQStore.u = "i";
+				if(oQStore.s==0)
+				{
+					oQStore.s = (new Date()).valueOf() - CLZ.oStore[argobj.pid].s;
+					if(oQuestion.bTimer)
+					{
+						oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { qid: argobj.qid, sAction: "init" } });
+					}
+					else
+					{
+						oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { qid: argobj.qid, sAction: "hide" } });
+					}
+				}
+				else
+				{
+					oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: argobj.qid, inum: iNumber } });
+					if(oQuestion.bTimer)
+					{
+						oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { qid: argobj.qid, sAction: (oQStore.u=="c" ? "restore" : "proceed") } });
+					}
+					else
+					{
+						oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { qid: argobj.qid, sAction: "hide" } });
+					}
+				}
+				var iAtt = 0;
+				for(var i=0; i<oQStore.A.length; i++)
+				{
+					if(oQStore.A[i].u!="c")
+					{
+						iAtt = i + 1;
+						break;
+					}
+				}
+				var sString = oCurObj.jxParams.children("string_question_attempts").text();
+				var aParts = sString.split("{{2}}");
+				sString = aParts.join(oQStore.A.length);
+				aParts = sString.split("{{1}}");
+				sString = aParts.join(iAtt);
+				jCurObjDiv.find(".cl-t-attempts").html(sString);
+				oCurObj.CallMethod({ sMethod: "UpdateRail" });
+				oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+				if(oCurObj.data.sMode=="browse")
+				{
+					oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ argobj.qid ] } });
+				}
+				oCurObj.FireEvent({ sName: "onDisplayQuestion" });
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="DisableQuestions">
+<![CDATA[function DisableQuestions(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jQuestion;
+				var iIdx;
+				var jQVars;
+				var sQType;
+				var jVars;
+				for(var i=0; i<argobj.aTargets.length; i++)
+				{
+					iIdx = argobj.aTargets[i];
+					jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + iIdx + "']");
+					if(jQuestion.hasClass("q-disabled"))
+					{
+						continue;
+					}
+					jQVars = jQuestion.find(".q-vars:first");
+					sQType = jQVars.attr("data-type");
+					switch(sQType)
+					{
+						case "true-false":
+						case "choice":
+						case "select":
+						{
+							jQVars.find(".var").removeClass("var-clickable").addClass("var-disabled");
+							break;
+						}
+						case "order":
+						{
+							jQVars.find(".var").removeClass("cl-drag").addClass("var-disabled").draggable("destroy").droppable("destroy");
+							break;
+						}
+						case "oto":
+						{
+							jQVars.find(".var-bullet").removeClass("cl-drag").addClass("var-disabled").draggable("destroy").droppable("destroy");
+							break;
+						}
+						case "numeric":
+						case "fib":
+						{
+							jQVars.find(".var-input").prop("disabled", true);
+							break;
+						}
+					}
+					jQuestion.addClass("q-disabled");
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="GoTo">
+<![CDATA[function GoTo(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var iIdx = argobj.qid;
+				var jQuestion;
+				oCurObj.CallMethod({ sMethod: "Feedback" });
+				if(iIdx==null)
+				{
+					if(argobj.sDir==null || oCurObj.data.sDisplayAs=="list")
+					{
+						return false;
+					}
+					jQuestion = jCurObjDiv.find(".q-question:visible");
+					iIdx = +jQuestion.attr("data-q-num");
+					var i = $.inArray(iIdx, CLZ.oStore[argobj.pid].P);
+					switch(argobj.sDir)
+					{
+						case "next":
+						{
+							if(i>=CLZ.oStore[argobj.pid].P.length-1)
+							{
+								i = oCurObj.CallMethod({ sMethod: "FirstUnfinished" });
+								if((i>=CLZ.oStore[argobj.pid].P.length-1) || i<=0)
+								{
+									return false;
+								}
+								iIdx = CLZ.oStore[argobj.pid].P[i];
+							}
+							else
+							{
+								iIdx = CLZ.oStore[argobj.pid].P[i+1];
+							}
+							break;
+						}
+						case "back":
+						{
+							if(i<=0)
+							{
+								i = oCurObj.CallMethod({ sMethod: "FirstUnfinished" });
+								if((i>=CLZ.oStore[argobj.pid].P.length-1) || i<=0)
+								{
+									return false;
+								}
+								iIdx = CLZ.oStore[argobj.pid].P[i];
+							}
+							else
+							{
+								iIdx = CLZ.oStore[argobj.pid].P[i-1];
+							}
+							break;
+						}
+					}
+					if(iIdx==null) return false;
+				}
+				jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + iIdx + "']");
+				switch(oCurObj.data.sDisplayAs)
+				{
+					case "page":
+					{
+						oCurObj.CallMethod({ sMethod: "DisplayQuestion", oMethodArgs: { qid: iIdx } });
+						break;
+					}
+					case "list":
+					{
+						var jWA = jCurObjDiv.find(".cl-t-workarea");
+						jWA.animate({ scrollTop: jQuestion[0].offsetTop }, 400);
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="AdjustArea">
+<![CDATA[function AdjustArea(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jWA = jCurObjDiv.find(".cl-t-workarea");
+				if(oCurObj.data.sDisplayAs=="list")
+				{
+					var jContainer = jCurObjDiv.find(".cl-t-container");
+					var jHeader = jCurObjDiv.find(".cl-t-header");
+					var jFooter = jCurObjDiv.find(".cl-t-footer");
+					var iFullH = parseInt(oCurObj.initial.h, 10);
+					var iBorder = parseInt(window.getComputedStyle(jContainer[0], null).getPropertyValue("border-top-width"), 10) + parseInt(window.getComputedStyle(jContainer[0], null).getPropertyValue("border-bottom-width"), 10);
+					iBorder += parseInt(window.getComputedStyle(jHeader[0], null).getPropertyValue("border-top-width"), 10) + parseInt(window.getComputedStyle(jHeader[0], null).getPropertyValue("border-bottom-width"), 10);
+					iBorder += parseInt(window.getComputedStyle(jWA[0], null).getPropertyValue("border-top-width"), 10) + parseInt(window.getComputedStyle(jWA[0], null).getPropertyValue("border-bottom-width"), 10);
+					iBorder += parseInt(window.getComputedStyle(jFooter[0], null).getPropertyValue("border-top-width"), 10) + parseInt(window.getComputedStyle(jFooter[0], null).getPropertyValue("border-bottom-width"), 10);
+					var iPadding = parseInt(window.getComputedStyle(jWA[0], null).getPropertyValue("padding-top"), 10) + parseInt(window.getComputedStyle(jWA[0], null).getPropertyValue("padding-bottom"), 10);
+					var iH = iFullH - jHeader[0].offsetHeight - jFooter[0].offsetHeight - iPadding - iBorder;
+					jWA.css({ "height": iH + "px" });
+				}
+				else if(oCurObj.data.sDisplayAs=="page")
+				{
+					if(oCurObj.jxParams.children("adjust_height").text()=="yes")
+					{
+						var jQuestions = jCurObjDiv.find(".q-question");
+						var iMaxH = 0;
+						jQuestions.each(function ()
+						{
+							var iQH = parseInt(window.getComputedStyle(this, null).getPropertyValue("height"), 10);
+							if(iQH > iMaxH)
+							{
+								iMaxH = iQH;
+							}
+						});
+						jWA.css({ "height": iMaxH + "px" });
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="InitRail">
+<![CDATA[function InitRail(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jRailItem = jCurObjDiv.find(".cl-t-progress-item");
+				var iQNum;
+				var sString = oCurObj.jxParams.children("string_question_count").text();
+				var aParts = sString.split("{{2}}");
+				sString = aParts.join(CLZ.oStore[argobj.pid].P.length.toString());
+				for(var i=0; i<CLZ.oStore[argobj.pid].P.length; i++)
+				{
+					iQNum = CLZ.oStore[argobj.pid].P[i];
+					$(jRailItem[i]).attr({ "data-q-num": iQNum });
+					aParts = sString.split("{{1}}");
+					$(jRailItem[i]).children(".cl-t-progress-item-btn").attr({ "title": aParts.join((i+1).toString()) });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="UpdateRail">
+<![CDATA[function UpdateRail(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jQuestions = jCurObjDiv.find("div.q-question");
+				var aTouched = [];
+				var iIdx = -1;
+				var oStore = CLZ.oStore[argobj.pid];
+				var oQStore;
+				for(var i=0; i<oStore.P.length; i++)
+				{
+					iIdx = +oStore.P[i];
+					for(var j=0; j<oStore.Q.length; j++)
+					{
+						if(+oStore.Q[j].i==iIdx)
+						{
+							oQStore = oStore.Q[j];
+							break;
+						}
+					}
+					if(oQStore.A[0].R!=null)
+					{
+						if(oQStore.A[0].R.length!=0)
+						{
+							aTouched.push(iIdx);
+						}
+					}
+				}
+				var jRailItem = jCurObjDiv.find(".cl-t-progress-item");
+				jRailItem.each(function ()
+				{
+					if($.inArray(+$(this).attr("data-q-num"), aTouched)!=-1)
+					{
+						$(this).removeClass("cl-unvisited cl-current").addClass("cl-visited");
+					}
+					else
+					{
+						$(this).removeClass("cl-visited cl-current").addClass("cl-unvisited");
+					}
+				});
+				var sString;
+				var aParts;
+				if(oCurObj.data.sDisplayAs=="page")
+				{
+					var iIdx = +jQuestions.filter(":visible").attr("data-q-num")
+					jCurObjDiv.find(".cl-t-progress-item[data-q-num='" + iIdx + "']").removeClass("cl-visited cl-unvisited").addClass("cl-current");
+					sString = oCurObj.jxParams.children("string_question_count").text();
+					aParts = sString.split("{{2}}");
+					sString = aParts.join(oStore.P.length);
+					aParts = sString.split("{{1}}");
+					iIdx = $.inArray(iIdx, oStore.P) + 1;
+					sString = aParts.join(iIdx);
+					jCurObjDiv.find(".cl-t-info-line").html(sString);
+				}
+				sString = oCurObj.jxParams.children("string_answered").text();
+				aParts = sString.split("{{1}}");
+				sString = aParts.join(aTouched.length);
+				aParts = sString.split("{{2}}");
+				sString = aParts.join(oStore.P.length);
+				jCurObjDiv.find(".cl-t-answered-info").html(sString);
+				if(aTouched.length>=oStore.P.length)
+				{
+					oCurObj.data.bAllAnswered = true;
+					if(oCurObj.data.sDisplayAs=="list")
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="RestoreQuestionState">
+<![CDATA[function RestoreQuestionState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jxQuestion = $(oCurObj.data.jxQuestions[argobj.qid]);
+				var iIdx = $.inArray(+argobj.qid, CLZ.oStore[argobj.pid].P);
+				var oQStore = CLZ.oStore[argobj.pid].Q[iIdx];
+				if(oQStore==null) return false;
+				var oQuestion = oCurObj.data.aQuestions[+oQStore.i];
+				var sQType = oQuestion.sType;
+				if(argobj.bCorrect==true)
+				{
+					var jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + argobj.qid + "']");
+					var jQVars = jQuestion.find(".q-vars:first");
+					jQuestion.find(".q-question-goal").html( oCurObj.jxParams.find("q_goal_right").text() );
+					switch(sQType)
+					{
+						case "true-false":
+						case "choice":
+						{
+							for(var i=0; i<oQStore.P.length; i++)
+							{
+								oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { jElem: jQuestion.find(".var[data-vid='" + oQStore.P[i] + "']") } });
+							}
+							break;
+						}
+						case "select":
+						{
+							var jElem;
+							var iInPattern = -1;
+							for(var i=0; i<oQStore.O.length; i++)
+							{
+								jElem = jQuestion.find(".var[data-vid='" + oQStore.O[i] + "']");
+								iInPattern = $.inArray(+oQStore.O[i], oQStore.P);
+								if(jElem.hasClass("var-selected"))
+								{
+									if(iInPattern==-1)
+									{
+										oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { jElem: jElem } });
+									}
+								}
+								else
+								{
+									if(iInPattern!=-1)
+									{
+										oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { jElem: jElem } });
+									}
+								}
+							}
+							break;
+						}
+						case "order":
+						{
+							var jParent = jQuestion.find(".var").parent();
+							for(var i=0; i<oQStore.P.length; i++)
+							{
+								jQuestion.find(".var[data-vid='" + oQStore.P[i] + "']").appendTo(jParent);
+							}
+							jQVars.attr({ "data-order": oQStore.P.join("|"), "data-touched": "1" });
+							break;
+						}
+						case "oto":
+						{
+							var jBullets = jQuestion.find(".var-bullet");
+							var jParent = $(jBullets[0]).parent();
+							var aTops = $(jBullets[0]).attr("data-tops").split("|");
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								jParent.children(".var-bullet[data-vid='"+ oQStore.P[i] +"']").css({ "top": aTops[i] + "px" });
+							}
+							jQVars.attr({ "data-order": oQStore.P.join("|"), "data-touched": "1" });
+							break;
+						}
+						case "numeric":
+						{
+							var aParts;
+							var sAnswerString = "";
+							var oSigns = { "eq": "=", "gt": ">", "gte": ">=", "lt": "<", "lte": "<=", "ne": "!=" };
+							var aAnswer = [];
+							var aStrings = [];
+							for(var i=0; i<oQStore.P.length; i++)
+							{
+								sAnswerString = "";
+								if(oQStore.P[i].aConds.length==0)
+								{
+									sAnswerString = "*";
+								}
+								else
+								{
+									aStrings = [];
+									for(var j=0; j<oQStore.P[i].aConds.length; j++)
+									{
+										aStrings.push(oSigns[oQStore.P[i].aConds[j].op] + oQStore.P[i].aConds[j].val);
+									}
+									sAnswerString += aStrings.join(" " + oQStore.P[i].sOp + " ");
+								}
+								jQuestion.find(".var[data-vid='" + (i+1) + "'] .var-input").val(sAnswerString);
+							}
+							jQVars.attr({ "data-touched": "1" });
+							break;
+						}
+						case "fib":
+						{
+							var aParts;
+							var sAnswerString = "";
+							var aAnswer = [];
+							var aStrings = [];
+							for(var i=0; i<oQStore.P.length; i++)
+							{
+								sAnswerString = "";
+								if(oQStore.P[i].aConds.length==0)
+								{
+									sAnswerString = "*";
+								}
+								else
+								{
+									aStrings = [];
+									for(var j=0; j<oQStore.P[i].aConds.length; j++)
+									{
+										switch(oQStore.P[i].aConds[j].op)
+										{
+											case "eq":
+											{
+												aStrings.push("=" + oQStore.P[i].aConds[j].val);
+												break;
+											}
+											case "ee":
+											{
+												aStrings.push("*" + oQStore.P[i].aConds[j].val);
+												break;
+											}
+											case "bw":
+											{
+												aStrings.push(oQStore.P[i].aConds[j].val + "*");
+												break;
+											}
+											case "cn":
+											{
+												aStrings.push("*" + oQStore.P[i].aConds[j].val + "*");
+												break;
+											}
+										}
+									}
+									sAnswerString += aStrings.join(" " + oQStore.P[i].sOp + " ");
+								}
+								jQuestion.find(".var[data-vid='" + (i+1) + "'] .var-input").val(sAnswerString);
+							}
+							jQVars.attr({ "data-touched": "1" });
+							break;
+						}
+					}
+				}
+				else if(oQStore.R.length!=0)
+				{
+					var jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + argobj.qid + "']");
+					var jQVars = jQuestion.find(".q-vars:first");
+					switch(sQType)
+					{
+						case "true-false":
+						case "choice":
+						{
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { jElem: jQuestion.find(".var[data-vid='" + oQStore.R[i] + "']") } });
+							}
+							break;
+						}
+						case "select":
+						{
+							var jElem;
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								jElem = jQuestion.find(".var[data-vid='" + oQStore.R[i] + "']");
+								if(!jElem.hasClass("var-selected"))
+								{
+									oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { jElem: jElem } });
+								}
+							}
+							break;
+						}
+						case "order":
+						{
+							var jParent = jQuestion.find(".var").parent();
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								jQuestion.find(".var[data-vid='" + oQStore.R[i] + "']").appendTo(jParent);
+							}
+							jQVars.attr({ "data-order": oQStore.R.join("|"), "data-touched": "1" });
+							break;
+						}
+						case "oto":
+						{
+							var jBullets = jQuestion.find(".var-bullet");
+							var jParent = $(jBullets[0]).parent();
+							var aTops = $(jBullets[0]).attr("data-tops").split("|");
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								jParent.children(".var-bullet[data-vid='"+ oQStore.R[i] +"']").css({ "top": aTops[i] + "px" });
+							}
+							jQVars.attr({ "data-order": oQStore.R.join("|"), "data-touched": "1" });
+							break;
+						}
+						case "numeric":
+						case "fib":
+						{
+							var aParts;
+							for(var i=0; i<oQStore.R.length; i++)
+							{
+								jQuestion.find(".var[data-vid='" + (i+1) + "'] .var-input").val(oQStore.R[i]);
+							}
+							jQVars.attr({ "data-touched": "1" });
+							break;
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="Button">
+<![CDATA[function Button(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jBtn = jCurObjDiv.find(".cl-btn").filter("[data-action='" + argobj.sBtn + "']");
+				switch(argobj.sAction)
+				{
+					case "init":
+					{
+						jBtn.on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+						break;
+					}
+					case "disable":
+					{
+						jBtn.removeClass("btn-idle").addClass("btn-disabled");
+						break;
+					}
+					case "enable":
+					{
+						jBtn.show().removeClass("btn-disabled").addClass("btn-idle");
+						break;
+					}
+					case "hide":
+					{
+						jBtn.hide();
+						break;
+					}
+					case "show":
+					{
+						jBtn.show();
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="TestTimer">
+<![CDATA[function TestTimer(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var jCurObjDiv = $(oCurObj.div);
+				var jTimerDiv = jCurObjDiv.find(".cl-t-timer");
+				var iValue = 0;
+				switch(argobj.sAction)
+				{
+					case "init":
+					{
+						iValue = CLZ.oStore[argobj.pid].t;
+						break;
+					}
+					case "proceed":
+					case "restore":
+					{
+						iValue = CLZ.oStore[argobj.pid].t - CLZ.oStore[argobj.pid].e;
+						if(iValue<0) iValue = 0;
+						break;
+					}
+					case "stop":
+					{
+						clearTimeout(oCurObj.data.iTestTimeout);
+						return false;
+					}
+					default:
+					{
+						CLZ.oStore[argobj.pid].e++;
+						iValue = CLZ.oStore[argobj.pid].t - CLZ.oStore[argobj.pid].e;
+						break;
+					}
+				}
+				if(iValue < 0)
+				{
+					clearTimeout(oCurObj.data.iTestTimeout);
+					oCurObj.FireEvent({ sName: "onTestTimeout" });
+					oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { sReason: "timeout", sTarget: "test" } });
+					return false;
+				}
+				var oTime = CLTOOLS.FormatTime({ iValue: iValue });
+				var sString = oCurObj.jxParams.children("string_test_time").text();
+				var aParts = sString.split("{{1}}");
+				sString = aParts.join(oTime.sMin);
+				aParts = sString.split("{{2}}");
+				sString = aParts.join(oTime.sSec);
+				jTimerDiv.find(".cl-t-timer-value").html(sString);
+				if(jTimerDiv.find(".cl-t-timer-progress").is(":visible"))
+				{
+					if(iValue!=CLZ.oStore[argobj.pid].t)
+					{
+						jTimerDiv.find(".cl-t-timer-progress .rnd-timer-svg-full").hide();
+						jTimerDiv.find(".cl-t-timer-progress .rnd-timer-path").show();
+						var sPath = "M12,12 L12,0 A12,12";
+						if(iValue>=0.5*CLZ.oStore[argobj.pid].t)
+						{
+							sPath += " 1 1,1 ";
+						}
+						else
+						{
+							sPath += " 0 0,1 ";
+						}
+						var nAngle = 2*Math.PI*(1 - iValue/CLZ.oStore[argobj.pid].t);
+						sPath += (12*(1 - Math.sin(nAngle))) + "," + (12*(1 - Math.cos(nAngle))) + " Z";
+						jTimerDiv.find(".cl-t-timer-progress .rnd-timer-path").attr({ "d": sPath });
+					}
+				}
+				else
+				{
+					jTimerDiv.find(".cl-t-timer-scale").css({ "left": (100*(1 - iValue/CLZ.oStore[argobj.pid].t)) + "%" });
+				}
+				if(iValue<=0)
+				{
+					clearTimeout(oCurObj.data.iTestTimeout);
+					oCurObj.FireEvent({ sName: "onTestTimeout" });
+					oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { sReason: "timeout", sTarget: "test" } });
+					return false;
+				}
+				if(argobj.sAction!="restore")
+				{
+					oCurObj.data.iTestTimeout = setTimeout(function () { oCurObj.CallMethod({ sMethod: "TestTimer" }); }, 1000);
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="FirstUnfinished">
+<![CDATA[function FirstUnfinished(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var iFirstUnfinished = -1;
+				for(var i=0; i<CLZ.oStore[argobj.pid].P.length; i++)
+				{
+					if(iFirstUnfinished==-1)
+					{
+						if(CLZ.oStore[argobj.pid].Q[i].u!="c")
+						{
+							iFirstUnfinished = i;
+							break;
+						}
+					}
+				}
+				return iFirstUnfinished;
+			}]]>
+</method>
+<method type="q_0001" name="HasAnswer">
+<![CDATA[function HasAnswer(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var oStore = CLZ.oStore[argobj.pid];
+				var oQStore;
+				for(var j=0; j<oStore.Q.length; j++)
+				{
+					if(+oStore.Q[j].i==iIdx)
+					{
+						oQStore = oStore.Q[j];
+						break;
+					}
+				}
+				if(oQStore.A[0].R!=null)
+				{
+					if(oQStore.A[0].R.length!=0)
+					{
+						return true;
+					}
+				}
+				return false;
+			}]]>
+</method>
+<method type="q_0001" name="FirstUnanswered">
+<![CDATA[function FirstUnanswered(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var oStore = CLZ.oStore[argobj.pid];
+				var iFirstUnanswered = -1;
+				for(var j=0; j<oStore.Q.length; j++)
+				{
+					if(oStore.Q[j].A==null)
+					{
+						iFirstUnanswered = +oStore.Q[j].i;
+						break;
+					}
+					if(oStore.Q[j].A.length==0)
+					{
+						iFirstUnanswered = +oStore.Q[j].i;
+						break;
+					}
+					if(oStore.Q[j].A[0].R==null)
+					{
+						iFirstUnanswered = +oStore.Q[j].i;
+						break;
+					}
+					if(oStore.Q[j].A[0].R.length==0)
+					{
+						iFirstUnanswered = +oStore.Q[j].i;
+						break;
+					}
+					if(oStore.Q[j].A[0].R[0]=="")
+					{
+						iFirstUnanswered = +oStore.Q[j].i;
+						break;
+					}
+				}
+				return iFirstUnanswered;
+			}]]>
+</method>
+<method type="q_0001" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jElem;
+				if($(argobj.elem).hasClass("var-spot-td"))
+				{
+					jElem = $(argobj.elem).parents(".var:first");
+				}
+				else
+				{
+					jElem = $(argobj.elem);
+				}
+				if(jElem.hasClass("var") || jElem.hasClass("var-bullet"))
+				{
+					if(jElem.hasClass("var-disabled")) return false;
+					switch(argobj.evt.type)
+					{
+						case "mouseover":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "mouseout":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+							{
+								CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+							}
+							break;
+						}
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							oCurObj.CallMethod({ sMethod: "HandleSpot", oMethodArgs: { evt: argobj.evt, jElem: jElem } });
+							break;
+						}
+						case "drop":
+						{
+							argobj.evt.stopImmediatePropagation();
+							oCurObj.CallMethod({ sMethod: "HandleOrder", oMethodArgs: { evt: argobj.evt, bullet: argobj.bullet, jElem: jElem } });
+							break;
+						}
+					}
+				}
+				else if(jElem.hasClass("var-input"))
+				{
+					oCurObj.CallMethod({ sMethod: "HandleInput", oMethodArgs: { evt: argobj.evt, jElem: jElem } });
+				}
+				else if(jElem.hasClass("cl-btn"))
+				{
+					switch(argobj.evt.type)
+					{
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							if(jElem.attr("data-action")=="submit")
+							{
+								oCurObj.CallMethod({ sMethod: "Submit" });
+							}
+							else if(jElem.attr("data-action")=="next")
+							{
+								oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { sDir: "next" } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+							}
+							else if(jElem.attr("data-action")=="back")
+							{
+								//tManager({ pid: argobj.pid, sAction: "back" });
+							}
+							break;
+						}
+					}
+				}
+				else if(jElem.hasClass("q-feedback-btn"))
+				{
+					switch(argobj.evt.type)
+					{
+						case "click":
+						{
+							if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+							{
+								CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+							}
+							oCurObj.CallMethod({ sMethod: "Feedback" });
+							break;
+						}
+					}
+				}
+				else if(jElem.hasClass("cl-t-progress-item-btn"))
+				{
+					if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+					{
+						CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+					}
+					oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { qid: +jElem.parent().attr("data-q-num") } });
+				}
+			}]]>
+</method>
+<method type="q_0001" name="HandleSpot">
+<![CDATA[function HandleSpot(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jElem = argobj.jElem;
+				var sQType = jElem.attr("data-type");
+				var iQId = +jElem.attr("data-qid");
+				oCurObj.CallMethod({ sMethod: "Feedback" });
+				var oQStore = null;
+				for(var i=0; i<CLZ.oStore[argobj.pid].Q.length; i++)
+				{
+					if(+CLZ.oStore[argobj.pid].Q[i].i===iQId)
+					{
+						oQStore = CLZ.oStore[argobj.pid].Q[i];
+						break;
+					}
+				}
+				if(oQStore==null) return false;
+				if(oQStore.u!="c")
+				{
+					var oAttempt = null;
+					for(var i=0; i<oQStore.A.length; i++)
+					{
+						if(oQStore.A[i].u!="c")
+						{
+							oAttempt = oQStore.A[i];
+							break;
+						}
+					}
+					if(oAttempt==null) return false;
+				}
+				switch(sQType)
+				{
+					case "true-false":
+					{
+						if(jElem.hasClass("var-selected")) return false;
+						var jParent = jElem.parents("div.q-vars-true-false:first");
+						jParent.find(".var-selected").removeClass("var-selected").addClass("var-idle");
+						jElem.removeClass("var-idle").addClass("var-selected");
+						jParent.attr({ "data-selection": jElem.attr("data-vid"), "data-touched": "1" });
+						if(oQStore.u!="c")
+						{
+							oAttempt.R[0] = +jElem.attr("data-vid");
+							oQStore.R[0] = +jElem.attr("data-vid");
+							oAttempt.u = "i";
+							oQStore.u = "i";
+							oCurObj.FireEvent({ sName: "onChangeChoice" });
+						}
+						break;
+					}
+					case "choice":
+					{
+						if(jElem.hasClass("var-selected")) return false;
+						jElem.siblings(".var").removeClass("var-selected").addClass("var-idle");
+						jElem.removeClass("var-idle").addClass("var-selected");
+						jElem.parent().attr({ "data-selection": jElem.attr("data-vid"), "data-touched": "1" });
+						if(oQStore.u!="c")
+						{
+							oAttempt.R[0] = +jElem.attr("data-vid");
+							oQStore.R[0] = +jElem.attr("data-vid");
+							oAttempt.u = "i";
+							oQStore.u = "i";
+							oCurObj.FireEvent({ sName: "onChangeChoice" });
+						}
+						break;
+					}
+					case "select":
+					{
+						if(jElem.hasClass("var-selected"))
+						{
+							jElem.removeClass("var-selected").addClass("var-idle");
+						}
+						else
+						{
+							jElem.removeClass("var-idle").addClass("var-selected");
+						}
+						jElem.parent().attr({ "data-touched": "1" });
+						if(oQStore.u!="c")
+						{
+							oAttempt.R = [];
+							oQStore.R = [];
+							jElem.parent().children(".var").each( function()
+							{
+								if($(this).hasClass("var-selected"))
+								{
+									oAttempt.R.push(+$(this).attr("data-vid"));
+									oQStore.R.push(+$(this).attr("data-vid"));
+								}
+							});
+							oAttempt.u = "i";
+							oQStore.u = "i";
+							oCurObj.FireEvent({ sName: "onChangeSelect" });
+						}
+						break;
+					}
+				}
+				if(oQStore.u!="c")
+				{
+					oCurObj.CallMethod({ sMethod: "UpdateRail" });
+					if(oCurObj.data.sDisplayAs=="page")
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: ((oQStore.R.length>0) ? "show" : "hide") } });
+					}
+					else
+					{
+						if(oCurObj.jxParams.children("allow_partial_answer").text()=="yes")
+						{
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+						}
+						else
+						{
+							if(oCurObj.CallMethod({ sMethod: "FirstUnanswered" })==-1)
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="HandleOrder">
+<![CDATA[function HandleOrder(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jElem = argobj.jElem;
+				var sQType = jElem.attr("data-type");
+				var iQId = +jElem.attr("data-qid");
+				oCurObj.CallMethod({ sMethod: "Feedback" });
+				var oQStore = null;
+				for(var i=0; i<CLZ.oStore[argobj.pid].Q.length; i++)
+				{
+					if(+CLZ.oStore[argobj.pid].Q[i].i===iQId)
+					{
+						oQStore = CLZ.oStore[argobj.pid].Q[i];
+						break;
+					}
+				}
+				if(oQStore==null) return false;
+				if(oQStore.u!="c")
+				{
+					var oAttempt = null;
+					for(var i=0; i<oQStore.A.length; i++)
+					{
+						if(oQStore.A[i].u!="c")
+						{
+							oAttempt = oQStore.A[i];
+							break;
+						}
+					}
+					if(oAttempt==null) return false;
+				}
+                var iTargetIdx = String(jElem.attr("data-vid"));
+                var iBulletIdx = String($(argobj.bullet).attr("data-vid"));
+				var aOldOrder = jElem.parent().attr("data-order").split("|");
+				var iTargetPos = aOldOrder.indexOf(iTargetIdx);
+				var iBulletPos = aOldOrder.indexOf(iBulletIdx);
+				var sMoved = aOldOrder.splice(iBulletPos, 1)[0];
+				aOldOrder.splice(iTargetPos, 0, sMoved);
+				var aNewOrder = aOldOrder;
+				if(jElem.hasClass("var-bullet"))
+				{
+					var aTops = jElem.attr("data-tops").split("|");
+					var jParent = jElem.parent();
+					for(var i=0; i<aNewOrder.length; i++)
+					{
+						jParent.children(".var-bullet[data-vid='"+ aNewOrder[i] +"']").css({ "top": aTops[i] + "px" });
+					}
+					jElem.parent().attr({ "data-order": aNewOrder.join("|"), "data-touched": "1" });
+					oCurObj.FireEvent({ sName: "onChangeMatch" });
+				}
+				else
+				{
+					var jQVars = jElem.parent(".q-vars:first");
+					var jVars = jQVars.find(".var-order-elem");
+					jVars.each(function ()
+					{
+						$(this).css({ "position": "relative", "left": "", "top": "" });
+					});
+					var aOrder = [];
+					for(var i=0; i<aNewOrder.length; i++)
+					{
+						jQVars.find(".var-order-elem[data-vid='" + aNewOrder[i] + "']").appendTo(jQVars);
+						aOrder.push(aNewOrder[i]);
+					}
+					jQVars.attr({ "data-order": aNewOrder.join("|"), "data-touched": "1" });
+					oCurObj.FireEvent({ sName: "onChangeOrder" });
+				}
+				if(oQStore.u!="c")
+				{
+					oAttempt.R = aNewOrder.slice(0);
+					oAttempt.u = "i";
+					oQStore.R = aNewOrder.slice(0);
+					oQStore.u = "i";
+					oCurObj.CallMethod({ sMethod: "UpdateRail" });
+					if(oCurObj.data.sDisplayAs=="page")
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } })
+					}
+					else
+					{
+						if(oCurObj.jxParams.children("allow_partial_answer").text()=="yes")
+						{
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+						}
+						else
+						{
+							if(oCurObj.CallMethod({ sMethod: "FirstUnanswered" })==-1)
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="HandleInput">
+<![CDATA[function HandleInput(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jElem = argobj.jElem;
+				var sQType = jElem.attr("data-type");
+				var jQVars = jElem.parents(".q-vars:first");
+				var iQId = +jQVars.attr("data-qid");
+				oCurObj.CallMethod({ sMethod: "Feedback" });
+				var oQStore = null;
+				var oQuestion;
+				for(var i=0; i<CLZ.oStore[argobj.pid].Q.length; i++)
+				{
+					if(+CLZ.oStore[argobj.pid].Q[i].i===iQId)
+					{
+						oQStore = CLZ.oStore[argobj.pid].Q[i];
+						break;
+					}
+				}
+				if(oQStore==null) return false;
+				oQuestion = oCurObj.data.aQuestions[+oQStore.i];
+				if(oQStore.u!="c")
+				{
+					var oAttempt = null;
+					for(var i=0; i<oQStore.A.length; i++)
+					{
+						if(oQStore.A[i].u!="c")
+						{
+							oAttempt = oQStore.A[i];
+							break;
+						}
+					}
+					if(oAttempt==null) return false;
+				}
+				switch(argobj.evt.type)
+				{
+					case "blur":
+					{
+						break;
+					}
+					case "keyup":
+					{
+						if(oQuestion.sType=="numeric")
+						{
+							jElem.val( CL.Q.FixNumeric({ sText: jElem.val() }) );
+						}
+						jQVars.attr({"data-touched": "1"});
+						break;
+					}
+				}
+				if(oQStore.u!="c")
+				{
+					oQStore.R = [];
+					oAttempt.R = [];
+					jQVars.find(".var[data-vid]").each(function ()
+					{
+						var sVal = $(this).find(".var-input").val();
+						oQStore.R.push(sVal);
+						oAttempt.R.push(sVal);
+					});
+					oCurObj.CallMethod({ sMethod: "UpdateRail" });
+					if(oCurObj.data.sDisplayAs=="page")
+					{
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } })
+					}
+					else
+					{
+						if(oCurObj.jxParams.children("allow_partial_answer").text()=="yes")
+						{
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+						}
+						else
+						{
+							if(oCurObj.CallMethod({ sMethod: "FirstUnanswered" })==-1)
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "show" } });
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							}
+						}
+					}
+					oCurObj.FireEvent({ sName: ((sQType=="numeric") ? "onChangeNumericValue" : "onChangeTextValue") });
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="EvalQuestion">
+<![CDATA[function EvalQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(argobj.oQStore==null) return false;
+				var jxQuestion = $(oCurObj.data.jxQuestions[+argobj.qid]);
+				var oQuestion = oCurObj.data.aQuestions[+argobj.qid];
+				var sQType = oQuestion.sType;
+				var jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + argobj.qid + "']");
+				var jQVars = jQuestion.find(".q-vars:first");
+				var bCorrect = false;
+				var sSelected;
+				var sCorrect;
+				var jxVars;
+				var aSelection;
+				switch(sQType)
+				{
+					case "true-false":
+					{
+						if(argobj.oQStore.R.length!=0)
+						{
+							bCorrect = (+argobj.oQStore.R[0]==+argobj.oQStore.P[0]);
+						}
+						return bCorrect;
+					}
+					case "choice":
+					{
+						if(argobj.oQStore.R.length==0) return false;
+						return (+argobj.oQStore.P[0]==+argobj.oQStore.R[0]);
+					}
+					case "select":
+					{
+						if(argobj.oQStore.P.length!=argobj.oQStore.R.length)
+						{
+							return false;
+						}
+						bCorrect = true;
+						for(var i=1; i<=oQuestion.jxVars.length; i++)
+						{
+							if($.inArray(i, argobj.oQStore.P)!=-1)
+							{
+								if($.inArray(i, argobj.oQStore.R)!=-1)
+								{
+									continue;
+								}
+								else
+								{
+									bCorrect = false;
+									break;
+								}
+							}
+							else
+							{
+								if($.inArray(i, argobj.oQStore.R)!=-1)
+								{
+									bCorrect = false;
+									break;
+								}
+								else
+								{
+									continue;
+								}
+							}
+						}
+						return bCorrect;
+					}
+					case "order":
+					case "oto":
+					{
+						for(var i=0; i<oQuestion.jxVars.length; i++)
+						{
+							if(argobj.oQStore.P[i]!=argobj.oQStore.R[i])
+							{
+								return false;
+							}
+						}
+						return true;
+					}
+					case "numeric":
+					case "fib":
+					{
+						var aCorrect = [];
+						for(var i=0; i<argobj.oQStore.P.length; i++)
+						{
+							aCorrect.push(CL.Q.EvalSet({ sType: sQType, sValue: argobj.oQStore.R[i], oPattern: argobj.oQStore.P[i] }));
+						}
+						var sOp = jxQuestion.find("q_var_logic_" + sQType).text();
+						bCorrect = (sOp=="AND");
+						for(var i=0; i<aCorrect.length; i++)
+						{
+							if(sOp=="AND")
+							{
+								if(aCorrect[i]!=true)
+								{
+									bCorrect = false;
+									break;
+								}
+							}
+							else if(sOp=="OR")
+							{
+								if(aCorrect[i]==true)
+								{
+									bCorrect = true;
+									break;
+								}
+							}
+						}
+						return bCorrect;
+					}
+				}
+				return bCorrect;
+			}]]>
+</method>
+<method type="q_0001" name="Submit">
+<![CDATA[function Submit(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var iIdx;
+				var sQType;
+				var sIntId;
+				var jQVars;
+				oCurObj.FireEvent({ sName: "onAttempt" });
+				var oStore = CLZ.oStore[argobj.pid];
+				switch(oCurObj.data.sDisplayAs)
+				{
+					case "list":
+					{
+						var bStopTest = (argobj.sReason=="timeout");
+						if(!bStopTest)
+						{
+							var iFirstUnanswered = oCurObj.CallMethod({ sMethod: "FirstUnanswered" });
+							if(iFirstUnanswered!=-1)
+							{
+								if(oCurObj.jxParams.children("allow_partial_answer").text()=="yes")
+								{
+									if(confirm(oCurObj.jxParams.children("t_proceed_confirm").text()))
+									{
+										oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { qid: iFirstUnanswered } });
+										return false;
+									}
+									else
+									{
+										bStopTest = true;
+									}
+								}
+								else
+								{
+									oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { qid: iFirstUnanswered } });
+									return false;
+								}
+							}
+							else
+							{
+								bStopTest = true;
+							}
+						}
+						if(bStopTest)
+						{
+							// check all and stop test
+							var sIntId;
+							var iIdx;
+							var sResult;
+							var nFinalScore;
+							var bCorrect;
+							var jxObj;
+							var sScoringType;
+							var jxQuestion;
+							var sQType;
+							var jQVars;
+							var oQStore;
+							var oQuestion;
+							var jxQuestion;
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							for(var i=0; i<oStore.P.length; i++)
+							{
+								iIdx = oStore.P[i];
+								for(var j=0; j<oStore.Q.length; j++)
+								{
+									if(+oStore.Q[j].i==iIdx)
+									{
+										oQStore = oStore.Q[j];
+										break;
+									}
+								}
+								oQuestion = oCurObj.data.aQuestions[iIdx];
+								jxQuestion = $(oCurObj.data.jxQuestions[iIdx]);
+								if(oQStore.R.length==0)
+								{
+									bCorrect = false;
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: false } });
+								}
+								else
+								{
+									bCorrect = oCurObj.CallMethod({ sMethod: "EvalQuestion", oMethodArgs: { qid: iIdx, oQStore: oQStore } });
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: false } });
+									var nFinalScore = 0;
+									if(bCorrect)
+									{
+										if(oCurObj.data.bCredit)
+										{
+											switch(oQuestion.sScoringType)
+											{
+												case "fixed": // fixed - 2.7 legacy
+												case "plain":
+												{
+													nScore = +jxQuestion.children("q_weight").text();
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													nFinalScore = nScore;
+													break;
+												}
+												case "regressive":
+												{
+													var nWeight = +jxQuestion.children("q_weight").text();
+													var iCompleted = 0;
+													for(var k=0; k<oQStore.A.length; k++)
+													{
+														if(oQStore.A[k].u=="c")
+														{
+															iCompleted++;
+														}
+													}
+													nScore = nWeight*(oQStore.A.length + 1 - iCompleted);
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													nFinalScore = nScore;
+													break;
+												}
+												case "byobj":
+												{
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														nScore = oQuestion.aObjectives[k].nWeight;
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+									}
+									else
+									{
+										if(oCurObj.data.bCredit)
+										{
+											nScore = 0;
+											for(var k=0; k<oQuestion.aObjectives.length; k++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + oQStore.i, bReplace: true, nScore: nScore });
+											}
+										}
+									}
+								}
+								oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: {  oQStore: oQStore  }});
+							}
+							oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "stop" } });
+							oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: CLZ.oStore[argobj.pid].P } });
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+							jCurObjDiv.find(".cl-t-footer-cell-center").html((argobj.sReason=="timeout") ? oCurObj.jxParams.find("t_stop_msg").text() : oCurObj.jxParams.find("t_allanswered_msg").text());
+							jCurObjDiv.find(".cl-t-footer-cell-right").html("&nbsp;");
+							CLZ.oStore[argobj.pid].u = (argobj.sReason=="timeout") ? "t" : "c";
+							CLZ.oStore[argobj.pid].d = (new Date()).valueOf() - CLZ.oStore[argobj.pid].s;
+							oCurObj.FireEvent({ sName: "onTestEnd" });
+						}
+						break;
+					}
+					case "page":
+					{
+						var bStopTest = (argobj.sReason=="timeout" && argobj.sTarget=="test");
+						if(bStopTest)
+						{
+							// testtimeout - check all and stop test
+							var sIntId;
+							var iIdx;
+							var sResult;
+							var nFinalScore;
+							var bCorrect;
+							var jxObj;
+							var sScoringType;
+							var jxQuestion;
+							var sQType;
+							var jQVars;
+							var oQStore;
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							if(oCurObj.data.iQTimeout) clearTimeout(oCurObj.data.iQTimeout);
+							for(var i=0; i<oStore.P.length; i++)
+							{
+								iIdx = oStore.P[i];
+								for(var j=0; j<oStore.Q.length; j++)
+								{
+									if(+oStore.Q[j].i==iIdx)
+									{
+										oQStore = oStore.Q[j];
+										break;
+									}
+								}
+								oQuestion = oCurObj.data.aQuestions[+oQStore.i];
+								if(oQStore.u=="c") continue;
+
+								if(oQStore.R.length==0)
+								{
+									bCorrect = false;
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: false } });
+								}
+								else
+								{
+									bCorrect = oCurObj.CallMethod({ sMethod: "EvalQuestion", oMethodArgs: { qid: iIdx, oQStore: oQStore } });
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: false } });
+									var nFinalScore = 0;
+									if(bCorrect)
+									{
+										if(oCurObj.data.bCredit)
+										{
+											switch(oQuestion.sScoringType)
+											{
+												case "fixed": // fixed - 2.7 legacy
+												case "plain":
+												{
+													nScore = +jxQuestion.children("q_weight").text();
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													nFinalScore = nScore;
+													break;
+												}
+												case "regressive":
+												{
+													var nWeight = +jxQuestion.children("q_weight").text();
+													var iCompleted = 0;
+													for(var k=0; k<oQStore.A.length; k++)
+													{
+														if(oQStore.A[k].u=="c")
+														{
+															iCompleted++;
+														}
+													}
+													nScore = nWeight*(oQStore.A.length + 1 - iCompleted);
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													nFinalScore = nScore;
+													break;
+												}
+												case "byobj":
+												{
+													for(var k=0; k<oQuestion.aObjectives.length; k++)
+													{
+														nScore = oQuestion.aObjectives[k].nWeight;
+														CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ iIdx ] } });
+										oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: {  oQStore: oQStore  }});
+									}
+									else
+									{
+										if(oCurObj.data.bCredit)
+										{
+											nScore = 0;
+											for(var k=0; k<oQuestion.aObjectives.length; k++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[k].sId, sSrcId: argobj.pid + "_" + oQStore.i, bReplace: true, nScore: nScore });
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ iIdx ] } });
+										oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: {  oQStore: oQStore  } });
+									}
+								}
+							}
+							oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "stop" } });
+							oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: CLZ.oStore[argobj.pid].P } });
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+							jCurObjDiv.find(".cl-t-footer-cell-center").html((argobj.sReason=="timeout") ? oCurObj.jxParams.find("t_stop_msg").text() : oCurObj.jxParams.find("t_allanswered_msg").text());
+							jCurObjDiv.find(".cl-t-footer-cell-right").html("&nbsp;");
+							CLZ.oStore[argobj.pid].u = "c";
+							oCurObj.FireEvent({ sName: "onTestEnd" });
+						}
+						else
+						{
+							var jQuestion = jCurObjDiv.find(".q-question:visible");
+							var jQVars = jQuestion.find(".q-vars:first");
+							var iIdx = +jQuestion.attr("data-q-num");
+							var oQStore = null;
+							for(var i=0; i<CLZ.oStore[argobj.pid].Q.length; i++)
+							{
+								if(+CLZ.oStore[argobj.pid].Q[i].i===iIdx)
+								{
+									oQStore = CLZ.oStore[argobj.pid].Q[i];
+									break;
+								}
+							}
+							if(oQStore==null) return false;
+							var jxQuestion = $(oCurObj.data.jxQuestions[iIdx]);
+							var oQuestion = oCurObj.data.aQuestions[iIdx];
+							var nScore = 0;
+							var bCorrect = false;
+							if(oQStore.R.length==0)
+							{
+								bCorrect = false;
+								oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: (argobj.sReason=="timeout" ? false: !bCorrect) } });
+								if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+								{
+									CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+								}
+								oCurObj.FireEvent({ sName: "onFailure" });
+							}
+							else
+							{
+								bCorrect = oCurObj.CallMethod({ sMethod: "EvalQuestion", oMethodArgs: { qid: iIdx, oQStore: oQStore } });
+								oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { oQStore: oQStore, bCorrect: bCorrect, bInitNext: (argobj.sReason=="timeout" ? false: !bCorrect) } });
+								var nFinalScore = 0;
+								if(bCorrect)
+								{
+									if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+									{
+										CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+									}
+									oCurObj.FireEvent({ sName: "onSuccess" });
+									if(oCurObj.data.bCredit)
+									{
+										switch(oQuestion.sScoringType)
+										{
+											case "fixed": // fixed - 2.7 legacy
+											case "plain":
+											{
+												nScore = +jxQuestion.children("q_weight").text();
+												for(var i=0; i<oQuestion.aObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[i].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+												}
+												nFinalScore = nScore;
+												break;
+											}
+											case "regressive":
+											{
+												var nWeight = +jxQuestion.children("q_weight").text();
+												var iCompleted = 0;
+												for(var k=0; k<oQStore.A.length; k++)
+												{
+													if(oQStore.A[k].u=="c")
+													{
+														iCompleted++;
+													}
+												}
+												nScore = nWeight*(oQStore.A.length + 1 - iCompleted);
+												for(var i=0; i<oQuestion.aObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[i].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+												}
+												nFinalScore = nScore;
+												break;
+											}
+											case "byobj":
+											{
+												for(var i=0; i<oQuestion.aObjectives.length; i++)
+												{
+													nScore = oQuestion.aObjectives[i].nWeight;
+													CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[i].sId, sSrcId: argobj.pid + "_" + iIdx, bReplace: true, nScore: nScore });
+												}
+												break;
+											}
+										}
+									}
+									if(oCurObj.data.iQTimeout) clearTimeout(oCurObj.data.iQTimeout);
+									oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+									oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ iIdx ] } });
+									oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: {  oQStore: oQStore  }});
+									oCurObj.FireEvent({ sName: "onQuestionEnd" });
+									var iFirstUnfinished = oCurObj.CallMethod({ sMethod: "FirstUnfinished" });
+									if(oCurObj.data.bCombineBtn)
+									{
+										if(iFirstUnfinished==-1)
+										{
+											bStopTest = true;
+										}
+										else
+										{
+											oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { sDir: "next" } });
+										}
+									}
+									else
+									{
+										if(oCurObj.data.bAllowFeedback)
+										{
+											oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "correct", xQuestion: jxQuestion } });
+										}
+										if(iFirstUnfinished==-1)
+										{
+											bStopTest = true;
+										}
+										else
+										{
+											oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "show" } });
+										}
+									}
+								}
+								else
+								{
+									if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+									{
+										CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+									}
+									oCurObj.FireEvent({ sName: "onFailure" });
+									if(oQuestion.bNoMoreAttempts==true || argobj.sReason=="timeout")
+									{
+										if(oCurObj.data.bCredit)
+										{
+											nScore = 0;
+											for(var i=0; i<oQuestion.aObjectives.length; i++)
+											{
+												CL.SCO.SetObjectiveScore({ sId: oQuestion.aObjectives[i].sId, sSrcId: argobj.pid + "_" + oQStore.i, bReplace: true, nScore: nScore });
+											}
+										}
+										if(oCurObj.data.iQTimeout) clearTimeout(oCurObj.data.iQTimeout);
+										oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+										oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: [ iIdx ] } });
+										oCurObj.CallMethod({ sMethod: "CloseQuestion", oMethodArgs: {  oQStore: oQStore  } });
+										var iFirstUnfinished = oCurObj.CallMethod({ sMethod: "FirstUnfinished" });
+										if(oCurObj.data.bCombineBtn)
+										{
+											if(iFirstUnfinished==-1)
+											{
+												bStopTest = true;
+											}
+											else
+											{
+												oCurObj.CallMethod({ sMethod: "GoTo", oMethodArgs: { sDir: "next" } });
+											}
+										}
+										else
+										{
+											if(oCurObj.data.bShowCorrect)
+											{
+												oCurObj.CallMethod({ sMethod: "RestoreQuestionState", oMethodArgs: { qid: iIdx, bCorrect: true } });
+											}
+											if(oCurObj.data.bAllowFeedback)
+											{
+												if(argobj.sQReason=="timeout")
+												{
+													oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "timeout", xQuestion: jxQuestion } });
+												}
+												else
+												{
+													oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "exceed", xQuestion: jxQuestion } });
+												}
+											}
+											if(iFirstUnfinished==-1)
+											{
+												bStopTest = true;
+											}
+											else
+											{
+												oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "show" } });
+											}
+										}
+									}
+									else
+									{
+										if(oCurObj.data.bAllowFeedback)
+										{
+											if(argobj.sQReason=="timeout")
+											{
+												oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "timeout", xQuestion: jxQuestion } });
+											}
+											else
+											{
+												if(oQuestion.iAttemptsLeft==1)
+												{
+													oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "lastattempt", xQuestion: jxQuestion } });
+												}
+												else
+												{
+														oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sType: "incorrect", xQuestion: jxQuestion } });
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+									}
+								}
+							}
+							if(bStopTest)
+							{
+								oCurObj.CallMethod({ sMethod: "TestTimer", oMethodArgs: { sAction: "stop" } });
+								oCurObj.CallMethod({ sMethod: "DisableQuestions", oMethodArgs: { aTargets: CLZ.oStore[argobj.pid].P } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "submit", sAction: "hide" } });
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sBtn: "next", sAction: "hide" } });
+								jCurObjDiv.find(".cl-t-footer-cell-center").html((argobj.sReason=="timeout") ? oCurObj.jxParams.find("t_stop_msg").text() : oCurObj.jxParams.find("t_allanswered_msg").text());
+								jCurObjDiv.find(".cl-t-footer-cell-right").html("&nbsp;");
+								CLZ.oStore[argobj.pid].u = (argobj.sReason=="timeout") ? "t" : "c";
+								oCurObj.FireEvent({ sName: "onTestEnd" });
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="CloseAttempt">
+<![CDATA[function CloseAttempt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(argobj.oQStore==null) return false;
+				var iAttemptIdx = -1;
+				var oAttempt = null;
+				for(var i=0; i<argobj.oQStore.A.length; i++)
+				{
+					if(argobj.oQStore.A[i].u=="c") continue;
+					iAttemptIdx = i;
+					oAttempt = argobj.oQStore.A[i];
+					break;
+				}
+				if(oAttempt==null) return false;
+				var iStart = CLZ.oStore[argobj.pid].s + argobj.oQStore.s + oAttempt.s;
+				var iNow = (new Date()).valueOf();
+				oAttempt.d = iNow - iStart;
+				oAttempt.u = "c"; // current attempt closed
+				iAttemptIdx++;
+				var iAttemptsLeft = argobj.oQStore.A.length - iAttemptIdx;
+				if(iAttemptsLeft<0)
+				{
+					iAttemptsLeft = 0;
+				}
+				if(argobj.bCorrect)
+				{
+					argobj.oQStore.r = argobj.bCorrect ? "c" : "i";
+				}
+				if(!argobj.bInitNext)
+				{
+					return true;
+				}
+				oCurObj.data.aQuestions[+argobj.oQStore.i].iAttemptsLeft = iAttemptsLeft;
+				if(iAttemptsLeft==0 || argobj.oQStore.A[iAttemptIdx]==null)
+				{
+					oCurObj.data.aQuestions[+argobj.oQStore.i].bNoMoreAttempts = true;
+					oCurObj.FireEvent({ sName: "onAttemptsLimit" });
+				}
+				else
+				{
+					if(argobj.bInitNext)
+					{
+						var sString = oCurObj.jxParams.children("string_question_attempts").text();
+						var aParts = sString.split("{{2}}");
+						sString = aParts.join(argobj.oQStore.A.length);
+						aParts = sString.split("{{1}}");
+						sString = aParts.join((iAttemptIdx + 1));
+						jCurObjDiv.find(".cl-t-attempts").html(sString);
+						argobj.oQStore.A[iAttemptIdx] =
+						{
+							s: iNow - argobj.oQStore.s - CLZ.oStore[argobj.pid].s,
+							d: 0,
+							u: "i",
+							R: []
+						}
+						if((argobj.oQStore.A.length>1) && (iAttemptIdx==argobj.oQStore.A.length-1))
+						{
+							oCurObj.data.aQuestions[+argobj.oQStore.i].bLastAttempt = true;
+							oCurObj.FireEvent({ sName: "onLastAttemptStart" });
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="CloseQuestion">
+<![CDATA[function CloseQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(argobj.oQStore==null) return false;
+				oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { action: "stop" } });
+				var jQuestion = jCurObjDiv.find(".q-question[data-q-num='" + argobj.oQStore.i + "']");
+				var oQuestion = oCurObj.data.aQuestions[+argobj.oQStore.i];
+				var jQVars = jQuestion.find(".q-vars:first");
+				var jVars;
+				switch(oQuestion.sType)
+				{
+					case "true-false":
+					case "choice":
+					case "select":
+					case "order":
+					{
+						jVars = jQVars.find(".cl-var");
+						break;
+					}
+					case "numeric":
+					case "fib":
+					{
+						jVars = jQVars.find(".cl-var");
+						jVars.find(".cl-var-input").prop("disabled", true);
+						break;
+					}
+					case "oto":
+					case "otm":
+					case "mtm":
+					{
+						jVars = jQVars.find(".cl-var-bullet");
+						if(jVars.hasClass("ui-draggable"))
+						{
+							jVars.draggable("destroy");
+						}
+						if(jVars.hasClass("ui-droppable"))
+						{
+							jVars.droppable("destroy");
+						}
+						break;
+					}
+				}
+				jVars.addClass("cl-var-disabled");
+				argobj.oQStore.d = (new Date()).valueOf() - argobj.oQStore.s - CLZ.oStore[argobj.pid].s;
+				argobj.oQStore.u = "c";
+				if($.inArray(+argobj.oQStore.i, CLZ.oStore[argobj.pid].R)==-1)
+				{
+					CLZ.oStore[argobj.pid].R.push(+argobj.oQStore.i);
+				}
+				oCurObj.FireEvent({ sName: "onQuestionEnd" })
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="Timer">
+<![CDATA[function Timer(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var jCurObjDiv = $(oCurObj.div);
+
+				var jTimerDiv = jCurObjDiv.find(".cl-q-timer");
+
+				var iValue = 0;
+				var oQStore = CLZ.oStore[argobj.pid].Q[+argobj.qid];
+				switch(argobj.sAction)
+				{
+					case "init":
+					{
+						jCurObjDiv.find(".cl-q-timer-container").show();
+						jCurObjDiv.find(".cl-q-no-timer").hide();
+						iValue = oQStore.t;
+						break;
+					}
+					case "hide":
+					{
+						jCurObjDiv.find(".cl-q-timer-container").hide();
+						jCurObjDiv.find(".cl-q-no-timer").show();
+						return true;
+					}
+					case "proceed":
+					case "restore":
+					{
+						jCurObjDiv.find(".cl-q-timer-container").show();
+						jCurObjDiv.find(".cl-q-no-timer").hide();
+						iValue = oQStore.t - oQStore.e;
+						if(iValue<0) iValue = 0;
+						break;
+					}
+					case "stop":
+					{
+						clearTimeout(oCurObj.data.iQTimeout);
+						return false;
+					}
+					default:
+					{
+						oQStore.e++;
+						iValue = oQStore.t - oQStore.e;
+						break;
+					}
+				}
+				if(iValue < 0)
+				{
+					clearTimeout(oCurObj.data.iQTimeout);
+					oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { qid: argobj.qid, sReason: "timeout", sTarget: "test" } });
+					oCurObj.FireEvent({ sName: "onTimeout" });
+					return false;
+				}
+				var oTime = CLTOOLS.FormatTime({ iValue: iValue });
+				var sString = oCurObj.jxParams.children("string_question_time").text();
+				var aParts = sString.split("{{1}}");
+				sString = aParts.join(oTime.sMin);
+				aParts = sString.split("{{2}}");
+				sString = aParts.join(oTime.sSec);
+				jTimerDiv.find(".cl-q-timer-value").html(sString);
+				if(jTimerDiv.find(".cl-q-timer-progress").is(":visible"))
+				{
+					if(iValue!=oQStore.t)
+					{
+						jTimerDiv.find(".cl-q-timer-progress .rnd-timer-svg-full").hide();
+						jTimerDiv.find(".cl-q-timer-progress .rnd-timer-path").show();
+						var sPath = "M12,12 L12,0 A12,12";
+						if(iValue>=0.5*oQStore.t)
+						{
+							sPath += " 1 1,1 ";
+						}
+						else
+						{
+							sPath += " 0 0,1 ";
+						}
+						var nAngle = 2*Math.PI*(1 - iValue/oQStore.t);
+						sPath += (12*(1 - Math.sin(nAngle))) + "," + (12*(1 - Math.cos(nAngle))) + " Z";
+						jTimerDiv.find(".cl-q-timer-progress .rnd-timer-path").attr({ "d": sPath });
+					}
+				}
+				else
+				{
+					jTimerDiv.find(".cl-q-timer-scale").css({ "left": (100*(1 - iValue/oQStore.t)) + "%" });
+				}
+				if(argobj.sAction!="restore")
+				{
+					if(iValue <= 0)
+					{
+						clearTimeout(oCurObj.data.iQTimeout);
+						oCurObj.CallMethod({ sMethod: "Submit", oMethodArgs: { qid: argobj.qid, sReason: "timeout" } });
+						oCurObj.FireEvent({ sName: "onTimeout" });
+						return false;
+					}
+					oCurObj.data.iQTimeout = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Timer", oMethodArgs: { qid: argobj.qid } }); }, 1000);
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var jCurObjDiv = $(oCurObj.div);
+				var iIdx = (oCurObj.data.sDisplayAs == "list") ? -1 : +jCurObjDiv.find(".q-question:visible").attr("data-q-num");
+				switch(argobj.property.toLowerCase())
+				{
+					case "totalquestionquantity":    	return CLZ.oStore[argobj.pid].P.length;
+					case "testmode":                	return oCurObj.data.sMode;
+					case "testduration":            	return CLZ.oStore[argobj.pid].t;
+					case "testtimer":                	return CLZ.oStore[argobj.pid].e;
+					case "questionnumber":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						return ($.inArray(iIdx, CLZ.oStore[argobj.pid].P) + 1);
+					}
+					case "questiontype":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return "";
+						}
+						return jCurObjDiv.find(".q-question:visible").attr("data-type");
+					}
+					case "questionduration":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						var iIdx = +jCurObjDiv.find(".q-question:visible").attr("data-q-num");
+						return -1;
+					}
+					case "questiontimer":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						if(oCurObj.data.aQuestions[iIdx].bTimer)
+						{
+							var i = $.inArray(iIdx, CLZ.oStore[argobj.pid].P);
+							if(i==-1) return -1;
+							return CLZ.oStore[argobj.pid].Q[i].e;
+						}
+						else
+						{
+							return -1;
+						}
+					}
+					case "itemquantity":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						return jCurObjDiv.find(".q-question:visible .var").length;
+					}
+					case "questionvalue":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						var i = $.inArray(iIdx, CLZ.oStore[argobj.pid].P);
+						if(i==-1) return -1;
+						return CLZ.oStore[argobj.pid].Q[i].R.join("~");
+					}
+					case "attemptslast":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						var i = $.inArray(iIdx, CLZ.oStore[argobj.pid].P);
+						if(i==-1) return -1;
+						for(var j=CLZ.oStore[argobj.pid].Q[i].A.length; j>=0; j--)
+						{
+							if(CLZ.oStore[argobj.pid].Q[i].A[j].u!="c")
+							{
+								return i;
+							}
+						}
+						return 0;
+					}
+					case "attemptstotal":
+					{
+						if(oCurObj.data.sDisplayAs == "list")
+						{
+							return -1;
+						}
+						var i = $.inArray(iIdx, CLZ.oStore[argobj.pid].P);
+						if(i==-1) return -1;
+						return CLZ.oStore[argobj.pid].Q[i].A.length;
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="q_0001" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						if(!oCurObj.data.bCreated) return false;
+						oCurObj.CallMethod({ sMethod: "Init" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="q_0001" name="Feedback">
+<![CDATA[function Feedback(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(!oCurObj.data.bAllowFeedback)
+				{
+					return false;
+				}
+				var jCurState = jCurObjDiv.find(".cl-state[data-state='default']");
+				jCurState.find(".q-feedback").remove();
+				if(oCurObj.iFBTimer!=null)
+				{
+					clearTimeout(oCurObj.iFBTimer);
+				}
+				if(argobj.sType==null)
+				{
+					return true;
+				}
+				var sFBText = "";
+				var sType = argobj.sType;
+				if(oCurObj.data.bAllowFeedback)
+				{
+					var jxQuestion = $(argobj.xQuestion);
+					if(jxQuestion.children("q_fb_test").text()!="yes")
+					{
+						if((sType=="exceed" && jxQuestion.children("display_fb_exceed").text()!="yes") || (sType=="lastattempt" && jxQuestion.children("display_fb_lastattempt").text()!="yes"))
+						{
+							sType = "incorrect";
+						}
+						if(jxQuestion.children("display_fb_" + sType).text()=="yes")
+						{
+							sFBText = jxQuestion.children("fb_" + sType).text();
+						}
+					}
+					else
+					{
+						if((sType=="exceed" && oCurObj.jxParams.children("q_display_fb_exceed").text()!="yes") || (sType=="lastattempt" && oCurObj.jxParams.children("q_display_fb_lastattempt").text()!="yes"))
+						{
+							sType = "incorrect";
+						}
+						if(oCurObj.jxParams.children("q_display_fb_" + sType).text()=="yes")
+						{
+							sFBText = oCurObj.jxParams.children("q_fb_" + sType).text();
+						}
+					}
+				}
+				if(sFBText!="")
+				{
+					var jFB = jCurObjDiv.find(".q-feedback-template").clone(true).removeClass("q-feedback-template").addClass("q-feedback q-feedback-" + sType).appendTo(jCurState);
+					jFB.find(".text-main").html(sFBText).fadeIn();
+					if(oCurObj.jxParams.children("q_fb_timerswitch").text()=="yes")
+					{
+						oCurObj.iFBTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { hide: true } }); }, +oCurObj.jxParams.children("q_fb_timer").text());
+					}
+				}
+				return true;
+			}]]>
+</method>
 </methods>
 <params>
 <param objectid="MD1_HELP">
@@ -3320,6 +6615,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="MD1_DOCS">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -3505,6 +6804,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="MD1_CONTENTS">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -3690,6 +6993,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_5">
 <role>nextslide</role>
@@ -4277,6 +7584,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_36">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -4462,6 +7773,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_37">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -4647,6 +7962,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_38">
 <role>nextslide</role>
@@ -5048,6 +8367,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_28">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -5233,6 +8556,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_29">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -5418,6 +8745,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_30">
 <role>nextslide</role>
@@ -5912,6 +9243,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_20">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -6097,6 +9432,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_21">
 <hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
@@ -6282,6 +9621,10 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_23">
 <role>nextslide</role>
@@ -6620,6 +9963,8 @@
 <text_shadow_color>#FFFFFF</text_shadow_color>
 <text_shadow_strength>normal</text_shadow_strength>
 <shadow_strength>normal</shadow_strength>
+<action>go</action>
+<objectid></objectid>
 </param>
 <param objectid="OBJ_7">
 <btn_text>НАЧАТЬ</btn_text>
@@ -7052,6 +10397,198 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_53">
+<theme>light</theme>
+<border_color>#0080C0</border_color>
+<bg_color>#D5EAFF</bg_color>
+<base_color>#FFFFFF</base_color>
+<q_questions>
+<item>
+<question_type>choice</question_type>
+<display_question_text>yes</display_question_text>
+<text_main><![CDATA[<span style="font-family:munchkin;"><span style="line-height: 21.600000381469727px;">Количество игроков в манчкин</span></span>]]></text_main>
+<q_text_true><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Да</span>]]></q_text_true>
+<q_text_false><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Нет</span>]]></q_text_false>
+<q_elements_order>tf</q_elements_order>
+<q_elements_layout>v</q_elements_layout>
+<q_eval>true</q_eval>
+<q_variants_choice>
+<item>
+<q_right>no</q_right>
+<q_variant><![CDATA[<font face="Munchkin" size="4"><span style="line-height: 21.600000381469727px;">1-5</span></font>]]></q_variant>
+</item>
+<item>
+<q_right>yes</q_right>
+<q_variant><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">3-6</span>]]></q_variant>
+</item>
+<item>
+<q_right>no</q_right>
+<q_variant><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">2-6</span>]]></q_variant>
+</item>
+<item>
+<q_right>no</q_right>
+<q_variant><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Это соло игра</span>]]></q_variant>
+</item>
+</q_variants_choice>
+<q_shuffle_choice>yes</q_shuffle_choice>
+<q_variants_select></q_variants_select>
+<q_shuffle_select>no</q_shuffle_select>
+<q_variants_order></q_variants_order>
+<q_variants_numeric></q_variants_numeric>
+<q_var_logic_numeric>AND</q_var_logic_numeric>
+<q_variants_fib></q_variants_fib>
+<q_var_logic_fib>AND</q_var_logic_fib>
+<q_variants_oto></q_variants_oto>
+<q_attempts_type>fixed</q_attempts_type>
+<q_attempts>1</q_attempts>
+<q_scored>yes</q_scored>
+<q_scoring_type_tf>plain</q_scoring_type_tf>
+<q_scoring_type_choice>plain</q_scoring_type_choice>
+<q_weight>1.0</q_weight>
+<q_scoreboards></q_scoreboards>
+<q_timer_switch>no</q_timer_switch>
+<q_timer>10</q_timer>
+<q_fb_test>no</q_fb_test>
+<display_fb_correct>yes</display_fb_correct>
+<fb_correct><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Правильно</span>]]></fb_correct>
+<display_fb_incorrect>yes</display_fb_incorrect>
+<fb_incorrect><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Во дурак</span>]]></fb_incorrect>
+<display_fb_lastattempt>no</display_fb_lastattempt>
+<fb_lastattempt><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению, Вы ошиблись. Осталась всего одна попытка.</span>]]></fb_lastattempt>
+<display_fb_exceed>no</display_fb_exceed>
+<fb_exceed><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению Вы исчерпали все попытки, но не ввели правильный ответ</span>]]></fb_exceed>
+<display_fb_timeout>no</display_fb_timeout>
+<fb_timeout><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению время, отведенное на ответ, закончилось</span>]]></fb_timeout>
+</item>
+</q_questions>
+<test_scored>yes</test_scored>
+<randomize>no</randomize>
+<random_quantity>1</random_quantity>
+<display_goal>yes</display_goal>
+<display_type>page</display_type>
+<display_question_number>1</display_question_number>
+<adjust_height>yes</adjust_height>
+<shadow_strength>normal</shadow_strength>
+<allow_partial_answer>yes</allow_partial_answer>
+<combine_btn_next>no</combine_btn_next>
+<spot_color_switch>no</spot_color_switch>
+<spot_color>#0080C0</spot_color>
+<font_color_switch>no</font_color_switch>
+<font_color>#0080C0</font_color>
+<q_text_padding_override>no</q_text_padding_override>
+<q_text_padding>10</q_text_padding>
+<q_item_padding_override>no</q_item_padding_override>
+<q_item_padding>10</q_item_padding>
+<q_base_override>no</q_base_override>
+<q_base_width>50</q_base_width>
+<q_base_padding>10</q_base_padding>
+<test_timer_switch>no</test_timer_switch>
+<test_timer>10</test_timer>
+<test_timer_s>0</test_timer_s>
+<test_q_timer_switch>no</test_q_timer_switch>
+<repeat_test>no</repeat_test>
+<q_showright>no</q_showright>
+<q_fb_switch>yes</q_fb_switch>
+<fs_fb></fs_fb>
+<q_display_fb_correct>yes</q_display_fb_correct>
+<q_fb_correct><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">Правильно</span>]]></q_fb_correct>
+<q_fb_correct_preview>no</q_fb_correct_preview>
+<q_display_fb_incorrect>yes</q_display_fb_incorrect>
+<q_fb_incorrect><![CDATA[<span style="color:#000000; font-family:Munchkin; font-size: 18px;">Во дурак</span>]]></q_fb_incorrect>
+<q_fb_incorrect_preview>no</q_fb_incorrect_preview>
+<q_display_fb_lastattempt>no</q_display_fb_lastattempt>
+<q_fb_lastattempt><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению, Вы ошиблись. Осталась всего одна попытка.</span>]]></q_fb_lastattempt>
+<q_fb_lastattempt_preview>no</q_fb_lastattempt_preview>
+<q_display_fb_exceed>no</q_display_fb_exceed>
+<q_fb_exceed><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению Вы исчерпали все попытки, но не ввели правильный ответ</span>]]></q_fb_exceed>
+<q_fb_exceed_preview>no</q_fb_exceed_preview>
+<q_display_fb_timeout>no</q_display_fb_timeout>
+<q_fb_timeout><![CDATA[<span style="font-family: Munchkin;font-size: 18px; color: #000000;">К сожалению время, отведенное на ответ, закончилось</span>]]></q_fb_timeout>
+<q_fb_timeout_preview>no</q_fb_timeout_preview>
+<q_fb_timerswitch>no</q_fb_timerswitch>
+<q_fb_timer>3000</q_fb_timer>
+<q_fb_box_width>30</q_fb_box_width>
+<q_fb_position>no</q_fb_position>
+<q_fb_left>40</q_fb_left>
+<q_fb_top>10</q_fb_top>
+<q_fb_correct_color_bg>#E0FFE0</q_fb_correct_color_bg>
+<q_fb_correct_color_border>#006600</q_fb_correct_color_border>
+<q_fb_correct_color_close>#006600</q_fb_correct_color_close>
+<q_fb_incorrect_color_bg>#FFE0D0</q_fb_incorrect_color_bg>
+<q_fb_incorrect_color_border>#CC0000</q_fb_incorrect_color_border>
+<q_fb_incorrect_color_close>#CC0000</q_fb_incorrect_color_close>
+<q_fb_lastattempt_color_bg>#FFE0D0</q_fb_lastattempt_color_bg>
+<q_fb_lastattempt_color_border>#CC0000</q_fb_lastattempt_color_border>
+<q_fb_lastattempt_color_close>#CC0000</q_fb_lastattempt_color_close>
+<q_fb_exceed_color_bg>#FFE0D0</q_fb_exceed_color_bg>
+<q_fb_exceed_color_border>#CC0000</q_fb_exceed_color_border>
+<q_fb_exceed_color_close>#CC0000</q_fb_exceed_color_close>
+<q_fb_timeout_color_bg>#FFE0D0</q_fb_timeout_color_bg>
+<q_fb_timeout_color_border>#CC0000</q_fb_timeout_color_border>
+<q_fb_timeout_color_close>#CC0000</q_fb_timeout_color_close>
+<q_custom_btns>no</q_custom_btns>
+<fs_btns></fs_btns>
+<q_abtn_0></q_abtn_0>
+<q_abtn_1></q_abtn_1>
+<q_nbtn_0></q_nbtn_0>
+<q_nbtn_1></q_nbtn_1>
+<q_custom_spots>yes</q_custom_spots>
+<fs_spots></fs_spots>
+<q_choicespot_0></q_choicespot_0>
+<q_choicespot_1></q_choicespot_1>
+<q_selectspot_0></q_selectspot_0>
+<q_selectspot_1></q_selectspot_1>
+<q_rangespot_up_0></q_rangespot_up_0>
+<q_rangespot_up_1></q_rangespot_up_1>
+<q_rangespot_down_0></q_rangespot_down_0>
+<q_rangespot_down_1></q_rangespot_down_1>
+<strings_header>5</strings_header>
+<q_scored_msg>Оцениваемый тест</q_scored_msg>
+<q_notscored_msg>Неоцениваемый тест</q_notscored_msg>
+<string_answered>Отвечено {{1}} из {{2}}</string_answered>
+<string_question_count>Вопрос {{1}} из {{2}}</string_question_count>
+<string_test_time>Время теста {{100}} мин {{2}} сек</string_test_time>
+<string_test_time_unlimited>Время теста не ограничено</string_test_time_unlimited>
+<strings_instr>2</strings_instr>
+<q_goal_true-false>Выберите правильный вариант</q_goal_true-false>
+<q_goal_choice>Выберите правильный вариант</q_goal_choice>
+<q_goal_select>Выберите все правильные варианты</q_goal_select>
+<q_goal_order>Расположите варианты в правильном порядке</q_goal_order>
+<q_goal_numeric>Введите числовое значение</q_goal_numeric>
+<q_goal_fib>Введите строковое значение</q_goal_fib>
+<q_goal_oto>Соедините элементы справа с их парами слева</q_goal_oto>
+<q_goal_right>ПРАВИЛЬНЫЙ ОТВЕТ</q_goal_right>
+<q_goal_last>ПОСЛЕДНЕЕ СОСТОЯНИЕ ВОПРОСА</q_goal_last>
+<q_goal_skip>ВОПРОС ПРОПУЩЕН</q_goal_skip>
+<strings_footer>1</strings_footer>
+<string_question_attempts>Попытка {{1}} из {{10}}</string_question_attempts>
+<string_attempt_for_list>Ответ принимается сразу на все вопросы теста</string_attempt_for_list>
+<t_stop_msg>Тест остановлен по истечению времени</t_stop_msg>
+<t_allanswered_msg>Все вопросы отвечены. Тест закончен.</t_allanswered_msg>
+<string_question_time>Время вопроса {{1}} мин {{2}} сек</string_question_time>
+<string_question_time_unlimited>Время вопроса не ограничено</string_question_time_unlimited>
+<strings_btns>1</strings_btns>
+<string_btn_submit>ОТВЕТИТЬ</string_btn_submit>
+<string_btn_next>ДАЛЕЕ</string_btn_next>
+<strings_tooltips>1</strings_tooltips>
+<title_btn_submit>ОТВЕТИТЬ</title_btn_submit>
+<title_btn_next>ДАЛЕЕ</title_btn_next>
+<title_close_fb>Закрыть сообщение</title_close_fb>
+<strings_alerts>1</strings_alerts>
+<t_continue_alert>Вы уже начинали проходить этот тест. Прохождение будет продолжено с последнего неотвеченного вопроса.</t_continue_alert>
+<t_browse_alert>Вы уже отвечали на этот тест. Повторный проход запрещен.</t_browse_alert>
+<t_secondrun_confirm>Вы уже отвечали на этот тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
+<t_proceed_confirm>В тесте остались неотвеченные вопросы. Вернуться к их прохождению?</t_proceed_confirm>
+<q_input_alert>Пожалуйста, вводите только цифры и знаки</q_input_alert>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<sound_success>none</sound_success>
+<sound_success_file_custom></sound_success_file_custom>
+<sound_failure>none</sound_failure>
+<sound_failure_file_custom></sound_failure_file_custom>
 </param>
 </params>
 <objectives>
