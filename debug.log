@@ -53,3 +53,4 @@
 [1205/171709:INFO:CONSOLE(910)] "TypeError: Cannot read property 'length' of null", source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js (910)
 [1205/171715:ERROR:ipc_channel_win.cc(405)] pipe error: 232
 [1205/171756:ERROR:ipc_channel_win.cc(405)] pipe error: 232
+[1205/230739:ERROR:renderer_main.cc(226)] Running without renderer sandbox
