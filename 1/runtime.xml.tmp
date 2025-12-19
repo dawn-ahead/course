@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/13/2025 5:23:06 PM using CourseLab 240108 -->
+<!-- Presentation file, saved 12/19/2025 10:59:19 AM using CourseLab 240108 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -110,22 +110,17 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_11" expanded="yes" sid="8" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_11" expanded="yes" sid="8" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Базовые правила - начало" indent="0">
 <frames>
 <frame id="FRAME_12" expanded="yes" dur="0" infinite="0">
-<object id="IMG_12" expanded="yes" x="740" y="203" w="1080" h="834" z="100" display="frame" begin="0" preload="images/69ivymEcQYY.jpg">
-<data>
-<![CDATA[<img src="images/69ivymEcQYY.jpg" style="width: 1080px; height: 834px;border-width: 0px;"/>]]>
-</data>
-</object>
-<object id="TXT_17" expanded="yes" x="115" y="320" w="731" h="518" z="101" display="frame" begin="0">
+<object id="TXT_17" expanded="yes" x="223" y="320" w="731" h="518" z="100" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 731px; height: 518px; box-sizing: border-box;"><span style="font-size:48px;"><span style="font-family:munchkin;">&laquo;Манчкин&raquo; &mdash; это лихая пародия на классику ролевых игр. Здесь нет места пафосным речам, натужному героизму и оты грышу персонажа. С нами вы сможете зачистить подземелья и добраться до 10-го уровня, не отвлекаясь на всю эту роле вую шелуху!</span></span></div>]]>
 </data>
 </object>
-<object id="IMG_21" expanded="yes" x="1046" y="294" w="753" h="522" z="102" display="frame" begin="0" preload="images/hobby_world_manchkin_delyuks_139945_4.jpg">
+<object id="IMG_21" expanded="yes" x="1151" y="222" w="1151" h="764" z="101" display="frame" begin="0" preload="images/hobby_world_manchkin_delyuks_139945_4.jpg">
 <data>
-<![CDATA[<img src="images/hobby_world_manchkin_delyuks_139945_4.jpg" style="width: 753px; height: 522px;border-width: 0px;"/>]]>
+<![CDATA[<img src="images/hobby_world_manchkin_delyuks_139945_4.jpg" style="width: 1151px; height: 764px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -133,14 +128,17 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_17" expanded="yes" sid="e" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_17" expanded="yes" sid="e" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Подготовка" indent="0">
 <frames>
 <frame id="FRAME_18" expanded="yes" dur="0" infinite="0">
-<object id="TXT_18" expanded="yes" x="76" y="241" w="1052" h="681" z="100" display="frame" begin="0">
+<object id="TXT_18" expanded="yes" x="228" y="234" w="871" h="681" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1052px; height: 681px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family:munchkin;">ПОДГОТОВКА</span></span></p>
-
-<p><span style="font-size:48px;"><span style="font-family:munchkin;">В бой идут от трёх до шести манчкинов. Помимо карт и кубика, каждому из них понадобит ся 10 жетонов (монет, фишек) либо какая-нибудь штука, считающая до десяти, чтобы следить за уровнем своего персонажа. Раздели карты на колоды дверей (на рубашке дверь) и сокровищ (на рубашке гора со кровищ), перетасуй их и сдай всем игрокам по четыре карты из каждой колоды. Положи колоды посередине стола</span></span></p></div>]]>
+<![CDATA[<div style="width: 871px; height: 681px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family:munchkin;">В бой идут от трёх до шести манчкинов. Помимо карт и кубика, каждому из них понадобит ся 10 жетонов (монет, фишек) либо какая-нибудь штука, считающая до десяти, чтобы следить за уровнем своего персонажа. Раздели карты на колоды дверей (на рубашке дверь) и сокровищ (на рубашке гора со кровищ), перетасуй их и сдай всем игрокам по четыре карты из каждой колоды. Положи колоды посередине стола.</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_35" expanded="yes" x="1168" y="180" w="1208" h="832" z="101" display="frame" begin="0" preload="images/3586_piratskiy-manchkin-2-tantsy-s(1).png">
+<data>
+<![CDATA[<img src="images/3586_piratskiy-manchkin-2-tantsy-s(1).png" style="width: 1208px; height: 832px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -148,16 +146,18 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_18" expanded="yes" sid="f" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_18" expanded="yes" sid="f" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Карты, часть 1" indent="0">
 <frames>
 <frame id="FRAME_19" expanded="yes" dur="0" infinite="0">
-<object id="TXT_19" expanded="yes" x="129" y="253" w="989" h="775" z="100" display="frame" begin="0">
+<object id="TXT_19" expanded="yes" x="231" y="247" w="1101" h="775" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 989px; height: 775px; box-sizing: border-box;"><span style="font-size:36px;"><span style="color: rgb(0, 0, 0); font-family: Munchkin;">КАРТЫ<br />
-&nbsp;Карты сбрасываются лицевой стороной вверх; у дверей своя стопка сброса, у сокровищ &mdash; своя. Ты можешь просмотреть стопку сброса, только если сыгранная карта позволяет тебе сделать это. Во всех прочих случаях ты видишь только верхнюю карту каждой стопки. Когда колода закончится, перетасуй соответствующую стопку сброса и положи её на место колоды. Если пусто и в колоде, и в сбросе, значит, никто не может брать карты этого типа. Карты в игре: это карты перед тобой &mdash; твои класс, раса и шмотки. Здесь же лежат сыгранные против тебя проклятия длительного действия и некоторые другие карты. Карты в игре &mdash; это общедоступная информация, они должны быть видны всем игрокам. Рука: карты, которые ты держишь на руке, не находятся в игре. Помощи от них нет, но и лишиться их можно только из-за особых карт, влияющих непосредственно на руку. В конце своего хода ты можешь держать на руке не больше пяти карт . Карты из игры нельзя забрать на руку. Если хочешь от них избавиться &mdash; продавай, обме нивай или сбрасывай за счёт других карт. </span></span></div>]]>
+<![CDATA[<div style="width: 1101px; height: 775px; box-sizing: border-box;"><p><br />
+<span style="font-size:48px;"><span style="color: rgb(0, 0, 0); font-family: Munchkin;">&nbsp;Карты сбрасываются лицевой стороной вверх; у дверей своя стопка сброса, у сокровищ &mdash; своя. Ты можешь просмотреть стопку сброса, только если сыгранная карта позволяет тебе сделать это. Во всех прочих случаях ты видишь только верхнюю карту каждой стопки. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="color: rgb(0, 0, 0); font-family: Munchkin;">Когда колода закончится, перетасуй соответствующую стопку сброса и положи её на место колоды. Если пусто и в колоде, и в сбросе, значит, никто не может брать карты этого типа.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="IMG_22" expanded="yes" x="1164" y="340" w="783" h="365" z="101" display="frame" begin="0" preload="images/clip20251213_1.png">
+<object id="IMG_22" expanded="yes" x="1470" y="378" w="783" h="365" z="101" display="frame" begin="0" preload="images/clip20251213_1.png">
 <data>
 <![CDATA[<img src="images/clip20251213_1.png" style="width: 783px; height: 365px;border-width: 0px;"/>]]>
 </data>
@@ -167,14 +167,44 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_19" expanded="yes" sid="g" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_36" expanded="yes" sid="x" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Карты, часть 2" indent="0">
+<frames>
+<frame id="FRAME_37" expanded="yes" dur="0" infinite="0">
+<object id="TXT_37" expanded="yes" x="227" y="214" w="989" h="775" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 989px; height: 775px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family: Munchkin; font-style: normal; font-variant: normal; line-height: 43.20000076293945px;">Карты в игре: это карты перед тобой &mdash; твои класс, раса и шмотки. Здесь же лежат сыгранные против тебя проклятия длительного действия и некоторые другие карты. Карты в игре &mdash; это общедоступная информация, они должны быть видны всем игрокам. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family: Munchkin; font-style: normal; font-variant: normal; line-height: 43.20000076293945px;">Рука: карты, которые ты держишь на руке, не находятся в игре. Помощи от них нет, но и лишиться их можно только из-за особых карт, влияющих непосредственно на руку. В конце своего хода ты можешь держать на руке не больше пяти карт . </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family: Munchkin; font-style: normal; font-variant: normal; line-height: 43.20000076293945px;">Карты из игры нельзя забрать на руку. Если хочешь от них избавиться &mdash; продавай, обме нивай или сбрасывай за счёт других карт.&nbsp;</span></span><span style="font-size:48px;"><span style="color: rgb(0, 0, 0); font-family: Munchkin;"> </span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_36" expanded="yes" x="1291" y="173" w="1039" h="954" z="101" display="frame" begin="0" preload="images/10382168_15(1).png">
+<data>
+<![CDATA[<img src="images/10382168_15(1).png" style="width: 1039px; height: 954px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_19" expanded="yes" sid="g" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Противоречия между картами и правилами" indent="0">
 <frames>
 <frame id="FRAME_20" expanded="yes" dur="0" infinite="0">
-<object id="TXT_20" expanded="yes" x="386" y="224" w="1319" h="911" z="100" display="frame" begin="0">
+<object id="TXT_20" expanded="yes" x="232" y="172" w="2061" h="911" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1319px; height: 911px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">ПРОТИВОРЕЧИЯ МЕЖДУ ПРАВИЛАМИ И КАРТАМИ</span></span></p>
+<![CDATA[<div style="width: 2061px; height: 911px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">На этих страницах изложены базовые правила. Указания некоторых карт противо речат базовым правилам &mdash; и в таком случае чаще всего карта главнее правил. Однако смело игнорируй все распоряжения карты, если они противоречат одному из правил, перечисленных ниже (если только в карте не написано отдельно и недвусмысленно, что она превыше этих правил!). 1. Ничто не может опустить уровень манчкина ниже 1, хотя его боевая сила &nbsp;может быть нулевой и даже отрицательной. 2. Ты получаешь уровень после боя, только если убил монстра. 3. Ты не можешь получить награду за победу над монстром (сокровища, уровни) посреди боя. Выиграй бой, прежде чем тянуть лапы к награде. 4. Ты можешь получить 10-й уровень только за убийство монстра. Спорные ситуации разрешаются громкой перебранкой, последнее слово в которой оста ётся за владельцем игры. При желании можешь почитать сайт munchkin.sjgames.com или завязать обсуждение на forums.sjgames.com или vk.com/munchkinofficial. Но это когда спорить совсем надоест</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">На этих страницах изложены базовые правила. Указания некоторых карт противо речат базовым правилам &mdash; и в таком случае чаще всего карта главнее правил. Однако смело игнорируй все распоряжения карты, если они противоречат одному из правил, перечисленных ниже (если только в карте не написано отдельно и недвусмысленно, что она превыше этих правил!). </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">1. Ничто не может опустить уровень манчкина ниже 1, хотя его боевая сила &nbsp;может быть нулевой и даже отрицательной. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">2. Ты получаешь уровень после боя, только если убил монстра. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">3. Ты не можешь получить награду за победу над монстром (сокровища, уровни) посреди боя. Выиграй бой, прежде чем тянуть лапы к награде. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">4. Ты можешь получить 10-й уровень только за убийство монстра. Спорные ситуации разрешаются громкой перебранкой, последнее слово в которой оста ётся за владельцем игры. При желании можешь почитать сайт munchkin.sjgames.com или завязать обсуждение на forums.sjgames.com или vk.com/munchkinofficial. Но это когда спорить совсем надоест</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -182,19 +212,21 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_20" expanded="yes" sid="h" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_20" expanded="yes" sid="h" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Создание персонажа" indent="0">
 <frames>
 <frame id="FRAME_21" expanded="yes" dur="0" infinite="0">
-<object id="TXT_21" expanded="yes" x="165" y="257" w="890" h="632" z="100" display="frame" begin="0">
+<object id="TXT_21" expanded="yes" x="1438" y="200" w="969" h="837" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 890px; height: 632px; box-sizing: border-box;"><p><span style="font-size:36px;"><span style="font-family:munchkin;">СОЗДАНИЕ ПЕРСОНАЖА</span></span></p>
+<![CDATA[<div style="width: 969px; height: 837px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:36px;"><span style="font-family:munchkin;">В начале игры твой манчкин &mdash; человек 1-го уровня без класса (хе-хе-хе). Манчкины бывают мужского или женского пола. Пол твоего манчкина совпадает с твоим собственным, если только ты не объявишь, что это не так. Изучи доставшиеся тебе восемь карт. При желании можешь сыграть &mdash; выложить с руки на стол перед собой &mdash; по одной карте расы и класса и сколько угодно карт шмоток . Сомневаешься, стоит ли играть доставшуюся карту? Полистай правила в поисках ответа или наплюй на осторожность и играй.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">В начале игры твой манчкин &mdash; человек 1-го уровня без класса (хе-хе-хе). Манчкины бывают мужского или женского пола. Пол твоего манчкина совпадает с твоим собственным, если только ты не объявишь, что это не так. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Изучи доставшиеся тебе восемь карт. При желании можешь сыграть &mdash; выложить с руки на стол перед собой &mdash; по одной карте расы и класса и сколько угодно карт шмоток . Сомневаешься, стоит ли играть доставшуюся карту? Полистай правила в поисках ответа или наплюй на осторожность и играй.</span></span></p></div>]]>
 </data>
 </object>
-<object id="IMG_23" expanded="yes" x="1068" y="298" w="909" h="573" z="101" display="frame" begin="0" preload="images/clip20251213_2.png">
+<object id="IMG_23" expanded="yes" x="236" y="253" w="1138" h="702" z="101" display="frame" begin="0" preload="images/clip20251213_2.png">
 <data>
-<![CDATA[<img src="images/clip20251213_2.png" style="width: 909px; height: 573px;border-width: 0px;"/>]]>
+<![CDATA[<img src="images/clip20251213_2.png" style="width: 1138px; height: 702px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -202,32 +234,36 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_21" expanded="yes" sid="i" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_21" expanded="yes" sid="i" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Когда и что можно" indent="0">
 <frames>
 <frame id="FRAME_22" expanded="yes" dur="0" infinite="0">
-<object id="TXT_22" expanded="yes" x="483" y="176" w="1040" h="825" z="100" display="frame" begin="0">
+<object id="TXT_22" expanded="yes" x="239" y="170" w="2146" h="825" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1040px; height: 825px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">КОГДА ЧТО МОЖНО</span></span></p>
+<![CDATA[<div style="width: 2146px; height: 825px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">В любой момент игры ты можешь: &bull; сбросить класс или расу; </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">В любой момент игры ты можешь: </span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; сыграть карту &laquo;Получи уровень&raquo;; &bull; сыграть проклятие.</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сбросить класс или расу; </span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">В любой момент игры, когда ты не в бою, ты можешь:</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сыграть карту &laquo;Получи уровень&raquo;; </span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; обменяться шмотками с другим игроком (он тоже не должен быть в бою);</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сыграть проклятие.</span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; сыграть только что полученную карту (некоторые карты можно сыграть и в бою, см. выше). </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">В любой момент игры, когда ты не в бою, ты можешь:</span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">Только в свой ход ты можешь:</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; обменяться шмотками с другим игроком (он тоже не должен быть в бою);</span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; сыграть новый класс или расу (в любой момент хода); </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сыграть только что полученную карту (некоторые карты можно сыграть и в бою, см. выше). </span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; продать шмотки за уровни (в любой момент хода, кроме боя);</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Только в свой ход ты можешь:</span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; &laquo;снять&raquo; одни шмотки, &laquo;надеть&raquo; другие; </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сыграть новый класс или расу (в любой момент хода); </span></span></p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">&bull; сыграть шмотку&nbsp;</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; продать шмотки за уровни (в любой момент хода, кроме боя);</span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; &laquo;снять&raquo; одни шмотки, &laquo;надеть&raquo; другие; </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; сыграть шмотку&nbsp;</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -235,34 +271,60 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_22" expanded="yes" sid="j" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_22" expanded="yes" sid="j" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Начало игры, конец игры" indent="0">
 <frames>
 <frame id="FRAME_23" expanded="yes" dur="0" infinite="0">
-<object id="TXT_23" expanded="yes" x="175" y="209" w="1034" h="773" z="100" display="frame" begin="0">
+<object id="TXT_23" expanded="yes" x="227" y="209" w="1034" h="773" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1034px; height: 773px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family:munchkin;">НАЧАЛО ИГРЫ, КОНЕЦ ИГРЫ</span></span></p>
+<![CDATA[<div style="width: 1034px; height: 773px; box-sizing: border-box;"><p>&nbsp;</p>
 
 <p><span style="font-size:48px;"><span style="font-family:munchkin;">Решите, кто будет ходить первым, любым удобным для всех способом. Можете бросить ку бик, а потом долго спорить по поводу результатов броска и верного толкования этого пред ложения. Каждый ход состоит из нескольких фаз. Завершив свои действия в последней фазе, пере дай право хода соседу слева. Побеждает тот, кто первым доведёт своего манчкина до 10-го уровня&hellip; но этот уровень надо получить за убийство монстра (или с помощью карты, которая ясно и однозначно позволяет победить другим путём)</span></span></p></div>]]>
 </data>
 </object>
+<object id="IMG_37" expanded="yes" x="1487" y="225" w="720" h="720" z="101" display="frame" begin="0" preload="images/какарта.png">
+<data>
+<![CDATA[<img src="images/какарта.png" style="width: 720px; height: 720px;border-width: 0px;"/>]]>
+</data>
+</object>
 <timeline>
 </timeline>
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_23" expanded="yes" sid="k" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_23" expanded="yes" sid="k" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Фазы хода, часть 1" indent="0">
 <frames>
 <frame id="FRAME_24" expanded="yes" dur="0" infinite="0">
-<object id="TXT_24" expanded="yes" x="47" y="166" w="981" h="768" z="100" display="frame" begin="0">
+<object id="TXT_24" expanded="yes" x="229" y="174" w="1094" h="768" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 981px; height: 768px; box-sizing: border-box;"><p><span style="font-size:28px;"><span style="font-family:munchkin;">ФАЗЫ ХОДА</span></span></p>
+<![CDATA[<div style="width: 1094px; height: 768px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family:munchkin;">Твой ход начинается сразу же, как заканчивается ход предыдущего игрока. В начале своего хода ты можешь играть карты, &laquo;снимать&raquo; и &laquo;надевать&raquo; шмотки, меняться шмотками с други ми игроками и продавать шмотки за уровни. Когда сделаешь со своими картами всё, что хотел, переходи к 1-й фазе. </span></span></p>
 
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">Твой ход начинается сразу же, как заканчивается ход предыдущего игрока. В начале своего хода ты можешь играть карты, &laquo;снимать&raquo; и &laquo;надевать&raquo; шмотки, меняться шмотками с други ми игроками и продавать шмотки за уровни. Когда сделаешь со своими картами всё, что хотел, переходи к 1-й фазе. 1) Вышибаем дверь! Вскрой верхнюю дверь из колоды. Если это монстр, ты должен с ним биться. Если ты вскрыл карту проклятия , оно тут же действует на твоего манчкина (если может) и сбрасывается (или остаётся лежать перед тобой, если у него длительный эффект). Если вышла любая другая карта, можешь тут же сыграть её или взять на руку. 2) Ищем неприятности / Чистим нычки: если в фазе 1 ты встретил монстра, пропусти эту фазу и переходи к фазе 3. Если ты, выбив дверь, НЕ встретил монстра, у тебя на выбор 2 варианта: искать непри ятности или чистить нычки. Ищи неприятности: сыграй с руки карту монстра и подерись с ним по обычным пра вилам, как если бы ты обнаружил его за дверью. Не выпускай врага, с которым не в силах совладать, если не уверен, что тебе помогут . Чисть нычки: возьми вторую карту двери из колоды на руку, не показывая соперникам. 3) От щедрот: если у тебя на руке больше пяти карт, либо сыграй лишние карты, либо отдай излишки персонажу с наименьшим уровнем. Если статус самого слабого манчкина оспа ривают несколько игроков, раздели карты между ними настолько ровно, насколько получится. Сам выбери, кто получит больше карт, если поровну раздать не получается. Если твой манчкин самый низкоуровневый (или один из таких), просто сбрось лишние карты. Как только твоя щедрость иссякла, сразу же начинается ход другого игрока</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">1) Вышибаем дверь! Вскрой верхнюю дверь из колоды. Если это монстр, ты должен с ним биться. Если ты вскрыл карту проклятия , оно тут же действует на твоего манчкина (если может) и сбрасывается (или остаётся лежать перед тобой, если у него длительный эффект). Если вышла любая другая карта, можешь тут же сыграть её или взять на руку. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
-<object id="IMG_24" expanded="yes" x="1050" y="182" w="916" h="685" z="101" display="frame" begin="0" preload="images/clip20251213_3.png">
+<object id="OBJ_54" expanded="yes" x="1419" y="245" w="985" h="588" z="101" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<img src="images/clip20251213_3.png" style="width: 916px; height: 685px;border-width: 0px;"/>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_54 .cl-container"><span class="rule-static">width: 985px; height: 588px;</span></div><div class="rule" data-name="#OBJ_54 .cl-box"><span class="rule-static">width: 985px; height: 588px; background-color: #969696;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_54 .cl-box img"><span class="rule-static">width: 985px; height: 588px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_54 .cl-magnify-svg"><span class="rule-static">fill: #FF9900;</span></div><div class="rule" data-name="#OBJ_54_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #969696;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_54_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; width: inherit; height: inherit; background-repeat: no-repeat; background-size: contain; background-position: center center;</span></div><div class="rule" data-name="#OBJ_54_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_54_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #FF9900;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/__2025-12-19_013731.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_54_ZOOM" class="cl-zoom" ><div id="OBJ_54_ZOOM_IMGDIV" class="cl-zoom-box cl-close-on-img" style="background-image: url(images/__2025-12-19_013731.png);" title="Нажмите здесь, чтобы закрыть картинку" /><div id="OBJ_54_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_37" expanded="yes" sid="y" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Фазы хода, часть 2" indent="0">
+<frames>
+<frame id="FRAME_38" expanded="yes" dur="0" infinite="0">
+<object id="TXT_38" expanded="yes" x="229" y="181" w="2140" h="768" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2140px; height: 768px; box-sizing: border-box;"><p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="font-size:48px;"><span style="font-family: munchkin;">2) Ищем неприятности / Чистим нычки: если в фазе 1 ты встретил монстра, пропусти эту фазу и переходи к фазе 3. Если ты, выбив дверь, НЕ встретил монстра, у тебя на выбор 2 варианта: искать неприятности или чистить нычки.&nbsp;</span></span></p>
+
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;">&nbsp;</p>
+
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="font-size:48px;"><span style="font-family: munchkin;">Ищи неприятности: сыграй с руки карту монстра и подерись с ним по обычным пра вилам, как если бы ты обнаружил его за дверью. Не выпускай врага, с которым не в силах совладать, если не уверен, что тебе помогут . Чисть нычки: возьми вторую карту двери из колоды на руку, не показывая соперникам.&nbsp;</span></span></p>
+
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="font-size:48px;"><span style="font-family: munchkin;">3) От щедрот: если у тебя на руке больше пяти карт, либо сыграй лишние карты, либо отдай излишки персонажу с наименьшим уровнем. Если статус самого слабого манчкина оспа ривают несколько игроков, раздели карты между ними настолько ровно, насколько получится. Сам выбери, кто получит больше карт, если поровну раздать не получается. Если твой манчкин самый низкоуровневый (или один из таких), просто сбрось лишние карты. Как только твоя щедрость иссякла, сразу же начинается ход другого игрока</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -290,14 +352,18 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_25" expanded="yes" sid="m" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_25" expanded="yes" sid="m" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Суперманчкин и полукровка" indent="0">
 <frames>
 <frame id="FRAME_26" expanded="yes" dur="0" infinite="0">
-<object id="TXT_26" expanded="yes" x="469" y="218" w="1080" h="788" z="100" display="frame" begin="0">
+<object id="TXT_26" expanded="yes" x="238" y="208" w="2195" h="788" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1080px; height: 788px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">СУПЕРМАНЧКИН И ПОЛУКРОВКА </span></span></p>
+<![CDATA[<div style="width: 2195px; height: 788px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">Эти карты можно играть в тех же ситуациях, когда это допустимо для классов и рас, однако ты не можешь сыграть их, если не принадлежишь ни к одному классу (&laquo;Суперманчкин&raquo;) или ни к одной расе (&laquo;Полукровка&raquo;). Если ты сыграл &laquo;Суперманчкин&raquo; только с одним классом, то ты получаешь все преимущества этого класса (можешь &laquo;надевать&raquo; шмотки, годные только для этого класса, монстры со штрафами против класса по лучают эти штрафы) и не получаешь никаких недостатков (ты можешь 4 &laquo;надевать&raquo; шмотки, запрещённые для этого класса, а монстры не получают бонусы против твое го класса). Однако если классовое свойство требует какой-либо платы, тебе придётся платить по полной &mdash; всё же ты не настолько уж супер! Если же ты сыграл &laquo;Суперманчкин&raquo;, имея два класса, то ты получишь все преимущества со всеми недостатками двух этих классов. Всё вышесказанное применимо к расам и карте &laquo;Полукровка&raquo;</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Эти карты можно играть в тех же ситуациях, когда это допустимо для классов и рас, однако ты не можешь сыграть их, если не принадлежишь ни к одному классу (&laquo;Суперманчкин&raquo;) или ни к одной расе (&laquo;Полукровка&raquo;). </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если ты сыграл &laquo;Суперманчкин&raquo; только с одним классом, то ты получаешь все преимущества этого класса (можешь &laquo;надевать&raquo; шмотки, годные только для этого класса, монстры со штрафами против класса по лучают эти штрафы) и не получаешь никаких недостатков (ты можешь 4 &laquo;надевать&raquo; шмотки, запрещённые для этого класса, а монстры не получают бонусы против твое го класса). Однако если классовое свойство требует какой-либо платы, тебе придётся платить по полной &mdash; всё же ты не настолько уж супер! </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если же ты сыграл &laquo;Суперманчкин&raquo;, имея два класса, то ты получишь все преимущества со всеми недостатками двух этих классов. Всё вышесказанное применимо к расам и карте &laquo;Полукровка&raquo;</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -305,23 +371,29 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_26" expanded="yes" sid="n" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_26" expanded="yes" sid="n" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Сокровища" indent="0">
 <frames>
 <frame id="FRAME_27" expanded="yes" dur="0" infinite="0">
-<object id="TXT_27" expanded="yes" x="69" y="69" w="1127" h="1003" z="100" display="frame" begin="0">
+<object id="TXT_27" expanded="yes" x="227" y="193" w="861" h="1003" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1127px; height: 1003px; box-sizing: border-box;"><p><span style="font-family:munchkin;"><span style="font-size:26px;">СОКРОВИЩ</span></span></p>
+<![CDATA[<div style="width: 861px; height: 1003px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family:munchkin;">Сокровища бывают постоянного действия и разового применения. Если ты не находишься в бою, то можешь сыграть любую карту сокровищ при её получении или в любой момент сво его хода (если в правилах ниже или на самой карте не говорится иное). </span></span></p>
 
-<p><span style="font-family:munchkin;"><span style="font-size:26px;">А Сокровища бывают постоянного действия и разового применения. Если ты не находишься в бою, то можешь сыграть любую карту сокровищ при её получении или в любой момент сво его хода (если в правилах ниже или на самой карте не говорится иное). </span></span></p>
-
-<p><span style="font-family:munchkin;"><span style="font-size:26px;">ШМОТКИ </span></span></p>
-
-<p><span style="font-family:munchkin;"><span style="font-size:26px;">Большинство сокровищ &mdash; шмотки. Карта считается шмоткой, если у неё есть цена в голдах (если написано &laquo;Без цены&raquo;, значит, она ничего не стоит, но это всё равно шмотка). Если ты сыграл шмотку, считается, что ты её &laquo;несёшь&raquo;. Но бонус тебе приносят только &laquo;на детые&raquo; шмотки. Любые карты &laquo;ненадетых&raquo; шмоток поворачивай набок &mdash; так будет понятно, что сейчас на тебе, а что нет. Во время боя и при смывке нельзя &laquo;надевать&raquo;/&laquo;снимать&raquo; шмотки. Нести ты можешь любые шмотки в любом количестве (исключение: большие шмотки, см. ниже), но &laquo;надеть&raquo; &mdash; не больше одного головняка, одного броника, одной обувки и одной двуручной (либо двух одноручных) шмоток (если только какие-то карты не отменяют тот или иной лимит, например, это может сделать &laquo;Чит!&raquo;). Так, у тебя в игре может быть два голов няка, но &laquo;надеть&raquo; можно только один из них. Есть ограничения и у отдельных шмоток: например, палица остроты бесполезна для всех, кроме клириков. Если ты не клирик, бонуса от палицы остроты не получишь (если только не используешь &laquo;Чит!&raquo;). Нельзя просто так сбросить шмотку только потому, что захотелось левой пятке. Шмотки можно продать за уровни, обменять на чужие шмотки или отдать дру гому манчкину, если ему нужнее (см. ниже). Можно сбрасывать шмотки, чтобы активировать отдельные свойства твоих классов и рас. Также лишить тебя шмотки может проклятие или непотребство монстра. Большие шмотки: у тебя в игре может быть любое количество мелких шмоток и только одна большая (мелкой считается любая шмотка без слова &laquo;Большой&raquo;, &laquo;Большая&raquo;, &laquo;Боль шие&raquo; в левом нижнем углу карты). Нельзя просто сбросить одну большую шмотку, чтобы сыграть другую, &mdash; первую большую шмотку ты должен продать, потерять из-за проклятия или непотребства, обменять или сбросить для активации свойства класса или расы. Если что-то (например, принадлежность к расе дварфов) позволяло тебе держать в игре боль ше одной большой шмотки и ты теряешь это свойство, тебе надо либо тут же исправить ситуацию, либо избавиться от всех больших шмоток, кроме одной. Если это происходит в твой ход и не в бою, ты можешь продать лишние шмотки (их общая стоимость должна быть не ниже 1000 гол дов). Иначе тебе придётся отдать их самым низкоуровневым соперникам из тех, чей лимит боль ших шмоток ещё не исчерпан. Если и после этого остаются лишние большие шмотки, сбрось их</span></span></p></div>]]>
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
-<object id="IMG_26" expanded="yes" x="1394" y="330" w="297" h="410" z="101" display="frame" begin="0" preload="images/clip20251213_5.png">
+<object id="IMG_26" expanded="yes" x="964" y="534" w="462" h="653" z="101" display="frame" begin="0" preload="images/clip20251213_5.png">
 <data>
-<![CDATA[<img src="images/clip20251213_5.png" style="width: 297px; height: 410px;border-width: 0px;"/>]]>
+<![CDATA[<img src="images/clip20251213_5.png" style="width: 462px; height: 653px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_39" expanded="yes" x="1610" y="93" w="1000" h="738" z="102" display="frame" begin="0" preload="images/igroved_russian-munchkin-russkiy-manchkin_02.png">
+<data>
+<![CDATA[<img src="images/igroved_russian-munchkin-russkiy-manchkin_02.png" style="width: 1000px; height: 738px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_40" expanded="yes" x="1434" y="250" w="443" h="688" z="103" display="frame" begin="0" preload="images/clip20251219.png">
+<data>
+<![CDATA[<img src="images/clip20251219.png" style="width: 443px; height: 688px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -329,21 +401,57 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_27" expanded="yes" sid="o" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_38" expanded="yes" sid="z" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Шмотки, часть 1" indent="0">
 <frames>
-<frame id="FRAME_28" expanded="yes" dur="0" infinite="0">
-<object id="TXT_28" expanded="yes" x="120" y="183" w="906" h="708" z="100" display="frame" begin="0">
+<frame id="FRAME_39" expanded="yes" dur="0" infinite="0">
+<object id="TXT_39" expanded="yes" x="238" y="202" w="2214" h="1003" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 906px; height: 708px; box-sizing: border-box;"><p><span style="font-size:28px;"><span style="font-family:munchkin;">Обмен:</span></span></p>
+<![CDATA[<div style="width: 2214px; height: 1003px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">ты можешь обмениваться шмотками (но не другими картами!) с соперниками. Обмену подлежат только шмотки в игре &mdash; шмотки с руки менять нельзя. Обмениваться мож но в любой момент, когда вы оба не в бою. Лучше всего меняться не в свой ход. Все получен ные при обмене шмотки остаются в игре, и ты не можешь продать их, если сейчас не твой ход. Также ты можешь подкупать шмотками соперников: &laquo;Вот тебе мои пламенные латы, толь ко не помогай Толику дракона валить!&raquo; Ты можешь &laquo;светить&raquo; соперникам карты на руке &mdash; уж этого мы тебе запретить не в силах. </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Большинство сокровищ &mdash; шмотки. Карта считается шмоткой, если у неё есть цена в голдах (если написано &laquo;Без цены&raquo;, значит, она ничего не стоит, но это всё равно шмотка). Если ты сыграл шмотку, считается, что ты её &laquo;несёшь&raquo;. Но бонус тебе приносят только &laquo;на детые&raquo; шмотки. Любые карты &laquo;ненадетых&raquo; шмоток поворачивай набок &mdash; так будет понятно, что сейчас на тебе, а что нет. </span></span></p>
 
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">Продажа шмоток:</span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Во время боя и при смывке нельзя &laquo;надевать&raquo;/&laquo;снимать&raquo; шмотки. Нести ты можешь любые шмотки в любом количестве (исключение: большие шмотки, см. ниже), но &laquo;надеть&raquo; &mdash; не больше одного головняка, одного броника, одной обувки и одной двуручной (либо двух одноручных) шмоток (если только какие-то карты не отменяют тот или иной лимит, например, это может сделать &laquo;Чит!&raquo;). </span></span></p>
 
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">в любой момент своего хода, кроме боя или смывки, можешь сбросить шмотки общей суммой не меньше 1000 голдов, чтобы немедленно получить один уровень (шмот ки с надписью &laquo;без цены&raquo; стоят 0 голдов). Если сбрасываешь шмотки, скажем, на 1100 гол- дов, сдача тебе не положена. Но если сбросишь шмоток на 2000 голдов разом, получишь сразу два уровня. Продавать шмотки можно как из игры, так и с руки. 10-й уровень нельзя купить за шмотки.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Так, у тебя в игре может быть два голов няка, но &laquo;надеть&raquo; можно только один из них. Есть ограничения и у отдельных шмоток: например, палица остроты бесполезна для всех, кроме клириков. Если ты не клирик, бонуса от палицы остроты не получишь (если только не используешь &laquo;Чит!&raquo;).&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="IMG_27" expanded="yes" x="1144" y="299" w="736" h="464" z="101" display="frame" begin="0" preload="images/clip20251213_6.png">
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_39" expanded="yes" sid="C" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Шмотки, часть 2" indent="0">
+<frames>
+<frame id="FRAME_40" expanded="yes" dur="0" infinite="0">
+<object id="TXT_40" expanded="yes" x="238" y="183" w="2231" h="1003" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2231px; height: 1003px; box-sizing: border-box;"><p><span style="font-size:48px;"><span style="font-family: munchkin; font-style: normal; font-variant: normal; line-height: 31.200000762939453px;">Нельзя просто так сбросить шмотку только потому, что захотелось левой пятке. Шмотки можно продать за уровни, обменять на чужие шмотки или отдать дру гому манчкину, если ему нужнее (см. ниже). Можно сбрасывать шмотки, чтобы активировать отдельные свойства твоих классов и рас. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family: munchkin; font-style: normal; font-variant: normal; line-height: 31.200000762939453px;">Также лишить тебя шмотки может проклятие или непотребство монстра. Большие шмотки: у тебя в игре может быть любое количество мелких шмоток и только одна большая (мелкой считается любая шмотка без слова &laquo;Большой&raquo;, &laquo;Большая&raquo;, &laquo;Боль шие&raquo; в левом нижнем углу карты). Нельзя просто сбросить одну большую шмотку, чтобы сыграть другую, &mdash; первую большую шмотку ты должен продать, потерять из-за проклятия или непотребства, обменять или сбросить для активации свойства класса или расы. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family: munchkin; font-style: normal; font-variant: normal; line-height: 31.200000762939453px;">Если что-то (например, принадлежность к расе дварфов) позволяло тебе держать в игре боль ше одной большой шмотки и ты теряешь это свойство, тебе надо либо тут же исправить ситуацию, либо избавиться от всех больших шмоток, кроме одной. Если это происходит в твой ход и не в бою, ты можешь продать лишние шмотки (их общая стоимость должна быть не ниже 1000 гол дов). Иначе тебе придётся отдать их самым низкоуровневым соперникам из тех, чей лимит боль ших шмоток ещё не исчерпан. Если и после этого остаются лишние большие шмотки, сбрось их</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_27" expanded="yes" sid="o" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Шмотки: обмен" indent="0">
+<frames>
+<frame id="FRAME_28" expanded="yes" dur="0" infinite="0">
+<object id="TXT_28" expanded="yes" x="1083" y="214" w="1233" h="708" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1233px; height: 708px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">ты можешь обмениваться шмотками (но не другими картами!) с соперниками. Обмену подлежат только шмотки в игре &mdash; шмотки с руки менять нельзя. Обмениваться мож но в любой момент, когда вы оба не в бою. Лучше всего меняться не в свой ход. Все получен ные при обмене шмотки остаются в игре, и ты не можешь продать их, если сейчас не твой ход. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Также ты можешь подкупать шмотками соперников: &laquo;Вот тебе мои пламенные латы, толь ко не помогай Толику дракона валить!&raquo; Ты можешь &laquo;светить&raquo; соперникам карты на руке &mdash; уж этого мы тебе запретить не в силах. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
+</data>
+</object>
+<object id="IMG_27" expanded="yes" x="241" y="310" w="736" h="464" z="101" display="frame" begin="0" preload="images/clip20251213_6.png">
 <data>
 <![CDATA[<img src="images/clip20251213_6.png" style="width: 736px; height: 464px;border-width: 0px;"/>]]>
 </data>
@@ -353,23 +461,19 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_28" expanded="yes" sid="p" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_40" expanded="yes" sid="D" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Шмотки: продажа" indent="0">
 <frames>
-<frame id="FRAME_29" expanded="yes" dur="0" infinite="0">
-<object id="TXT_29" expanded="yes" x="41" y="187" w="941" h="700" z="100" display="frame" begin="0">
+<frame id="FRAME_41" expanded="yes" dur="0" infinite="0">
+<object id="TXT_41" expanded="yes" x="231" y="183" w="906" h="708" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 941px; height: 700px; box-sizing: border-box;"><p><span style="font-size:28px;"><span style="font-family:munchkin;">РАЗОВЫЕ ШМОТКИ </span></span></p>
+<![CDATA[<div style="width: 906px; height: 708px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">Разовые шмотки (как и разовые приёмы) встречаются среди карт сокровищ. Их можно при менять как с руки, так и из игры. Многие из них можно играть во время боя, чтобы усилить либо манчкинов, либо монстров. У некоторых разовых шмоток есть и другие эффекты, так что внимательнее читай, что написано на карте. В конце боя, независимо от его исхода, все разо вые карты, которые были применены в этом бою, сбрасываются. </span></span></p>
-
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">ДРУГИЕ СОКРОВИЩА </span></span></p>
-
-<p><span style="font-size:28px;"><span style="font-family:munchkin;">Прочие сокровища (такие как &laquo;Получи уровень&raquo;) не являются шмотками. На большинстве из них прямо сказано, когда их можно применить. Также на карте обычно написано, остаётся она в игре или должна быть сброшена. Особый случай: &bull; Карту &laquo;Получи уровень&raquo; можно сыграть на себя или другого манчкина в любой момент, даже в бою. Сбрось карту после применения. Исключение: нельзя сыграть &laquo;Получи уровень&raquo;, что бы добраться до 10-го, победного уровня.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">в любой момент своего хода, кроме боя или смывки, можешь сбросить шмотки общей суммой не меньше 1000 голдов, чтобы немедленно получить один уровень (шмот ки с надписью &laquo;без цены&raquo; стоят 0 голдов). Если сбрасываешь шмотки, скажем, на 1100 гол- дов, сдача тебе не положена. Но если сбросишь шмоток на 2000 голдов разом, получишь сразу два уровня. Продавать шмотки можно как из игры, так и с руки. 10-й уровень нельзя купить за шмотки.</span></span></p></div>]]>
 </data>
 </object>
-<object id="IMG_28" expanded="yes" x="985" y="228" w="984" h="484" z="101" display="frame" begin="0" preload="images/clip20251213_7.png">
+<object id="IMG_38" expanded="yes" x="1464" y="204" w="542" h="819" z="101" display="frame" begin="0" preload="images/opa kak.png">
 <data>
-<![CDATA[<img src="images/clip20251213_7.png" style="width: 984px; height: 484px;border-width: 0px;"/>]]>
+<![CDATA[<img src="images/opa kak.png" style="width: 542px; height: 819px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -377,17 +481,65 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_29" expanded="yes" sid="q" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_28" expanded="yes" sid="p" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Разовые шмотки" indent="0">
 <frames>
-<frame id="FRAME_30" expanded="yes" dur="0" infinite="0">
-<object id="TXT_30" expanded="yes" x="48" y="141" w="980" h="858" z="100" display="frame" begin="0">
+<frame id="FRAME_29" expanded="yes" dur="0" infinite="0">
+<object id="TXT_29" expanded="yes" x="208" y="189" w="793" h="788" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 980px; height: 858px; box-sizing: border-box;"><p><span style="font-size:26px;"><span style="font-family:munchkin;">БОЙ</span></span></p>
+<![CDATA[<div style="width: 793px; height: 788px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">Когда бьёшься с монстром, сравни его и свою силу. Боевая сила равна сумме уровня и модификаторов (как положительных, так и отрицательных) от шмоток и других карт. Если боевая сила монстра равна твоей или выше неё, ты проигрываешь бой и должен смываться . Если же твоя боевая сила выше силы монстра, можешь его убить и получить уровень (или два за победу над особо могучими противниками) и столько со кровищ, сколько указано на карте монстра. Иногда карта позволяет тебе избавиться от монстра, не убивая его. Это тоже победа, но уровня ты не получаешь. Иной раз тебе и сокровищ не достанется, но это зависит от карты. У монстров есть особые свойства, влияющие на расклад сил, к примеру бонусы против определённого класса, расы или пола. Не забывай их учитывать. Каждый бонус (или штраф) 6 против того или иного класса (расы или пола) учитывается только один раз, даже если в бою участвуют два манчкина, соответствующие этому условию. Во время боя и ты, и другие игроки могут применять разовые сокровища, играть проклятия и применять свойства классов и рас, чтобы помочь или помешать тебе в бою. В бою можно при менить и некоторые карты дверей, такие как усилители монстров . В ходе боя ты не можешь продавать, &laquo;надевать&raquo;, &laquo;снимать&raquo;, обменивать шмотки или играть с руки карты сокровищ, если в этих правилах или на самих картах не сказано иного. Следи за соперниками: они могут применить карты или особые свойства, чтобы изменить итог сражения. Когда побеждаешь монстра, дай соперникам шанс вмешаться &mdash; выжди некоторое приемлемое время, например 2,6 секунды. Если никто не воспользовался твоей терпеливостью, теперь ты точно убиваешь монстра, переходишь на новый уровень, полу чаешь сокровища и наслаждаешься зубовным скрежетом завистников. В любом случае по окончании боя сбрось монстра (монстров), а также все сыгранные в ходе боя усилители и разовые шмотки.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Разовые шмотки (как и разовые приёмы) встречаются среди карт сокровищ. Их можно при менять как с руки, так и из игры. Многие из них можно играть во время боя, чтобы усилить либо манчкинов, либо монстров. У некоторых разовых шмоток есть и другие эффекты, так что внимательнее читай, что написано на карте. В конце боя, независимо от его исхода, все разо вые карты, которые были применены в этом бою, сбрасываются. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
-<object id="IMG_29" expanded="yes" x="1061" y="157" w="894" h="775" z="101" display="frame" begin="0" preload="images/clip20251213_8.png">
+<object id="IMG_28" expanded="yes" x="1182" y="284" w="1120" h="551" z="101" display="frame" begin="0" preload="images/clip20251213_7.png">
+<data>
+<![CDATA[<img src="images/clip20251213_7.png" style="width: 1120px; height: 551px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_41" expanded="yes" sid="E" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Другие сокровища" indent="0">
+<frames>
+<frame id="FRAME_42" expanded="yes" dur="0" infinite="0">
+<object id="TXT_42" expanded="yes" x="1134" y="205" w="1242" h="788" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1242px; height: 788px; box-sizing: border-box;"><p style="text-align: right;">&nbsp;</p>
+
+<p style="text-align: right;"><span style="font-size:48px;"><span style="font-family:munchkin;">Прочие сокровища (такие как &laquo;Получи уровень&raquo;) не являются шмотками. На большинстве из них прямо сказано, когда их можно применить. Также на карте обычно написано, остаётся она в игре или должна быть сброшена. </span></span></p>
+
+<p style="text-align: right;"><span style="font-size:48px;"><span style="font-family:munchkin;">Особый случай: </span></span></p>
+
+<p style="text-align: right;"><span style="font-size:48px;"><span style="font-family:munchkin;">&bull; Карту &laquo;Получи уровень&raquo; можно сыграть на себя или другого манчкина в любой момент, даже в бою. Сбрось карту после применения. Исключение: нельзя сыграть &laquo;Получи уровень&raquo;, чтобы добраться до 10-го, победного уровня.</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_41" expanded="yes" x="319" y="214" w="511" h="793" z="101" display="frame" begin="0" preload="images/clip20251219_1.png">
+<data>
+<![CDATA[<img src="images/clip20251219_1.png" style="width: 511px; height: 793px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_29" expanded="yes" sid="q" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Бой, часть 1" indent="0">
+<frames>
+<frame id="FRAME_30" expanded="yes" dur="0" infinite="0">
+<object id="TXT_30" expanded="yes" x="227" y="157" w="1300" h="858" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1300px; height: 858px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Когда бьёшься с монстром, сравни его и свою силу. Боевая сила равна сумме уровня и модификаторов (как положительных, так и отрицательных) от шмоток и других карт. Если боевая сила монстра равна твоей или выше неё, ты проигрываешь бой и должен смываться . Если же твоя боевая сила выше силы монстра, можешь его убить и получить уровень (или 2&nbsp;за победу над особо могучими противниками) и столько со кровищ, сколько указано на карте монстра. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Иногда карта позволяет тебе избавиться от монстра, не убивая его. Это тоже победа, но уровня ты не получаешь. Иной раз тебе и сокровищ не достанется, но это зависит от карты. У монстров есть особые свойства, влияющие на расклад сил, к примеру бонусы против определённого класса, расы или пола. Не забывай их учитывать. </span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_29" expanded="yes" x="1543" y="200" w="894" h="775" z="101" display="frame" begin="0" preload="images/clip20251213_8.png">
 <data>
 <![CDATA[<img src="images/clip20251213_8.png" style="width: 894px; height: 775px;border-width: 0px;"/>]]>
 </data>
@@ -397,23 +549,20 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_30" expanded="yes" sid="r" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_43" expanded="yes" sid="G" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Бой, часть 2" indent="0">
 <frames>
-<frame id="FRAME_31" expanded="yes" dur="0" infinite="0">
-<object id="TXT_31" expanded="yes" x="150" y="199" w="844" h="740" z="100" display="frame" begin="0">
+<frame id="FRAME_44" expanded="yes" dur="0" infinite="0">
+<object id="TXT_44" expanded="yes" x="227" y="178" w="2222" h="858" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 844px; height: 740px; box-sizing: border-box;"><p><span style="font-size:26px;"><span style="font-family:munchkin;">МОНСТРЫ</span></span></p>
+<![CDATA[<div style="width: 2222px; height: 858px; box-sizing: border-box;"><p><span style="line-height:2.0em;"><span style="font-size:48px;"><span style="font-family:munchkin;">Каждый бонус (или штраф) 6 против того или иного класса (расы или пола) учитывается только один раз, даже если в бою участвуют 2&nbsp;манчкина, соответствующие этому условию. </span></span></span></p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">Вытянутый в открытую в фазе вышибания дверей монстр тут же атакует того, кто его побес покоил. Полученный другим путём монстр уходит на руку. Его можно сыграть в фазе поиска неприятностей своего хода или подкинуть в бой сопернику вместе с картой &laquo;Бродячая тварь&raquo; (см. &laquo;Бой с несколькими монстрами&raquo; ниже). Каждая карта монстра считается одним врагом, даже если в названии стоит множествен ное число.</span></span></p>
+<div>
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;">&nbsp;</p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">УСИЛИТЕЛИ МОНСТРОВ</span></span></p>
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="line-height:2.0em;"><span style="font-size:48px;"><span style="font-family: munchkin;">Во время боя и ты, и другие игроки могут применять разовые сокровища, играть проклятия и применять свойства классов и рас, чтобы помочь или помешать тебе в бою. В бою можно при менить и некоторые карты дверей, такие как усилители монстров . В ходе боя ты не можешь продавать, &laquo;надевать&raquo;, &laquo;снимать&raquo;, обменивать шмотки или играть с руки карты сокровищ, если в этих правилах или на самих картах не сказано иного. Следи за соперниками: они могут применить карты или особые свойства, чтобы изменить итог сражения.</span></span></span></p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">Несмотря на их название, такие карты могут не только увеличить, но и уменьшить боевую силу монстра. Также они изменяют количество сокровищ, которые ты получишь за победу над монстром. Любой игрок может применить сколько угодно усилителей монстров в любом бою. Усилители, сыгранные на одного монстра, суммируются. Если в бою участвует не один монстр, хозяин усилителя должен указать, на кого играет карту. Исключение: если на монстра сыграна карта &laquo;Гадкая парочка&raquo;, все сыгранные на него усилители влияют и на монстра, и на его &laquo;вторую половинку&raquo;. Так, если на монстра сыграть в любом порядке карты &laquo;Престарелый&raquo;, &laquo;Разъярённый&raquo; и &laquo;Гадкая парочка&raquo;, ты окажешь ся в бою против психующего монстра-пенсионера и его престарелой супруги в гневе. Удачи!</span></span></p></div>]]>
-</data>
-</object>
-<object id="IMG_30" expanded="yes" x="992" y="249" w="980" h="485" z="101" display="frame" begin="0" preload="images/clip20251213_9.png">
-<data>
-<![CDATA[<img src="images/clip20251213_9.png" style="width: 980px; height: 485px;border-width: 0px;"/>]]>
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="line-height:2.0em;"><span style="font-size:48px;"><span style="font-family: munchkin;">Когда побеждаешь монстра, дай соперникам шанс вмешаться &mdash; выжди некоторое приемлемое время, например 2,6 секунды. Если никто не воспользовался твоей терпеливостью, теперь ты точно убиваешь монстра, переходишь на новый уровень, полу чаешь сокровища и наслаждаешься зубовным скрежетом завистников. В любом случае по окончании боя сбрось монстра (монстров), а также все сыгранные в ходе боя усилители и разовые шмотки.</span></span></span></p>
+</div></div>]]>
 </data>
 </object>
 <timeline>
@@ -421,21 +570,65 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_31" expanded="yes" sid="s" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_30" expanded="yes" sid="r" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Монстры" indent="0">
 <frames>
-<frame id="FRAME_32" expanded="yes" dur="0" infinite="0">
-<object id="TXT_32" expanded="yes" x="62" y="185" w="918" h="829" z="100" display="frame" begin="0">
+<frame id="FRAME_31" expanded="yes" dur="0" infinite="0">
+<object id="TXT_31" expanded="yes" x="233" y="199" w="844" h="828" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 918px; height: 829px; box-sizing: border-box;"><p><span style="font-size:36px;"><span style="font-family:munchkin;">БОЙ С НЕСКОЛЬКИМИ МОНСТРАМИ </span></span></p>
+<![CDATA[<div style="width: 844px; height: 828px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:36px;"><span style="font-family:munchkin;">Некоторые карты (и прежде всего печально знаменитая &laquo;Бродячая тварь&raquo;) позволяют со перникам бросить против тебя в бой новых монстров. Чтобы победить в таком бою, тебе надо превзойти суммарную боевую силу всех врагов. Любые особые условия (например, требование победить монстра только уровнем) распространяются на весь бой в целом. Есть карты, позво ляющие прогнать одного монстра из боя и сразиться с остальными, но нельзя биться с одним и смываться от других. Даже если избавишься от одного врага с помощью карты, но потом смо ешься от его выжившего напарника, ты не получишь никаких уровней и сокровищ! </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Вытянутый в открытую в фазе вышибания дверей монстр тут же атакует того, кто его побес покоил. Полученный другим путём монстр уходит на руку. Его можно сыграть в фазе поиска неприятностей своего хода или подкинуть в бой сопернику вместе с картой &laquo;Бродячая тварь&raquo; (см. &laquo;Бой с несколькими монстрами&raquo; ниже). Каждая карта монстра считается одним врагом, даже если в названии стоит множествен ное число.</span></span></p>
 
-<p><span style="font-size:36px;"><span style="font-family:munchkin;">&nbsp;АНДЕДЫ </span></span></p>
-
-<p><span style="font-size:36px;"><span style="font-family:munchkin;">В этой игре есть монстры-андеды. Любого андеда можно сыграть с руки в бой, где есть дру гой андед, без помощи карты &laquo;Бродячая тварь&raquo;. Если у тебя есть карта, которая делает монстра андедом, можешь сыграть её в паре с любым монстром по этому правилу.</span></span></p></div>]]>
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
-<object id="IMG_31" expanded="yes" x="1093" y="181" w="841" h="867" z="101" display="frame" begin="0" preload="images/clip20251213_10.png">
+<object id="IMG_42" expanded="yes" x="1162" y="262" w="1214" h="601" z="101" display="frame" begin="0" preload="images/clip20251219_2.png">
+<data>
+<![CDATA[<img src="images/clip20251219_2.png" style="width: 1214px; height: 601px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_42" expanded="yes" sid="H" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Усилители монстров" indent="0">
+<frames>
+<frame id="FRAME_43" expanded="yes" dur="0" infinite="0">
+<object id="TXT_45" expanded="yes" x="150" y="199" w="1582" h="740" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1582px; height: 740px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Несмотря на их название, такие карты могут не только увеличить, но и уменьшить боевую силу монстра. Также они изменяют количество сокровищ, которые ты получишь за победу над монстром. Любой игрок может применить сколько угодно усилителей монстров в любом бою. Усилители, сыгранные на одного монстра, суммируются. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если в бою участвует не один монстр, хозяин усилителя должен указать, на кого играет карту. Исключение: если на монстра сыграна карта &laquo;Гадкая парочка&raquo;, все сыгранные на него усилители влияют и на монстра, и на его &laquo;вторую половинку&raquo;. Так, если на монстра сыграть в любом порядке карты &laquo;Престарелый&raquo;, &laquo;Разъярённый&raquo; и &laquo;Гадкая парочка&raquo;, ты окажешь ся в бою против психующего монстра-пенсионера и его престарелой супруги в гневе. Удачи!</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_43" expanded="yes" x="1828" y="208" w="478" h="712" z="101" display="frame" begin="0" preload="images/clip20251213_9.png">
+<data>
+<![CDATA[<img src="images/clip20251213_9.png" style="width: 478px; height: 712px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_31" expanded="yes" sid="s" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Бой с несколькими монстрами" indent="0">
+<frames>
+<frame id="FRAME_32" expanded="yes" dur="0" infinite="0">
+<object id="TXT_32" expanded="yes" x="213" y="183" w="1174" h="829" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1174px; height: 829px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Некоторые карты (и прежде всего печально знаменитая &laquo;Бродячая тварь&raquo;) позволяют со перникам бросить против тебя в бой новых монстров. Чтобы победить в таком бою, тебе надо превзойти суммарную боевую силу всех врагов. Любые особые условия (например, требование победить монстра только уровнем) распространяются на весь бой в целом. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Есть карты, позволяющие прогнать одного монстра из боя и сразиться с остальными, но нельзя биться с одним и смываться от других. Даже если избавишься от одного врага с помощью карты, но потом смо ешься от его выжившего напарника, ты не получишь никаких уровней и сокровищ! </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_31" expanded="yes" x="1417" y="180" w="841" h="867" z="101" display="frame" begin="0" preload="images/clip20251213_10.png">
 <data>
 <![CDATA[<img src="images/clip20251213_10.png" style="width: 841px; height: 867px;border-width: 0px;"/>]]>
 </data>
@@ -445,14 +638,19 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_32" expanded="yes" sid="t" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_47" expanded="yes" sid="L" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Андеды" indent="0">
 <frames>
-<frame id="FRAME_33" expanded="yes" dur="0" infinite="0">
-<object id="TXT_33" expanded="yes" x="495" y="43" w="1082" h="1161" z="100" display="frame" begin="0">
+<frame id="FRAME_48" expanded="yes" dur="0" infinite="0">
+<object id="TXT_49" expanded="yes" x="213" y="183" w="1221" h="829" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1082px; height: 1161px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">ЗОВЁМ НА ПОМОЩЬ </span></span></p>
+<![CDATA[<div style="width: 1221px; height: 829px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">Если ты не в силах одолеть монстра в одиночку, попробуй позвать на подмогу. О помощи можно просить любого, да не каждый откликнется. Тем не менее проси, пока все не откажут или кто нибудь не согласится. Ты вправе взять только одного помощника. Добавь его боевую силу к своей. Не забывай, что играть карты в текущий бой может любой игрок &mdash; и это помощью не считается! Помощника можно (а чаще всего &mdash; нужно) подкупать своими шмотками в игре (которые ты сможешь отдать ему после боя по правилам обмена) или обещанием доли сокровищ, кото рые есть у монстра. Если в ход пошёл второй вариант, заранее договоритесь, каким образом будете делить сокровища после победы. Кроме того, можно предложить сыграть с руки карты, которые ты можешь сыграть по правилам. Например, можно сыграть на помощника карту &laquo;Получи уровень&raquo;. Особые преимущества и уязвимости монстра распространяются на твоего помощника, и наоборот. Допустим, тебе взялся помочь воин. Его буйство поможет увеличивать боевую силу, сбрасывая карты (максимум 3 за бой, а не за каждого монстра), и победить чудовище при ни чейном исходе боя. Если тебе встретился закос под вампира и на помощь пришёл клирик, он сможет автоматически отогнать монстра. Но когда в помощниках эльф, а перед вами сочащаяся слизь, её боевая сила из-за эльфийской брезгливости увеличивается на 4 . Если тебе успешно помогли победить, сбрось монстра и бери сокровища . Не забудь выполнить особые указания с карты монстра (если они там есть). Ты получаешь уровни за каждого убитого врага, а твой помощник &mdash; нет. Карты сокровищ тя нешь ты, даже если монстр погиб из-за особых свойств твоего помощника, а затем делишь их согласно договорённости.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">В этой игре есть монстры-андеды. Любого андеда можно сыграть с руки в бой, где есть дру гой андед, без помощи карты &laquo;Бродячая тварь&raquo;. Если у тебя есть карта, которая делает монстра андедом, можешь сыграть её в паре с любым монстром по этому правилу.</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_44" expanded="yes" x="1544" y="115" w="677" h="976" z="101" display="frame" begin="0" preload="images/anded.png">
+<data>
+<![CDATA[<img src="images/anded.png" style="width: 677px; height: 976px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -460,21 +658,63 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_33" expanded="yes" sid="u" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_32" expanded="yes" sid="t" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Зовём на помощь, часть 1" indent="0">
 <frames>
-<frame id="FRAME_34" expanded="yes" dur="0" infinite="0">
-<object id="TXT_34" expanded="yes" x="35" y="162" w="1054" h="798" z="100" display="frame" begin="0">
+<frame id="FRAME_33" expanded="yes" dur="0" infinite="0">
+<object id="TXT_33" expanded="yes" x="229" y="168" w="2211" h="1161" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1054px; height: 798px; box-sizing: border-box;"><p><span style="font-size:26px;"><span style="font-family:munchkin;">НАГРАДА </span></span></p>
+<![CDATA[<div style="width: 2211px; height: 1161px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">Победив в бою, получи по уровню за каждого убитого монстра (если на карте монстра не ска зано иного) и забери сокровища всех побеждённых монстров (если какая-либо карта не гово рит иного). Внизу каждой карты монстра указано, сколько сокровищ полагается победителю. Если на монстра были сыграны усилители, сокровищ будет больше (или меньше). Если бился с врагом в одиночку, тяни карты в закрытую. Если у тебя был помощник, набирай сокровища в открытую, чтобы все видели, что тебе досталось. Если ты победил монстра, но не убил, уровня не получишь. Получишь ли сокровища &mdash; за висит от твоих методов монстроотпугивания. Карты сокровищ можно сыграть сразу же, как ты их получил, даже если ты бился не сам, а всего лишь помогал другому манчкину. </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если ты не в силах одолеть монстра в одиночку, попробуй позвать на подмогу. О помощи можно просить любого, да не каждый откликнется. Тем не менее проси, пока все не откажут или кто нибудь не согласится. </span></span></p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">СМЫВАЕМСЯ! </span></span></p>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Ты вправе взять только одного помощника. Добавь его боевую силу к своей. Не забывай, что играть карты в текущий бой может любой игрок &mdash; и это помощью не считается! Помощника можно (а чаще всего &mdash; нужно) подкупать своими шмотками в игре (которые ты сможешь отдать ему после боя по правилам обмена) или обещанием доли сокровищ, которые есть у монстра. </span></span></p>
 
-<p><span style="font-size:26px;"><span style="font-family:munchkin;">Если никто не согласился вступить в бой на твоей стороне или даже с подмогой тебе не хватает сил одолеть монстра из-за козней других манчкинов, придётся смываться. Бегство из боя не приносит ни уровней, ни сокровищ, ни шанса почистить нычки. Более того, даже успешная смывка не всегда проходит без последствий. Брось кубик. Выпадет 5 и больше &mdash; смоешься. Некоторые шмотки и свойства упрощают или затрудняют бегство. А ещё монстры бывают быстрые и медленные и могут дать тебе штраф или бонус на смывку. Догнав манчкина, монстр творит с ним указанное на карте непотребство: лишает шмоток или уровней, а то и убивает (см. &laquo;Смерть&raquo; ниже). Смываясь от нескольких врагов, делай отдельный бросок для каждого из них в любом по рядке и принимай непотребство от всех, кто тебя поймает, если только ты не умрёшь в процессе. Если в бою сражались два манчкина, смываться должны оба. У каждого свой бросок смыв ки. Монстр может поймать обоих. После того как ты разобрался со всеми бросками, можно сбросить монстра (монстров) и прочие сыгранные во время боя карты</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если в ход пошёл второй вариант, заранее договоритесь, каким образом будете делить сокровища после победы. Кроме того, можно предложить сыграть с руки карты, которые ты можешь сыграть по правилам. Например, можно сыграть на помощника карту &laquo;Получи уровень&raquo;. Особые преимущества и уязвимости монстра распространяются на твоего помощника, и наоборот. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
 </data>
 </object>
-<object id="IMG_32" expanded="yes" x="1123" y="280" w="835" h="512" z="101" display="frame" begin="0" preload="images/clip20251213_12.png">
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_44" expanded="yes" sid="I" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Зовём на помощь, часть 2" indent="0">
+<frames>
+<frame id="FRAME_45" expanded="yes" dur="0" infinite="0">
+<object id="TXT_46" expanded="yes" x="229" y="168" w="2211" h="1161" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2211px; height: 1161px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Допустим, тебе взялся помочь воин. Его буйство поможет увеличивать боевую силу, сбрасывая карты (максимум 3 за бой, а не за каждого монстра), и победить чудовище при ни чейном исходе боя. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если тебе встретился закос под вампира и на помощь пришёл клирик, он сможет автоматически отогнать монстра. Но когда в помощниках эльф, а перед вами сочащаяся слизь, её боевая сила из-за эльфийской брезгливости увеличивается на 4 . Если тебе успешно помогли победить, сбрось монстра и бери сокровища . </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Не забудь выполнить особые указания с карты монстра (если они там есть). Ты получаешь уровни за каждого убитого врага, а твой помощник &mdash; нет. Карты сокровищ тя нешь ты, даже если монстр погиб из-за особых свойств твоего помощника, а затем делишь их согласно договорённости.</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_33" expanded="yes" sid="u" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Награда" indent="0">
+<frames>
+<frame id="FRAME_34" expanded="yes" dur="0" infinite="0">
+<object id="TXT_34" expanded="yes" x="230" y="172" w="1382" h="798" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1382px; height: 798px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Победив в бою, получи по уровню за каждого убитого монстра (если на карте монстра не ска зано иного) и забери сокровища всех побеждённых монстров (если какая-либо карта не гово рит иного). Внизу каждой карты монстра указано, сколько сокровищ полагается победителю. Если на монстра были сыграны усилители, сокровищ будет больше (или меньше). </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если бился с врагом в одиночку, тяни карты в закрытую. Если у тебя был помощник, набирай сокровища в открытую, чтобы все видели, что тебе досталось. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если ты победил монстра, но не убил, уровня не получишь. Получишь ли сокровища &mdash; за висит от твоих методов монстроотпугивания. Карты сокровищ можно сыграть сразу же, как ты их получил, даже если ты бился не сам, а всего лишь помогал другому манчкину. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
+</data>
+</object>
+<object id="IMG_32" expanded="yes" x="1611" y="349" w="835" h="512" z="101" display="frame" begin="0" preload="images/clip20251213_12.png">
 <data>
 <![CDATA[<img src="images/clip20251213_12.png" style="width: 835px; height: 512px;border-width: 0px;"/>]]>
 </data>
@@ -484,14 +724,99 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_34" expanded="yes" sid="v" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Без названия" indent="0">
+<slide id="SLIDE_48" expanded="yes" sid="M" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Смываемся!" indent="0">
+<frames>
+<frame id="FRAME_49" expanded="yes" dur="0" infinite="0">
+<object id="TXT_50" expanded="yes" x="235" y="175" w="2176" h="833" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2176px; height: 833px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если никто не согласился вступить в бой на твоей стороне или даже с подмогой тебе не хватает сил одолеть монстра из-за козней других манчкинов, придётся смываться. Бегство из боя не приносит ни уровней, ни сокровищ, ни шанса почистить нычки. Более того, даже успешная смывка не всегда проходит без последствий. Брось кубик. Выпадет 5 и больше &mdash; смоешься. Некоторые шмотки и свойства упрощают или затрудняют бегство. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">А ещё монстры бывают быстрые и медленные и могут дать тебе штраф или бонус на смывку. Догнав манчкина, монстр творит с ним указанное на карте непотребство: лишает шмоток или уровней, а то и убивает (см. &laquo;Смерть&raquo; ниже). Смываясь от нескольких врагов, делай отдельный бросок для каждого из них в любом по рядке и принимай непотребство от всех, кто тебя поймает, если только ты не умрёшь в процессе. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если в бою сражались два манчкина, смываться должны оба. У каждого свой бросок смыв ки. Монстр может поймать обоих. После того как ты разобрался со всеми бросками, можно сбросить монстра (монстров) и прочие сыгранные во время боя карты</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_34" expanded="yes" sid="v" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Смерть, часть 1" indent="0">
 <frames>
 <frame id="FRAME_35" expanded="yes" dur="0" infinite="0">
-<object id="TXT_35" expanded="yes" x="524" y="71" w="1041" h="1030" z="100" display="frame" begin="0">
+<object id="TXT_35" expanded="yes" x="230" y="182" w="2219" h="1030" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 1041px; height: 1030px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">СМЕРТЬ</span></span></p>
+<![CDATA[<div style="width: 2219px; height: 1030px; box-sizing: border-box;"><p>&nbsp;</p>
 
-<p style="text-align: center;"><span style="font-size:36px;"><span style="font-family:munchkin;">Умерев, манчкин теряет всё имущество, но сохраняет свой уровень, класс (классы), расу (расы), карты &laquo;Суперманчкин&raquo; и &laquo;Полукровка&raquo;, карты, на которых сказано, что они остаются после смерти, а также все проклятия, которые действовали на него в момент смерти, &mdash; твой новый персонаж не отличается от погибшего, кроме экипировки. Как только ты умер, тебе уже не нуж но смываться от других монстров в бою (если таковые были). Мародёрство: выложи все карты с руки рядом со шмотками и прочими картами павшего манчкина (кроме тех карт, которые перечислены выше и должны остаться). Если у тебя были какие-то соединённые карты, например шмотка с &laquo;Читом!&raquo;, эти карты разъединяются. Каж дый соперник берёт на руку по одной из этих карт на свой вкус, начиная с хозяина самого высо коуровневого персонажа (спорные ситуации разрешаются броском кубика). Если кому-то карт не хватит, ничего не попишешь. Когда все соперники получили по карте, остатки сбрасываются. 9 Мёртвые персонажи не могут получать карты ни по какой причине (даже от щедрот) и не растут в уровне. В начале хода следующего игрока у тебя появляется новый персонаж. Теперь ты можешь помогать другим в боях за счёт своего уровня, класса и расы... но карт у тебя нет (разве что ты получишь карты от щедрот или просто в подарок). Свой следующий ход начни с получения восьми карт, как в начале игры (по 4 из каж дой колоды). Можешь немедленно сыграть класс, расу и шмотки, затем продолжай ход по обычным правилам.</span></span></p></div>]]>
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Умерев, манчкин теряет всё имущество, но сохраняет свой уровень, класс (классы), расу (расы), карты &laquo;Суперманчкин&raquo; и &laquo;Полукровка&raquo;, карты, на которых сказано, что они остаются после смерти, а также </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">все проклятия, которые действовали на него в момент смерти, &mdash; твой новый персонаж не отличается от погибшего, кроме экипировки. Как только ты умер, тебе уже не нуж но смываться от других монстров в бою (если таковые были). </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Мародёрство: выложи все карты с руки рядом со шмотками и прочими картами павшего манчкина (кроме тех карт, которые перечислены выше и должны остаться). </span></span></p>
+
+<p>&nbsp;</p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_45" expanded="yes" sid="J" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Смерть, часть 2" indent="0">
+<frames>
+<frame id="FRAME_46" expanded="yes" dur="0" infinite="0">
+<object id="TXT_47" expanded="yes" x="230" y="182" w="2219" h="1030" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2219px; height: 1030px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Если у тебя были какие-то соединённые карты, например шмотка с &laquo;Читом!&raquo;, эти карты разъединяются. Каж дый соперник берёт на руку по одной из этих карт на свой вкус, начиная с хозяина самого высо коуровневого персонажа (спорные ситуации разрешаются броском кубика). Если кому-то карт не хватит, ничего не попишешь. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Когда все соперники получили по карте, остатки сбрасываются.&nbsp;Мёртвые персонажи не могут получать карты ни по какой причине (даже от щедрот) и не растут в уровне. В начале хода следующего игрока у тебя появляется новый персонаж. </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Теперь ты можешь помогать другим в боях за счёт своего уровня, класса и расы... но карт у тебя нет (разве что ты получишь карты от щедрот или просто в подарок). Свой следующий ход начни с получения восьми карт, как в начале игры (по 4 из каж дой колоды). Можешь немедленно сыграть класс, расу и шмотки, затем продолжай ход по обычным правилам.</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_35" expanded="yes" sid="w" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Проклятия, часть 1" indent="0">
+<frames>
+<frame id="FRAME_36" expanded="yes" dur="0" infinite="0">
+<object id="TXT_36" expanded="yes" x="217" y="145" w="1774" h="877" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1774px; height: 877px; box-sizing: border-box;"><p>&nbsp;</p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Вытянутое в открытую в фазе вышибания дверей, проклятие оказывает своё пагубное влияние на манчкина, выбившего дверь. Вытянутое в закрытую или полученное иным путём, проклятие может быть сыграно на любого игрока в любой момент партии. В любой момент, слышишь? Что может быть веселее, чем подорвать боеспособность противника в тот миг, когда он уверился в победе над монстром? </span></span></p>
+
+<p><span style="font-size:48px;"><span style="font-family:munchkin;">Сразу после того, как проклятие подействовало (или манчкин сумел его избежать), его карта уходит в сброс. Как правило. Но есть и такие проклятия, которые держатся некоторое время или оказывают отложенное воздействие. Храни такую карту при манчкине, пока не избавишь его от проклятия или оно не пройдёт само. Карты действующих на тебя проклятий, которые ты хранишь при себе таким образом, нельзя сбрасывать, чтобы активировать свойство класса или расы. </span></span></p>
+
+<p>&nbsp;</p></div>]]>
+</data>
+</object>
+<object id="IMG_33" expanded="yes" x="2029" y="316" w="420" h="576" z="101" display="frame" begin="0" preload="images/clip20251213_13.png">
+<data>
+<![CDATA[<img src="images/clip20251213_13.png" style="width: 420px; height: 576px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_46" expanded="yes" sid="K" masterid="SLIDE_10" advance="wait" transition="-1" durout="0" name="Проклятия, часть 2" indent="0">
+<frames>
+<frame id="FRAME_47" expanded="yes" dur="0" infinite="0">
+<object id="TXT_48" expanded="yes" x="217" y="185" w="2232" h="877" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 2232px; height: 877px; box-sizing: border-box;"><p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="line-height:2.0em;"><span style="font-size:48px;"><span style="font-family: munchkin;">Если в бою ты получаешь проклятие, которое действует &laquo;в твоём следующем бою&raquo;, та ким боем считается текущий! То же самое и для проклятий, действующих &laquo;в твой следующий ход&raquo;, подействовавших на тебя во время твоего хода. Если у тебя есть несколько шмоток, подходящих под действие проклятия, сам реши, какой именно вещью пожертвуешь.</span></span></span></p>
+
+<p style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal;"><span style="line-height:2.0em;"><span style="font-size:48px;"><span style="font-family: munchkin;">Если только речь не идёт о потере броника, головняка или обувки. В этих случаях придется потерять все броники, все головняки и всю обувку соответственно. Игнорируй проклятия, бьющие по шмоткам или другим картам, которых у тебя нет. Так, проклятие &laquo;Теряешь надетый броник&raquo; не будет иметь никаких последствий для манчкина, у которого и так нет броника. Бывают моменты, когда полезно сыграть проклятие или монстра на себя. Не менее полезно (иногда) ослабить монстра, с которым бьётся соперник, чтобы лишить его части сокровищ. В этом суть и дух манчкинизма. Не отказывай себе в таких приятных мелочах.</span></span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -816,7 +1141,7 @@
 </object>
 <object id="OBJ_5" expanded="yes" x="69" y="1000" w="184" h="145" z="4" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_8" expanded="yes" x="2300" y="1000" w="230" h="175" z="5" display="frame" begin="0" type="nav_0000_btn_navi">
@@ -884,7 +1209,7 @@
 </object>
 <object id="OBJ_38" expanded="yes" x="69" y="1000" w="184" h="145" z="4" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_38 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_38 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_39" expanded="yes" x="2300" y="1000" w="230" h="175" z="5" display="frame" begin="0" type="nav_0000_btn_navi">
@@ -942,7 +1267,7 @@
 </object>
 <object id="OBJ_30" expanded="yes" x="69" y="1000" w="184" h="145" z="4" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_30 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_30 .cl-btn"><span class="rule-static">width: 184px; height: 145px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/11111.png" /><img class="cl-img-over" src="images/1111111111111.png" /><img class="cl-img-disabled" src="" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_32" expanded="yes" x="221" y="50" w="700" h="50" z="5" display="frame" begin="0" type="nav_010_slidename">
@@ -2738,6 +3063,71 @@
 					}
 					return "";
 				}]]>
+</method>
+<method type="v_block_005" name="Constructor">
+<![CDATA[function Constructor(argobj)
+		{
+			var oCurObj = CLO[argobj.pid]; 
+			oCurObj.data = { bModal: (oCurObj.jxParams.find("modal").text()=="yes"), bAdjusted: false, jBox: $("#" + argobj.pid + "_ZOOM") };
+			$(oCurObj.div).find(".cl-btn, .cl-close-on-img").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleClick", oMethodArgs: { elem: this } }); });
+			oCurObj.CallMethod({ sMethod: "Adjust" });
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Adjust">
+<![CDATA[function Adjust(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var iBW = $(CL.oBoard).innerWidth();
+			var iBH = $(CL.oBoard).innerHeight();
+			oCurObj.data.jBox.css({ "width": (iBW-10) + "px", "height": (iBH-10) + "px", "left": "5px", "top": "5px" }).hide();
+			oCurObj.data.jBox.children(":first").css({ "width": (iBW-30) + "px", "height": (iBH-30) + "px", "margin": "10px" });
+			oCurObj.data.bAdjusted = true;
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="HandleClick">
+<![CDATA[function HandleClick(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			if(!oCurObj.data.bAdjusted) return false;
+			var jElem = $(argobj.elem);
+			if(jElem.hasClass("cl-btn-magnify"))
+			{
+				oCurObj.CallMethod({ sMethod: "Open" });
+			}
+			else
+			{
+				oCurObj.CallMethod({ sMethod: "Close" });
+			}
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Open">
+<![CDATA[function Open(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var jBox = $("#" + argobj.pid + "_ZOOM");
+			if(oCurObj.data.bModal)
+			{
+				CL.Modal({ bOn: true, sSrcId: argobj.pid });
+			}
+			jBox.css({ "z-index": 5001 }).appendTo(CL.oBoard).fadeIn();
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Close">
+<![CDATA[function Close(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var jBox = $("#" + argobj.pid + "_ZOOM");
+			if(oCurObj.data.bModal)
+			{
+				CL.Modal({ bOn: false, sSrcId: argobj.pid });
+			}
+			jBox.css({ "z-index": 5001 }).fadeOut("fast", function () { $(this).appendTo($(oCurObj.div).find(".cl-container")); });
+			return true;
+		}]]>
 </method>
 <method type="v_rapid_008" name="Constructor">
 <![CDATA[function Constructor(argobj)
@@ -7138,7 +7528,7 @@
 <search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_5">
-<role>nextslide</role>
+<role>prevslide</role>
 <selectedslide></selectedslide>
 <selectedframe></selectedframe>
 <fs_thisslide></fs_thisslide>
@@ -8107,7 +8497,7 @@
 <search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_38">
-<role>nextslide</role>
+<role>prevslide</role>
 <selectedslide></selectedslide>
 <selectedframe></selectedframe>
 <fs_thisslide></fs_thisslide>
@@ -8890,7 +9280,7 @@
 <search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
 </param>
 <param objectid="OBJ_30">
-<role>nextslide</role>
+<role>prevslide</role>
 <selectedslide></selectedslide>
 <selectedframe></selectedframe>
 <fs_thisslide></fs_thisslide>
@@ -10074,37 +10464,6 @@
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
 </param>
-<param objectid="OBJ_13">
-<btn_text>НАЧАТЬ</btn_text>
-<btn_type>html</btn_type>
-<fs_image></fs_image>
-<n1_img></n1_img>
-<n2_img></n2_img>
-<fs_html></fs_html>
-<content>text</content>
-<fs_bg_img></fs_bg_img>
-<bg_img_1></bg_img_1>
-<bg_img_2></bg_img_2>
-<bg_position>center</bg_position>
-<bg_type>custom</bg_type>
-<bg_color>#CAE8E6</bg_color>
-<gradient_color>#A6E1FF</gradient_color>
-<border_style>none</border_style>
-<border_color>#303473</border_color>
-<border_width>1</border_width>
-<border_radius>45</border_radius>
-<fs_text></fs_text>
-<font>custom</font>
-<font_custom></font_custom>
-<font_style>normal</font_style>
-<font_color>#366269</font_color>
-<font_size>30</font_size>
-<text_shadow_color>#FFFFFF</text_shadow_color>
-<text_shadow_strength>normal</text_shadow_strength>
-<shadow_strength>normal</shadow_strength>
-<action>go</action>
-<objectid></objectid>
-</param>
 <param objectid="OBJ_7">
 <btn_text>НАЧАТЬ</btn_text>
 <action>go</action>
@@ -10119,20 +10478,20 @@
 <bg_img_1></bg_img_1>
 <bg_img_2></bg_img_2>
 <bg_position>center</bg_position>
-<bg_type>auto</bg_type>
-<bg_color>#0080C0</bg_color>
+<bg_type>custom</bg_type>
+<bg_color>#E3F7FF</bg_color>
 <gradient_color>#A6E1FF</gradient_color>
 <border_style>solid</border_style>
 <border_color>#004080</border_color>
 <border_width>1</border_width>
-<border_radius>5</border_radius>
+<border_radius>25</border_radius>
 <shadow_strength>normal</shadow_strength>
 <fs_text></fs_text>
-<font>robotomedium</font>
-<font_custom></font_custom>
+<font>custom</font>
+<font_custom>Munchkin</font_custom>
 <font_color>#004080</font_color>
 <font_style>normal</font_style>
-<font_size>12</font_size>
+<font_size>52</font_size>
 <text_shadow_strength>normal</text_shadow_strength>
 <text_shadow_color>#FFFFFF</text_shadow_color>
 </param>
@@ -10321,6 +10680,20 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_54">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/__2025-12-19_013731.png</imagefile>
+<bg_color_profile>grey</bg_color_profile>
+<bg_color_custom>#999999</bg_color_custom>
+<button_color_profile>orange</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
 </param>
 <param objectid="OBJ_43">
 <hidden.notdefined>Картинка не выбрана</hidden.notdefined>

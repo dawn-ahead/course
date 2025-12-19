@@ -281,3 +281,6 @@
 [1213/172410:INFO:CONSOLE(910)] "TypeError: Cannot read property 'length' of null", source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js (910)
 [1213/172410:INFO:CONSOLE(910)] "TypeError: Cannot read property 'length' of null", source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js (910)
 [1213/172410:INFO:CONSOLE(910)] "TypeError: Cannot read property 'length' of null", source: file:///C:/ProgramData/WebSoft/CourseLab3/ckeditor/ckeditor.js (910)
+[1219/000949:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1219/001034:ERROR:renderer_main.cc(226)] Running without renderer sandbox
+[1219/004803:ERROR:renderer_main.cc(226)] Running without renderer sandbox
